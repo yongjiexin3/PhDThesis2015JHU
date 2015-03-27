@@ -1,0 +1,96 @@
+
+
+\documentclass[12pt,oneside,final]{thesis}
+
+\usepackage{mathtools}
+\usepackage{setspace}
+\usepackage{feynmp}
+\usepackage{rotating}
+\usepackage{cite}
+\usepackage{amsmath,amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+%\usepackage{caption}
+\usepackage{subfigure}
+\usepackage{mathrsfs}
+\usepackage{color}
+\usepackage{hyperref}
+\graphicspath{{./figs/}}
+\usepackage{fixltx2e}
+\usepackage{array}
+
+% wrapfig is fragile: use sparingly
+\usepackage{wrapfig} 
+%\usepackage{times}  % Use this for ugly fonts
+
+
+\usepackage{fancyhdr}    % Use nice looking headers along with the required footer page numbers   
+%\usepackage[hypertex]{hyperref}
+
+\newcommand{\wpr}{\ensuremath{\mathrm{W}^{\prime}}}
+\newcommand{\zpr}{\ensuremath{\mathrm{Z}^{\prime}}}
+\newcommand{\bs}{\ensuremath{\mathrm{b}^{*}}}
+\newcommand{\mum}{\ensuremath{\mathrm{\mu m}}}
+\newcommand{\mus}{\ensuremath{\mathrm{\mu s}}}
+\newcommand{\fbinv}{\ensuremath{\mathrm{fb^{-1}}}}
+\newcommand{\pbinv}{\ensuremath{\mathrm{pb^{-1}}}}
+\newcommand{\TeV}{\mathrm{TeV}}
+\newcommand{\MeV}{\mathrm{MeV}}
+\newcommand{\GeV}{\mathrm{GeV}}
+\newcommand{\ttbar}{\mathrm{t\overline{t}}}
+\newcommand{\tbbar}{\mathrm{t\overline{b}}}
+\newcommand{\pt}{\ensuremath{\mathrm{p_{T}}}}
+\newcommand{\MET}{\ensuremath{\mathrm{E_{T}^{miss}}}}
+\newcommand{\textdegrees}{\ensuremath{\mathrm{^{\circ}}}}
+
+\makeatletter
+\DeclareRobustCommand*\cal{\@fontswitch\relax\mathcal}
+\makeatother
+
+\DeclareGraphicsRule{.1}{mps}{*}{}
+%Define the header/footer style
+\pagestyle{fancy}
+\fancyhf{}
+\setlength{\headheight}{15pt}
+\lhead{\leftmark}
+\cfoot{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\fancypagestyle{plain}{% Redefine ``plain'' style for chapter boundaries
+\fancyhf{} % clear all header and footer fields
+\fancyfoot[C]{\thepage} % except the center
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}}
+
+%\tolerance=10000
+
+%\makeglossary % enable the glossary
+
+\begin{document}
+
+\title{Search for a massive resonance decaying to qV/VV/VH in hadronic final states}
+\author{Yongjie Xin}
+\degreemonth{May}
+\degreeyear{2015} 
+\dissertation
+\doctorphilosophy
+\copyrightnotice
+
+% add your chaptders, best way is to have separate TeX files for each chapter
+%\include{Preface}
+\include{Introduction}
+\include{CMSDetector}
+
+\include{} 
+
+%\include{Summary}
+%\include{Appendix}
+
+%% REFERENCES
+
+% if you use BIBTEX
+%\bibliographystyle{IEEEtran}
+%\bibliography{KnashThesis}
+
+
+
+\end{document}
