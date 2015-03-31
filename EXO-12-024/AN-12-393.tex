@@ -1,0 +1,128 @@
+% Customizable fields and text areas start with % >> below.
+% Lines starting with the comment character (%) are normally removed before release outside the collaboration, but not those comments ending lines
+
+% svn info. These are modified by svn at checkout time.
+% The last version of these macros found before the maketitle will be the one on the front page,
+% so only the main file is tracked.
+% Do not edit by hand!
+\RCS$Revision: 219447 $
+\RCS$HeadURL: svn+ssh://svn.cern.ch/reps/tdr2/notes/AN-12-393/trunk/AN-12-393.tex $
+\RCS$Id: AN-12-393.tex 219447 2013-12-04 20:46:30Z mosherso $
+%%%%%%%%%%%%% local definitions %%%%%%%%%%%%%%%%%%%%%
+% This allows for switching between one column and two column (cms@external) layouts
+% The widths should  be modified for your particular figures. You'll need additional copies if you have more than one standard figure size.
+\newlength\cmsFigWidth
+\ifthenelse{\boolean{cms@external}}{\setlength\cmsFigWidth{0.85\columnwidth}}{\setlength\cmsFigWidth{0.4\textwidth}}
+\ifthenelse{\boolean{cms@external}}{\providecommand{\cmsLeft}{top}}{\providecommand{\cmsLeft}{left}}
+\ifthenelse{\boolean{cms@external}}{\providecommand{\cmsRight}{bottom}}{\providecommand{\cmsRight}{right}}
+%%%%%%%%%%%%%%%  Title page %%%%%%%%%%%%%%%%%%%%%%%%
+\cmsNoteHeader{AN-12-393} % This is over-written in the CMS environment: useful as preprint no. for export versions
+% >> Title: please make sure that the non-TeX equivalent is in PDFTitle below
+\title{Search for heavy resonances in the W/Z-tagged dijet mass spectrum in pp collisions at 8 TeV}
+
+% >> Authors
+%Author is always "The CMS Collaboration" for PAS and papers, so author, etc, below will be ignored in those cases
+%For multiple affiliations, create an address entry for the combination
+%To mark authors as primary, use the \author* form
+\address[cern]{CERN}
+\address[uzh]{University of Zurich}
+\address[jhu]{Johns Hopkins University}
+\address[lyon]{Universite Claude Bernard-Lyon I}
+\address[suny]{University at Buffalo, The State University of New York} 
+
+\author[uzh]{Andreas Hinzmann}
+\author[jhu]{Yongjie Xin}
+\author[jhu]{Marc Osherson}
+\author[jhu]{Petar Maksimovi\'c}
+\author[suny]{Salvatore Rappoccio}
+
+\author[lyon]{Maxime Gouzevich}
+\author[cern]{Maurizio Pierini}
+\author[cern]{Alessio Bonato}
+\author[cern]{Francesco Sansanastasio}
+
+
+
+
+\input{numbers.tex}
+
+
+% >> Date
+% The date is in yyyy/mm/dd format. Today has been
+% redefined to match, but if the date needs to be fixed, please write it in this fashion.
+% For papers and PAS, \today is taken as the date the head file (this one) was last modified according to svn: see the RCS Id string above.
+% For the final version it is best to "touch" the head file to make sure it has the latest date.
+\date{\today}
+
+% >> Abstract
+% Abstract processing:
+% 1. **DO NOT use \include or \input** to include the abstract: our abstract extractor will not search through other files than this one.
+% 2. **DO NOT use %**                  to comment out sections of the abstract: the extractor will still grab those lines (and they won't be comments any longer!).
+% 3. **DO NOT use tex macros**         in the abstract: External TeX parsers used on the abstract don't understand them.
+\abstract{ We report on a search for massive resonances decaying into a quark and
+  a vector boson, qW or qZ, or a pair of vector bosons, WW, WZ, or ZZ,
+  where each vector boson decays into hadronic final states.  This
+  search has been performed on the proton-proton collision data collected
+  with the CMS experiment at the LHC in 2012 at a center-of-mass
+  energy of 8 TeV and corresponding to an integrated luminosity of
+  19.7/fb.
+  The boosted vector bosons are identified using novel jet
+  substructure identification techniques.  Excited quark resonances
+  decaying into qW (qZ) are excluded up to 3.17 TeV (2.88 TeV).  A
+  Randall-Sundrum graviton is excluded up to 1.24 TeV
+  assuming decay into WW. A heavy partner of the SM W boson W'
+  decaying into WZ is excluded in the ranges 1.00-1.23, 1.39-1.52 and 1.57-1.61 TeV.}
+
+% >> PDF Metadata
+% Do not comment out the following hypersetup lines (metadata). They will disappear in NODRAFT mode and are needed by CDS.
+% Also: make sure that the values of the metadata items are sensible and are in plain text:
+% (1) no TeX! -- for \sqrt{s} use sqrt(s) -- this will show with extra quote marks in the draft version but is okay).
+% (2) no %.
+% (3) No curly braces {}.
+\hypersetup{%
+  pdfauthor={Yongjie Xin, Andreas Hinzmann, Alexandra Carvalho,
+    Marc Osherson, Petar
+    Maksimovic, Maurizio Pierini, Alessio Bonato, Francesco
+    Sansanastasio, Salvatore Rappoccio},%
+  pdftitle={Search for heavy resonances in the W/Z-tagged dijet mass
+    spectrum in pp collisions at 8 TeV},%
+pdfsubject={CMS},%
+pdfkeywords={CMS, physics, dijet, jet substructure, resonances}}
+
+\maketitle %maketitle comes after all the front information has been supplied
+% >> Text
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Begin text %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% **DO NOT REMOVE THE BIBLIOGRAPHY** which is located before the appendix.
+%% You can take the text between here and the bibiliography as an example which you should replace with the actual text of your document.
+%% If you include other TeX files, be sure to use "\input{filename}" rather than "\input filename".
+%% The latter works for you, but our parser looks for the braces and will break when uploading the document.
+%%%%%%%%%%%%%%%
+\input{introduction.tex}
+\input{cms_detector.tex}
+\input{analysis.tex}
+\input{N-subjettiness.tex}
+\input{data_and_mc_samples.tex}
+\input{trigger.tex}
+\input{data_mc_comparisons.tex}
+\input{WtagSF.tex}
+\input{signal.tex}
+\input{systematics.tex}
+\input{statistics.tex}
+\input{results.tex}
+\input{conclusions.tex}
+
+%% **DO NOT REMOVE BIBLIOGRAPHY**
+
+\bibliography{auto_generated}   % will be created by the tdr script.
+
+%% examples of appendices. **DO NOT PUT \end{document} at the end
+%\clearpage
+
+
+\appendix
+
+\input{appendix.tex}
+\input{WtagSF-appendix.tex}
+%%% DO NOT ADD \end{document}!
+
+

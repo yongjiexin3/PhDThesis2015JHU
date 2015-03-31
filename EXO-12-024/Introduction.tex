@@ -1,6 +1,106 @@
+\chapter{EXO-12-024}
 \section{Introduction}
-\label{label:intro}
+\label{sec:introduction}
 
-\subsection{Standard Model in a nutshell}
-Standard Model (SM) is a summarization of what is known in the subatomic world and also it predicts 
-the existence of new particles.  
+Several scenarios of physics beyond the standard model predict the
+existence of resonances with masses above $1$~\TeVcc which decay into a
+quark jet and a \PW\ or \cPZ\ boson, or into a pair of \PW\ or \cPZ\
+bosons.  A vector boson emerging from such a decay is usually
+sufficiently boosted that the hadronization products from its daughter
+quarks merge into a single massive jet~\cite{Gouzevitch:2013qca}.  We
+present a search for these special dijet topologies, performed in the
+pp~collision data collected by the CMS experiment
+in 2012 at a center-of-mass energy of 8~TeV.
+
+The signal is characterized by a peak in the dijet invariant mass,
+emerging from the falling standard model background comprised mainly
+of QCD events with a dijet topology. The analysis presented here
+enhances the sensitivity to processes with jets from $\PW/\cPZ$ bosons
+by the application of techniques that can identify $\PW/\cPZ$-jets and
+suppress quark and gluon jets (``$\PW/\cPZ$-tagging'').  This search
+is an update of a previous study~\cite{ref_2011} performed on the
+7~TeV CMS data. Besides a larger dataset and an increased signal cross
+section due to a higher center-of-mass energy, this update also
+benefits from an improved $\PW/\cPZ$-tagger based on
+``N-subjettiness'' variables~\cite{Thaler:2010tr}.
+
+We consider four benchmark scenarios that would produce singly- or
+doubly-tagged events: an excited quark $\cPq^*$~\cite{ref_qstar}
+decaying into a quark and a W or Z boson; a Randall--Sundrum (RS)
+graviton \GRS decaying to WW or ZZ ~\cite{rs1}; a Bulk graviton \GBulk
+decaying to WW or ZZ~\cite{GravitonWWZZ1,GravitonWWZZ2,GravitonWWZZ3};
+and a heavy partner of the SM W boson $\PWpr$ which decays to
+WZ~\cite{ref_gauge}.  The most stringent limits on the $\cPq^*$ model
+have been set in dijet resonance searches at the LHC by considering
+inclusive all-hadronic final
+states~\cite{exo12016,ATLASexcitedPAS,Harris:2011bh}.
+The most stringent lower limit (at
+95\% CL) on the $\cPq^*$ mass to date is 3.47\TeVcc~\cite{exo12016}.
+Specific searches for the $\cPq\PW$ and $\cPq\cPZ$ final states have
+previously been reported at the
+Tevatron~\cite{CDFexcitedPAPER,D0excitedPAPER}, which exclude
+resonances decaying to $\cPq\PW$ or $\cPq\cPZ$ with masses up to 0.54
+\TeVcc, and at the LHC~\cite{ref_2011,CMSqZPAS}, which extends the
+mass exclusion of $\cPq\PW$($\cPq\cPZ$) to 2.38\TeVcc(2.15\TeVcc).
+The WW and ZZ final states have also been explored
+experimentally~\cite{CMSZZPAS2,ATLASWWPAPER,ATLASZZPAPER,CDFZZPAPER},
+setting lower limits on the \GRS and \GBulk mass as a function of the
+coupling parameter $k/\MPl$, where $k$ determines the curvature of the
+warped space and $\MPl$ is the reduced Planck mass ($\MPl \equiv
+M_\text{Pl}/\sqrt{8\pi}$).  The \GBulk and \GRS models differ in the
+fact that the \GBulk favors the decay into vector bosons rather than
+photons or fermions and favors the production of longitudinal
+polarized W or Z bosons.  For the $\PWpr$, the most stringent limits
+are reported in searches with leptonic final
+states~\cite{CMSwprimePAPER2013,ATLASwprimePAPER}, and the current
+lower limit on the $\PWpr$ mass is 2.9\TeVcc.  The limit varies by
+0.1\TeVcc, depending on the chirality of the $\PWpr$ couplings.
+Specific searches in the WZ final state have also been
+reported~\cite{CMSwprimeWZPAS,ATLASWWPAPER,ATLASwprimeWZPAS} setting a
+lower limit of 1.1\TeVcc .
+
+%\ifnpas
+%Table~\ref{table:model} summarizes some properties of these models,
+%and the published lower limits~\cite{CMSexcitedPAPER,ATLASexcitedPAPER,CMSexcitedPAS} on the mass of these 
+%models in the dijet channel are shown in the last column.
+%\begin{table}[htb]
+%\begin{center}
+%\begin{tabular}{ |l|c|r|r|r|r|r| }
+%\hline
+%Model Name & X & Color & J$^{p}$ & width/(2M) & Chan & lower limmits \\
+%\hline
+%Excited Quark & q* & Triplet & 1/2$^{+}$ &0.02 &qg& 3.2 \\
+%RS Graviton &G & Singlet& 2$^{+}$& 0.01& gg, \qq&- \\
+%Heavy W &W'& Singlet&1$^{-}$ & 0.01&\qq & 1.51\\
+%\hline
+%\end{tabular}
+%\end{center}
+%\caption{Properties of the resonance models we used and their lower limits~\cite{CMSexcitedPAPER,ATLASexcitedPAPER,CMSexcitedPAS}.}
+%\label{table:model}
+%\end{table}
+%\fi
+
+This analysis is the reload of the previous analysis EXO-11-095~\cite{ref_2011}.  
+This analysis proceeds via the following steps:
+\begin{enumerate}
+\item The search is performed in the dijet sample, using the same
+      preselection as the standard search for resonances decaying to 
+      dijets~\cite{cmsdijet}.
+
+\item We identify events with substructure: in each jet which is a candidate
+    to originate from merging of \wboson\ or \zboson\ daughter jets
+  \begin{itemize}
+  \item we require a pruned jet mass cut, and
+  \item an n-subjettiness cut
+  \end{itemize}
+
+\item After the full event selection, a potential signal would be characterized as
+    a peak in the dijet invariant mass, on top of a falling background distribution.
+
+\item We model the background distribution with a smoothly falling 
+  analytical function.
+
+\item Finally, in absense of a signal, we set the limits on the production cross section of
+  models with qW, qZ, WW, WZ and ZZ final states using the $CL_s$ approach.
+
+\end{enumerate}

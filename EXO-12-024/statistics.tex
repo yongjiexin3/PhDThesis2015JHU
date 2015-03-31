@@ -1,0 +1,31 @@
+\newpage
+\section{Limit setting procedure}
+\label{sec:statistics}
+
+For setting upper limits on the resonance production cross section
+the asymptotic approximation~\cite{AsymptCLs} of the LHC $CL_s$ method~\cite{CLs1,CLs2} is used.
+The binned likelihood, $L$, can be written as:
+\begin{equation}
+L = \prod_{i} \frac{\mu_{i}^{n_{i}} \re^{-\mu_{i}}}{n_{i}!} \ ,
+\end{equation}
+where
+\begin{equation}
+{\mu_{i}} = {\sigma}{N_{i}(S)} + {N_{i}(B)} \ ,
+\label{function}
+\end{equation}
+$n_i$ is the observed number of events in the $i^{th}$ dijet mass bin, and
+$N_i(S)$ is the expected number of events from the signal in the $i^{th}$ dijet
+mass bin, $\sigma$ scales the signal amplitude, and
+$N_i(B)$ is the expected number of events from background in the
+$i^{th}$ dijet mass bin.
+The background $N_i(B)$ is estimated as the background component
+of the best signal+background fit to the data points.
+The dominant sources of systematic uncertainties (the jet energy
+scale, the jet energy resolution, the integrated luminosity, and the
+$\PW/\cPZ$-tagging efficiency) are considered as nuisance parameters associated to log-normal priors.
+The dependence of the likelihood on their
+value is removed through profiling. The ratio of the profiled
+likelihood at a given value $\sigma^*$ over the maximum of the
+likelihood (for $0<\sigma<\sigma^*$) is used as a test statistics
+to compute the $CL_s$ value associated to $\sigma^*$. This allows to
+determine the $95\%$ conficence-level (CL) limit.

@@ -43,6 +43,38 @@
 \newcommand{\MET}{\ensuremath{\mathrm{E_{T}^{miss}}}}
 \newcommand{\textdegrees}{\ensuremath{\mathrm{^{\circ}}}}
 
+\newcommand{\PW}{W}
+\newcommand{\cPZ}{Z}
+\newcommand{\GeVcc}{GeV}
+\newcommand{\TeVcc}{TeV}
+\newcommand{\bbbar}{\mathrm{b\overline{b}}}
+\newcommand{\kt}{$k_{T}$}
+
+\newcommand{\qqbar}{{\rm q\bar{q}}}
+\newcommand{\Hbb}{H \to \bbbar}
+\newcommand{\Hww}{ H \to \PW\PW^*\to4{\rm q}}
+\newcommand{\Zqq}{\cPZ\to\qqbar}
+
+\newcommand{\Wqq}{\PW\to qq'}
+
+\newcommand{\Vqq}{\PW/\cPZ\to qq'}
+
+\newcommand{\HbbZqq}{$\Hbb,\Zqq$}
+\newcommand{\HbbWqq}{$\Hbb,\Wqq$}
+\newcommand{\HbbVqq}{$\Hbb,\Vqq$}
+\newcommand{\HwwZqq}{$\Hww,\Zqq$}
+\newcommand{\HwwWqq}{$\Hww,\Wqq$}
+\newcommand{\HwwVqq}{$\Hww,\Vqq$}
+%\newcommand{\ptk}{\ensuremath{p_{\mathrm{T},k}}\xspace}
+\newcommand{\ptk}{\ensuremath{p_{\mathrm{T},k}}}
+
+
+\newcommand{\PYTHIA}{PYTHIA}
+\newcommand{\HERWIG}{HERWIG}
+\newcommand{\MADGRAPH}{MADGRAPH}
+
+
+
 \makeatletter
 \DeclareRobustCommand*\cal{\@fontswitch\relax\mathcal}
 \makeatother
@@ -77,9 +109,22 @@
 
 % add your chaptders, best way is to have separate TeX files for each chapter
 %\include{Preface}
+%\include{pdefs}
 \include{Introduction}
 \include{CMSDetector}
 \include{EventReconstruction}
+
+\include{EXO-12-024/introduction}
+%\include{EXO-12-024/analysis}
+%\include{EXO-12-024/data_and_mc_samples}
+%\include{EXO-12-024/trigger}
+%\include{EXO-12-024/data_mc_comparisons}
+%\include{EXO-12-024/WtagSF}
+%\include{EXO-12-024/signal}
+%\include{EXO-12-024/systematics}
+%\include{EXO-12-024/statistics}
+%\include{EXO-12-024/results}
+%\include{EXO-12-024/conclusions}
 
 
 %\include{Summary}
