@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  31 MAR 2015 16:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  1 APR 2015 10:48
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -385,20 +385,20 @@ Package: wrapfig 2003/01/31  v 3.6
 (./YongjieThesis.aux)
 \openout1 = `YongjieThesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 114.
-LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -434,7 +434,7 @@ e
 Package hyperref Warning: Height of page (\paperheight) is invalid (0.0pt),
 (hyperref)                using 11in.
 
-Package hyperref Info: Link coloring OFF on input line 114.
+Package hyperref Info: Link coloring OFF on input line 121.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -443,9 +443,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count128
 )
-LaTeX Info: Redefining \ref on input line 114.
-LaTeX Info: Redefining \pageref on input line 114.
-LaTeX Info: Redefining \nameref on input line 114.
+LaTeX Info: Redefining \ref on input line 121.
+LaTeX Info: Redefining \pageref on input line 121.
+LaTeX Info: Redefining \nameref on input line 121.
 
 (./YongjieThesis.out) (./YongjieThesis.out)
 \@outlinefile=\write4
@@ -743,143 +743,19 @@ LaTeX Warning: Citation `ref_2011' on page 13 undefined on input line 83.
 LaTeX Warning: Citation `cmsdijet' on page 13 undefined on input line 88.
 
 ) [13]
-\openout2 = `EXO-12-024/signal.aux'.
+\openout2 = `EXO-12-024/conclusions.aux'.
 
- (./EXO-12-024/signal.tex
-
-LaTeX Warning: Reference `fig:taggingvariables' on page 14 undefined on input l
-ine 7.
-
-
-<EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass.pdf, id=238, 569.12625p
-t x 559.08875pt>
-File: EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass.pdf Graphic file (
-type pdf)
-
-<use EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass.pdf>
-Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass
-.pdf used on input line 24.
-(pdftex.def)             Requested size: 212.47617pt x 208.72787pt.
-
-<EXO-12-024/figs/signal-acc-eff/signal-data-qcd-Jet-Tau21.pdf, id=239, 569.1262
-5pt x 559.08875pt>
-File: EXO-12-024/figs/signal-acc-eff/signal-data-qcd-Jet-Tau21.pdf Graphic file
- (type pdf)
-
-<use EXO-12-024/figs/signal-acc-eff/signal-data-qcd-Jet-Tau21.pdf>
-Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/signal-data-qcd-Jet-Tau
-21.pdf used on input line 25.
-(pdftex.def)             Requested size: 212.47617pt x 208.72787pt.
-
-
-LaTeX Warning: Reference `fig:acceptances' on page 14 undefined on input line 4
-8.
-
-[14
+ (./EXO-12-024/conclusions.tex) [14
 
 
 ]
-<EXO-12-024/figs/signal-acc-eff/all-signal-acc-8TeV.pdf, id=245, 569.12625pt x 
-559.08875pt>
-File: EXO-12-024/figs/signal-acc-eff/all-signal-acc-8TeV.pdf Graphic file (type
- pdf)
- <use EXO-12-024/figs/signal-acc-eff/all-signal-acc-8TeV.pdf>
-Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/all-signal-acc-8TeV.pdf
- used on input line 127.
-(pdftex.def)             Requested size: 381.5877pt x 374.87756pt.
-
-<EXO-12-024/figs/signal-acc-eff/single-tagging-eff-medium.pdf, id=246, 569.1262
-5pt x 559.08875pt>
-File: EXO-12-024/figs/signal-acc-eff/single-tagging-eff-medium.pdf Graphic file
- (type pdf)
-
-<use EXO-12-024/figs/signal-acc-eff/single-tagging-eff-medium.pdf>
-Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/single-tagging-eff-medi
-um.pdf used on input line 137.
-(pdftex.def)             Requested size: 212.47617pt x 208.72787pt.
-
-<EXO-12-024/figs/signal-acc-eff/single-tagging-eff.pdf, id=247, 569.12625pt x 5
-59.08875pt>
-File: EXO-12-024/figs/signal-acc-eff/single-tagging-eff.pdf Graphic file (type 
-pdf)
- <use EXO-12-024/figs/signal-acc-eff/single-tagging-eff.pdf>
-Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/single-tagging-eff.pdf 
-used on input line 138.
-(pdftex.def)             Requested size: 212.47617pt x 208.72787pt.
-
-<EXO-12-024/figs/signal-acc-eff/double-tagging-eff-medium.pdf, id=248, 569.1262
-5pt x 559.08875pt>
-File: EXO-12-024/figs/signal-acc-eff/double-tagging-eff-medium.pdf Graphic file
- (type pdf)
-
-<use EXO-12-024/figs/signal-acc-eff/double-tagging-eff-medium.pdf>
-Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/double-tagging-eff-medi
-um.pdf used on input line 149.
-(pdftex.def)             Requested size: 212.47617pt x 208.72787pt.
-
-<EXO-12-024/figs/signal-acc-eff/double-tagging-eff.pdf, id=249, 569.12625pt x 5
-59.08875pt>
-File: EXO-12-024/figs/signal-acc-eff/double-tagging-eff.pdf Graphic file (type 
-pdf)
- <use EXO-12-024/figs/signal-acc-eff/double-tagging-eff.pdf>
-Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/double-tagging-eff.pdf 
-used on input line 150.
-(pdftex.def)             Requested size: 212.47617pt x 208.72787pt.
-
-
-LaTeX Warning: Reference `fig:singleefficiencies' on page 15 undefined on input
- line 161.
-
-
-LaTeX Warning: Reference `fig:doubleefficiencies' on page 15 undefined on input
- line 161.
-
-
-LaTeX Warning: Reference `fig:mediumsignalShapes' on page 15 undefined on input
- line 166.
-
-
-LaTeX Warning: Reference `fig:highsignalShapes' on page 15 undefined on input l
-ine 166.
-
-
-<EXO-12-024/figs/signal-acc-eff/resonance-shape-medium.pdf, id=250, 569.12625pt
- x 368.37625pt>
-File: EXO-12-024/figs/signal-acc-eff/resonance-shape-medium.pdf Graphic file (t
-ype pdf)
-
-<use EXO-12-024/figs/signal-acc-eff/resonance-shape-medium.pdf>
-Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/resonance-shape-medium.
-pdf used on input line 180.
-(pdftex.def)             Requested size: 325.215pt x 210.51062pt.
-
-<EXO-12-024/figs/signal-acc-eff/resonance-shape.pdf, id=251, 569.12625pt x 559.
-08875pt>
-File: EXO-12-024/figs/signal-acc-eff/resonance-shape.pdf Graphic file (type pdf
-)
- <use EXO-12-024/figs/signal-acc-eff/resonance-shape.pdf>
-Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/resonance-shape.pdf use
-d on input line 190.
-(pdftex.def)             Requested size: 325.215pt x 319.49434pt.
- [15 <./EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass.pdf, page is rot
-ated 90 degrees> <./EXO-12-024/figs/signal-acc-eff/signal-data-qcd-Jet-Tau21.pd
-f, page is rotated 90 degrees>] [16 <./EXO-12-024/figs/signal-acc-eff/all-signa
-l-acc-8TeV.pdf, page is rotated 90 degrees>] [17 <./EXO-12-024/figs/signal-acc-
-eff/single-tagging-eff-medium.pdf, page is rotated 90 degrees> <./EXO-12-024/fi
-gs/signal-acc-eff/single-tagging-eff.pdf, page is rotated 90 degrees> <./EXO-12
--024/figs/signal-acc-eff/double-tagging-eff-medium.pdf, page is rotated 90 degr
-ees> <./EXO-12-024/figs/signal-acc-eff/double-tagging-eff.pdf, page is rotated 
-90 degrees>]
-[18 <./EXO-12-024/figs/signal-acc-eff/resonance-shape-medium.pdf, page is rotat
-ed 90 degrees>] [19 <./EXO-12-024/figs/signal-acc-eff/resonance-shape.pdf, page
- is rotated 90 degrees>])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
- (./YongjieThesis.aux (./Introduction.aux)
-(./CMSDetector.aux) (./EventReconstruction.aux) (./EXO-12-024/introduction.aux)
-(./EXO-12-024/signal.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
+ (./YongjieThesis.aux
+(./Introduction.aux) (./CMSDetector.aux) (./EventReconstruction.aux)
+(./EXO-12-024/introduction.aux) (./EXO-12-024/conclusions.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
 
 
 Package rerunfilecheck Warning: File `YongjieThesis.out' has changed.
@@ -888,20 +764,20 @@ Package rerunfilecheck Warning: File `YongjieThesis.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `YongjieThesis.out':
 (rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  DF39842ABA051E68B7B5DB2100FD962A;749.
+(rerunfilecheck)             After:  C91E26DC1AF2EAF2EA27F063AEE2C776;733.
 
 LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 156.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
  ) 
 Here is how much of TeX's memory you used:
- 7591 strings out of 493117
- 111799 string characters out of 6135433
- 201066 words of memory out of 5000000
- 10856 multiletter control sequences out of 15000+600000
+ 7535 strings out of 493117
+ 109277 string characters out of 6135433
+ 200117 words of memory out of 5000000
+ 10819 multiletter control sequences out of 15000+600000
  11202 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  33i,13n,43p,730b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -913,10 +789,10 @@ sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 /local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
 cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
 al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on YongjieThesis.pdf (19 pages, 450720 bytes).
+Output written on YongjieThesis.pdf (14 pages, 258210 bytes).
 PDF statistics:
- 707 PDF objects out of 1000 (max. 8388607)
- 356 compressed objects within 4 object streams
- 48 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 281 PDF objects out of 1000 (max. 8388607)
+ 171 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
