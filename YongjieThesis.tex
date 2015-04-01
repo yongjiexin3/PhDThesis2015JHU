@@ -73,6 +73,18 @@
 \newcommand{\HERWIG}{HERWIG}
 \newcommand{\MADGRAPH}{MADGRAPH}
 
+\newcommand{\cPq}{q}
+
+\newcommand{\GRS}{$G_\mathrm{RS}$}
+\newcommand{\GBulk}{\ensuremath{G_\mathrm{Bulk}}}
+\newcommand{\MPl}{\ensuremath{\overline{M}_\text{Pl}}}
+
+\newcommand{\PWpr}{W'}
+
+\newcommand{\invpb}{pb$^{-1}$~}
+\newcommand{\intlumi}{19.7~fb$^{-1}$}
+
+\newcommand{\GEANTfour}{GEANT4}
 
 
 \makeatletter
@@ -93,6 +105,8 @@
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}}
 
+%\include{numbers}
+
 %\tolerance=10000
 
 %\makeglossary % enable the glossary
@@ -110,17 +124,18 @@
 % add your chaptders, best way is to have separate TeX files for each chapter
 %\include{Preface}
 %\include{pdefs}
+
 \include{Introduction}
 \include{CMSDetector}
 \include{EventReconstruction}
 
 \include{EXO-12-024/introduction}
-%\include{EXO-12-024/analysis}
+%\include{EXO-12-024/analysis} For this part, we might only need the optimization part
 %\include{EXO-12-024/data_and_mc_samples}
 %\include{EXO-12-024/trigger}
 %\include{EXO-12-024/data_mc_comparisons}
 %\include{EXO-12-024/WtagSF}
-%\include{EXO-12-024/signal}
+\include{EXO-12-024/signal}
 %\include{EXO-12-024/systematics}
 %\include{EXO-12-024/statistics}
 %\include{EXO-12-024/results}
