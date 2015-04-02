@@ -1,0 +1,175 @@
+% Customizable fields and text areas start with % >> below.
+% Lines starting with the comment character (%) are normally removed before release outside the collaboration, but not those comments ending lines
+
+% svn info. These are modified by svn at checkout time.
+% The last version of these macros found before the maketitle will be the one on the front page,
+% so only the main file is tracked.
+% Do not edit by hand!
+\Rcs$Revision: 275627 $
+\RCS$HeadURL: svn+ssh://svn.cern.ch/reps/tdr2/notes/AN-14-027/trunk/AN-14-027.tex $
+\RCS$Id: AN-14-027.tex 275627 2015-01-31 14:43:15Z yxin $
+%%%%%%%%%%%%% local definitions %%%%%%%%%%%%%%%%%%%%%
+% This allows for switching between one column and two column (cms@external) layouts
+% The widths should  be modified for your particular figures. You'll need additional copies if you have more than one standard figure size.
+\newlength\cmsFigWidth
+\ifthenelse{\boolean{cms@external}}{\setlength\cmsFigWidth{0.85\columnwidth}}{\setlength\cmsFigWidth{0.4\textwidth}}
+\ifthenelse{\boolean{cms@external}}{\providecommand{\cmsLeft}{top}}{\providecommand{\cmsLeft}{left}}
+\ifthenelse{\boolean{cms@external}}{\providecommand{\cmsRight}{bottom}}{\providecommand{\cmsRight}{right}}
+%
+%--- Our own macros:
+\newcommand\qqbar{{\rm q\bar{q}}}
+\newcommand\Hbb{\PH\to\bbbar}
+\newcommand\Hww{\PH\to\PW\PW^*\to4{\rm q}}
+\newcommand\Hzz{\PH\to\cPZ\cPZ^*\to4{\rm q}}
+\newcommand\Zqq{\cPZ\to\qqbar}
+%\newcommand\Vqq{V\to\qqbar}
+\newcommand\HbbZqq{$\Hbb,\Zqq$}
+\newcommand\HbbVqq{$\Hbb,\Vqq$}
+\newcommand\HwwZqq{$\Hww,\Zqq$}
+\newcommand\HwwVqq{$\Hww,\Vqq$}
+\newcommand\Vqq{\PW/\cPZ\to\cPaq \Pq'}
+
+
+%
+%%%%%%%%%%%%%%%  Title page %%%%%%%%%%%%%%%%%%%%%%%%
+\cmsNoteHeader{AN-14-027} % This is over-written in the CMS environment: useful as preprint no. for export versions
+% >> Title: please make sure that the non-TeX equivalent is in PDFTitle below
+%\title{Search for heavy resonances in the W/Z-tagged dijet mass spectrum in pp collisions at 8 TeV}
+%\title{Search for heavy resonances in H/W/Z-tagged dijet mass spectrum in pp collisions at 8 TeV}
+\title{Search for massive WH and ZH resonances in dijet systems containing jets tagged
+as W or Z or H boson decays in pp collisions at $\sqrt{s}= 8\TeV$}
+
+% >> Authors
+%Author is always "The CMS Collaboration" for PAS and papers, so author, etc, below will be ignored in those cases
+%For multiple affiliations, create an address entry for the combination
+%To mark authors as primary, use the \author* form
+\address[cern]{CERN}
+\address[uzh]{University of Zurich}
+\address[jhu]{Johns Hopkins University}
+\address[lyon]{Universite Claude Bernard-Lyon I}
+\address[SPRACE]{SPRACE-UNESP}
+
+\author[jhu]{Yongjie Xin}
+\author[uzh]{Andreas Hinzmann}
+\author[jhu]{Petar Maksimovi\'c}
+\author[lyon]{Maxime Gouzevich}
+\author[lyon]{Alexandra Carvalho}
+\author[cern]{Maurizio Pierini}
+\author[SPRACE]{Thiago R.F.P. Tomei}
+
+\input{numbers.tex}
+
+
+% >> Date
+% The date is in yyyy/mm/dd format. Today has been
+% redefined to match, but if the date needs to be fixed, please write it in this fashion.
+% For papers and PAS, \today is taken as the date the head file (this one) was last modified according to svn: see the RCS Id string above.
+% For the final version it is best to "touch" the head file to make sure it has the latest date.
+\date{\today}
+
+% >> Abstract
+% Abstract processing:
+% 1. **DO NOT use \include or \input** to include the abstract: our abstract extractor will not search through other files than this one.
+% 2. **DO NOT use %**                  to comment out sections of the abstract: the extractor will still grab those lines (and they won't be comments any longer!).
+% 3. **DO NOT use tex macros**         in the abstract: External TeX parsers used on the abstract don't understand them.
+\abstract{
+%  This is a search of massive resonannce decaying into Higgs and a vector boson,
+%   where each boson decays into hadronic final states.  This
+%  search has been performed on the proton-proton collision data collected
+%  with the CMS experiment at the LHC in 2012 at a center-of-mass
+%  energy of 8 TeV and corresponding to an integrated luminosity of
+%  19.7/fb.
+%  The boosted vector bosons are identified using novel jet
+%  substructure identification techniques. The Higgs bosons are identified by different 
+%  techniques with respect to different decay channels. Higgs decays to b quarks are identified by 
+%  b-tagging on the two subjets. While Higgs to WW to qqqq quarks are identified by N-subjettiness.  
+  A search for massive resonances decaying into a
+   Higgs boson (125 GeV) and a W or a Z boson is reported.
+  The analysis is
+  performed on an inclusive sample of multijet events corresponding to
+  an integrated luminosity of 19.7\fbinv,  collected in
+  proton-proton collisions at a centre-of-mass energy of 8\TeV with
+  the CMS detector at the LHC. %The Higgs bosons are identified by different 
+  %techniques with respect to different decay modes. 
+  Jets from Higgs decaying into
+  $b$-quark pairs are identified by subjets/jets $b$-tagging.
+  The search also uses jet-substructure
+  identification techniques that provide sensitivity to the presence of
+  highly boosted Higgs bosons decaying into hadronic W pairs and vector bosons
+  decaying into a pair of quarks.
+%  Limits are setting on W' and Z' bosons, decaying into one Higgs boson and 
+%  one vector boson. We exclude Z' resonances up to mass of 1.3TeV. 
+  Exclusion limits are set at a confidence level of 95\% on the production of %: 
+  Z' decaying into HZ for masses in [1.0, 1.1] TeV and [1.3, 1.5] TeV,  and
+  W' decaying into HW for masses in [1.0, 1.6] TeV.
+
+} 
+
+% >> PDF Metadata
+% Do not comment out the following hypersetup lines (metadata). They will disappear in NODRAFT mode and are needed by CDS.
+% Also: make sure that the values of the metadata items are sensible and are in plain text:
+% (1) no TeX! -- for \sqrt{s} use sqrt(s) -- this will show with extra quote marks in the draft version but is okay).
+% (2) no %.
+% (3) No curly braces {}.
+\hypersetup{%
+  pdfauthor={Andreas Hinzmann, Petar Maksimovic, Yongjie Xin},%
+  pdftitle={Search for heavy resonances in the HZ-tagged dijet mass
+    spectrum in pp collisions at 8 TeV},%
+pdfsubject={CMS},%
+pdfkeywords={CMS, physics, dijet, jet substructure, resonances}}
+
+\maketitle %maketitle comes after all the front information has been supplied
+\tableofcontents
+% >> Text
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Begin text %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% **DO NOT REMOVE THE BIBLIOGRAPHY** which is located before the appendix.
+%% You can take the text between here and the bibiliography as an example which you should replace with the actual text of your document.
+%% If you include other TeX files, be sure to use "\input{filename}" rather than "\input filename".
+%% The latter works for you, but our parser looks for the braces and will break when uploading the document.
+%%%%%%%%%%%%%%%
+%\input{to-do.tex}
+\input{introduction.tex}
+%\input{cms_detector.tex}
+%\input{HbbHwwHttHccHgg.tex}
+\input{data_and_mc_samples.tex}
+\input{trigger.tex}
+\input{analysis.tex}
+%\input{N-subjettiness.tex}
+\input{H-taggingAlgo1.tex}
+%\input{H-taggingAlgo2.tex}
+%% &&& Petar: no need for this now:  
+%% \input{data_mc_comparisons.tex}
+\input{signal.tex}
+\input{background.tex}
+\input{systematicsCombine.tex}
+%\input{systematicsHbb.tex}
+%\input{systematicsHww.tex}
+\input{statistics.tex}
+\input{resultsCombine.tex}
+\input{resultsHbb.tex}
+\input{resultsHww.tex}
+%\input{resultsHbbpassHww.tex}
+\input{conclusions.tex}
+
+%% **DO NOT REMOVE BIBLIOGRAPHY**
+
+
+%% examples of appendices. **DO NOT PUT \end{document} at the end
+%\clearpage
+
+
+\appendix
+
+\input{appendix.tex}
+%\input{WtagSF.tex}
+%\input{WtagSF-appendix.tex}
+\input{modelParam.tex}
+\input{tau42SF.tex}
+\input{CSVL-Vs-CSVM.tex}
+\input{tauNM.tex}
+\input{appHbbVeto.tex}
+%\input{HerwigPythia.tex}
+%%% DO NOT ADD \end{document}!
+
+\bibliography{auto_generated}   % will be created by the tdr script.
+

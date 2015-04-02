@@ -1,0 +1,194 @@
+\newpage
+%\section{Benchmark model for a vector triplet}
+%
+%Information about the signal models used  is in Table~\ref{table:signalModels}
+
+%\begin{table}[htbp]
+%\resizebox{\textwidth}{!}{
+%\begin{tabular}{|r|r|r|r|r|r|r|}
+%\hline
+%\multicolumn{1}{|l|}{M(GeV)} & \multicolumn{1}{l|}{width(GeV)} & \multicolumn{1}{l|}{BR(Z'$\to$WW)} & \multicolumn{1}{l|}{BR(Z'$\to$HZ ) } & \multicolumn{1}{l|}{BR(W'$\to$ZW)} & \multicolumn{1}{l|}{BR(W'$\to$HW )} & \multicolumn{1}{l|}{X-section(pb)} \\ \hline
+%800 & 32.03 & 0.4139 & 0.5672 & 0.4287 & 0.5528 & 3.17E-01 \\ 
+%900 & 32.97 & 0.4393 & 0.534 & 0.4513 & 0.5223 & 2.39E-01 \\ 
+%1000 & 34.95 & 0.4506 & 0.5176 & 0.4603 & 0.5079 & 1.65E-01 \\ 
+%1500 & 47.94 & 0.4665 & 0.4893 & 0.4709 & 0.4849 & 2.44E-02 \\ 
+%2000 & 62.2 & 0.4698 & 0.4815 & 0.4723 & 0.4791 & 4.01E-03 \\ 
+%2500 & 76.81 & 0.471 & 0.4783 & 0.4726 & 0.4767 & 7.08E-04 \\ 
+%3000 & 91.57 & 0.4716 & 0.4765 & 0.4727 & 0.4754 & 1.26E-04 \\ 
+%\hline
+%\end{tabular}
+%}
+%\caption{Summary of signal models.}
+%\label{table:signalModels}
+%\end{table}
+
+
+\section{Data and Monte Carlo samples}
+\label{sec:data_and_mc_samples}
+
+
+The data sample of proton-proton collisions at $\sqrt{s}=8$~\TeVcc was collected in 2012 and corresponds to
+an integrated luminosity of \intlumi.
+The datasets and also the certifications
+used are summarized in Table~\ref{table:dataset}. 
+The dijet sample is dominated by light flavored and gluon jets, which we denote as 
+the "QCD background".  
+%The QCD background is obtained from data by fitting an
+%analytic parameterization of the dijet invariant mass distribution.
+
+We list part of our monte carlo simulated signal(from 1 \TeVcc to 2.6 \TeVcc) 
+in 
+Table~\ref{table:Hww}. 
+Signal samples are generated exclusively of the specific 
+Higgs decay mode and W/Z decay mode. 
+Model parameters and detailed cross sections are summarized in 
+Appendix~\ref{appendix:modelParam}.
+The matrix element is calculated with Madgraph~5.1.5.11~\cite{madgraph}. 
+% in Table~\ref{table:Hbb} and 
+%Table~\ref{table:Hww}, 
+The signals of interest,
+are showered and hadronized with 
+\PYTHIA~6.426~\cite{pythia}, and \HERWIG{++} 2.5.0~\cite{herwig}, 
+using simulation of the
+CMS detector, based on \GEANTfour~\cite{refGEANT}. Tune
+Z2*~\cite{bib_tunez1}
+is used in \PYTHIA, while the version 23 tune~\cite{herwig} is used in
+\HERWIG{++}. The CTEQ61L~\cite{cteq} parton distribution functions
+(PDF) are used for \PYTHIA and the MRST2001~\cite{mrst} leading-order
+(LO) PDF for \HERWIG{++}
+%All Monte Carlo events are fully simulated and reconstructed via the Geant4-based CMS simulation
+% and reconstruction software. 
+%Information about the signal models used 
+%is in Table~\ref{table:signalModels}
+W' and Z' are generated with resonance widths
+at $\approx$4\% of the resonance mass, slightly smaller than
+the experimental resolution in $m_\mathrm{jj}$ for resonance masses
+considered in the analysis. Samples showered from
+ \PYTHIA are used in the analysis. %On the other hand, to compare
+%the effect of hadronization,  \HERWIG{++} is therefore used
+%to retrieve the difference.
+While, samples from \HERWIG{++} are used to evaluate the systematic 
+uncertainty by comparing the difference of hadronization from \PYTHIA.
+
+%All simulated samples are passed through the standard CMS event
+%reconstruction software.
+
+
+
+%\begin{table}[htbp]
+%\begin{tabular}{|r|r|r|r|r|r|r|}
+%\hline
+%\multicolumn{1}{|l|}{M(GeV)} & \multicolumn{1}{l|}{width(GeV)} & \multicolumn{1}{l|}{BR(Z'$\to$WW)} & \multicolumn{1}{l|}{BR(Z'$\to$HZ ) } & \multicolumn{1}{l|}{BR(W'$\to$ZW)} & \multicolumn{1}{l|}{BR(W'$\to$HW )} & \multicolumn{1}{l|}{X-section(pb)} \\ \hline
+%800 & 32.03 & 0.4139 & 0.5672 & 0.4287 & 0.5528 & 3.17E-01 \\ 
+%900 & 32.97 & 0.4393 & 0.534 & 0.4513 & 0.5223 & 2.39E-01 \\ 
+%1000 & 34.95 & 0.4506 & 0.5176 & 0.4603 & 0.5079 & 1.65E-01 \\ 
+%1500 & 47.94 & 0.4665 & 0.4893 & 0.4709 & 0.4849 & 2.44E-02 \\ 
+%2000 & 62.2 & 0.4698 & 0.4815 & 0.4723 & 0.4791 & 4.01E-03 \\ 
+%2500 & 76.81 & 0.471 & 0.4783 & 0.4726 & 0.4767 & 7.08E-04 \\ 
+%3000 & 91.57 & 0.4716 & 0.4765 & 0.4727 & 0.4754 & 1.26E-04 \\ 
+%\hline
+%\end{tabular}
+%\caption{Summary of signal models.}
+%\label{table:signalModels}
+%\end{table}
+
+
+
+\begin{table}[htb]
+\begin{center}
+\begin{tabular}{ |l| }
+\hline
+Dataset                                 \\
+\hline
+/Jet/Run2012A-22Jan2013-v1/AOD  \\
+/JetHT/Run2012B-22Jan2013-v1/AOD  \\
+/JetHT/Run2012C-22Jan2013-v1/AOD  \\
+/JetHT/Run2012D-22Jan2013-v1/AOD  \\
+\hline
+\end{tabular} 
+\end{center}
+\caption{Summary of 8~\TeVcc collision data used in this analysis. 
+The certification file used for these data is 
+{\tt Cert\_190456-208686\_8TeV\_22Jan2013ReReco\_Collisions12\_JSON.txt
+}.
+}
+\label{table:dataset}
+\end{table}
+
+\begin{table}[htb]
+\begin{center}
+\begin{tabular}{ |l|c|r|r| }
+\hline
+Process     & mass ($\GeVcc$) & Events & X-sec[pb] \\
+\hline
+Z' $\to$ HZ & 1000   &20000   & 8.56E-02 \\
+ & 1500   &20000              & 1.19E-02 \\
+ & 2000   &20000              & 1.93E-03 \\
+ & 2500  &20000               & 3.39E-04  \\\hline
+%W' $\to$ H(ww $\to$ qqqq)W(qq)(m=750$\GeVcc$) &Madgraph   &20000   &4.071E+01  \\
+W' $\to$ HW& 1000   &20000   &  1.71E-01  \\
+ & 1500 &20000               &  2.55E-02  \\
+ & 2000 &20000               &  4.25E-03  \\
+ & 2500  &20000              &  7.31E-04  \\
+\hline
+\end{tabular}
+\end{center}
+\caption{Examples of the simulated Monte Carlo samples used in this analysis for process
+ V' $\to$ VH. Cross sections are calculated from 
+production cross sections of V' times its BR(W' $\to$HW or Z' $\to$ HZ). 
+ These samples are generated using Madgrap5 and hadronized with Pythia6. }
+\label{table:Hww}
+\end{table}
+
+
+\iffalse
+
+\begin{table}[htb]
+\begin{center}
+\begin{tabular}{ |l|c|r|r| }
+\hline
+Process           & mass ($\GeVcc$) & Events & X-sec[pb] \\
+\hline
+Z' $\to$ H(bb)Z(qq) & 1000  &20000   & 3.45E-02 \\
+ & 1500     &20000   & 4.81E-03 \\
+ & 2000    &20000   & 7.79E-04  \\
+ & 2500    &20000   & 1.37E-04 \\\hline
+%W' $\to$ H(bb)W(qq)(m=750$\GeVcc$) &Madgraph   &20000   &4.071E+01  \\
+W' $\to$ H(bb)W(qq)& 1000  &20000   & 3.28E-02 \\
+ & 1500    &20000   & 4.61E-03 \\
+ & 2000    &20000   & 7.50E-04 \\
+ & 2500     &20000   & 1.32E-04 \\
+\hline
+\end{tabular}
+\end{center}
+\caption{Examples of the simulated Monte Carlo samples used in this analysis for process
+ Z'/W'$\to$Z/W(qq) + H(bb). Those samples was generated using Madgrap5 and hadronized with Pythia6.}
+\label{table:Hbb}
+\end{table}
+
+\begin{table}[htb]
+\begin{center}
+\begin{tabular}{ |l|c|r|r| }
+\hline
+Process     & mass ($\GeVcc$) & Events & X-sec[pb] \\
+\hline
+Z' $\to$ H(ww $\to$ qqqq)Z(qq) & 1000   &20000   & 5.88E-03 \\
+ & 1500   &20000   & 8.19E-04 \\
+ & 2000   &20000   & 1.33E-04 \\
+ & 2500  &20000   & 2.33E-05 \\\hline
+%W' $\to$ H(ww $\to$ qqqq)W(qq)(m=750$\GeVcc$) &Madgraph   &20000   &4.071E+01  \\
+W' $\to$ H(ww $\to$ qqqq)W(qq)& 1000   &20000   & 5.58E-03 \\
+ & 1500 &20000   & 7.85E-04  \\
+ & 2000 &20000   & 1.28E-04 \\
+ & 2500  &20000   & 2.24E-05 \\
+\hline
+\end{tabular}
+\end{center}
+\caption{Examples of the simulated Monte Carlo samples used in this analysis for process
+ Z'/W'$\to$Z/W(qq) + H(ww $\to$ qqqq). Those samples was generated using Madgrap5 and hadronized with Pythia6.}
+\label{table:Hww}
+\end{table}
+
+\fi
+
+

@@ -1,0 +1,67 @@
+\newpage
+\section{Limit setting procedure}
+\label{sec:statistics}
+
+
+We search for a peak on top of the falling background spectrum by
+means of a maximum likelihood fit to the data. The likelihood $\mathcal{L}$, computed using events binned as a function of $m_\mathrm{jj}$,
+is written as
+\begin{equation} \mathcal{L} = \prod_{i}
+  \frac{\lambda_{i}^{n_{i}} e^{-\lambda_{i}}}{n_{i}!},
+\end{equation}
+where ${\lambda_{i}} = {\mu}{N_{i}(S)} + {N_{i}(B)}$,
+$\mu$ is a scale factor for the signal, $N_i(S)$ is the number
+expected from the signal, and $N_i(B)$ is the number expected from
+multijet background. The parameter $n_i$ quantifies the number of
+events in the $i^\mathrm{th}$ $m_\mathrm{jj}$ mass bin.
+The background $N_i(B)$ is described by the functional form of
+Eq.~(\ref{eqParam}). While maximizing the likelihood as a function of
+the resonance mass, $\mu$ as well as the parameters of the background
+function are left floating.
+
+The asymptotic approximation~\cite{AsymptCLs} of the LHC
+$\mathrm{CL_s}$ method~\cite{CLs1,CLs3} is used to set upper limits on
+the cross sections for resonance production. The dominant sources of
+systematic uncertainties are treated as nuisance parameters associated
+with log-normal priors in those variables.
+% following the methodology
+%described in Ref.~\cite{ATLASCMSstat}. 
+For a given value of the
+signal cross section, the nuisance parameters are fixed to the values
+that maximize the likelihood, a method referred to as
+profiling. The dependence of the likelihood on parameters used to
+describe the background in Eq.~(\ref{eqParam}) is removed in the same
+manner, and no additional systematic uncertainty is therefore assigned
+to the parameterization of the background.
+
+
+
+%For setting upper limits on the resonance production cross section
+%the asymptotic approximation~\cite{AsymptCLs} of the LHC $CL_s$ method~\cite{CLs1,CLs2} is used.
+%The binned likelihood, $L$, can be written as:
+%\begin{equation}
+%L = \prod_{i} \frac{\mu_{i}^{n_{i}} \re^{-\mu_{i}}}{n_{i}!} \ ,
+%\end{equation}
+%where
+%\begin{equation}
+%{\mu_{i}} = {\sigma}{N_{i}(S)} + {N_{i}(B)} \ ,
+%\label{function}
+%\end{equation}
+%$n_i$ is the observed number of events in the $i^{th}$ dijet mass bin, and
+%$N_i(S)$ is the expected number of events from the signal in the $i^{th}$ dijet
+%mass bin, $\sigma$ scales the signal amplitude, and
+%$N_i(B)$ is the expected number of events from background in the
+%$i^{th}$ dijet mass bin.
+%The background $N_i(B)$ is estimated as the background component
+%of the best signal+background fit to the data points.
+%The dominant sources of systematic uncertainties (the jet energy
+%scale, the jet energy resolution, the integrated luminosity,
+%and the b-tagging scale factor, 
+%$H-\PW/\cPZ$-tagging efficiency) are 
+%considered as nuisance parameters associated to log-normal priors.
+%The dependence of the likelihood on their
+%value is removed through profiling. The ratio of the profiled
+%likelihood at a given value $\sigma^*$ over the maximum of the
+%likelihood (for $0<\sigma<\sigma^*$) is used as a test statistics
+%to compute the $CL_s$ value associated to $\sigma^*$. This allows to
+%determine the $95\%$ conficence-level (CL) limit.
