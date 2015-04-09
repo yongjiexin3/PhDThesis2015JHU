@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  2 APR 2015 12:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  9 APR 2015 11:18
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -385,20 +385,20 @@ Package: wrapfig 2003/01/31  v 3.6
 (./YongjieThesis.aux)
 \openout1 = `YongjieThesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 123.
-LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -434,7 +434,7 @@ e
 Package hyperref Warning: Height of page (\paperheight) is invalid (0.0pt),
 (hyperref)                using 11in.
 
-Package hyperref Info: Link coloring OFF on input line 123.
+Package hyperref Info: Link coloring OFF on input line 129.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -443,21 +443,24 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count128
 )
-LaTeX Info: Redefining \ref on input line 123.
-LaTeX Info: Redefining \pageref on input line 123.
-LaTeX Info: Redefining \nameref on input line 123.
-
-(./YongjieThesis.out) (./YongjieThesis.out)
+LaTeX Info: Redefining \ref on input line 129.
+LaTeX Info: Redefining \pageref on input line 129.
+LaTeX Info: Redefining \nameref on input line 129.
 \@outlinefile=\write4
 \openout4 = `YongjieThesis.out'.
 
 \openout2 = `Introduction.aux'.
 
- (./Introduction.tex
+
+(./Introduction.tex
 Chapter 1.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 4.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 9.
 
 ) [1
 
@@ -469,106 +472,3498 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 
 (./CMSDetector.tex
 Chapter 2.
-) [2
-
-
-
-]
-\openout2 = `EventReconstruction.aux'.
-
- (./EventReconstruction.tex
-Chapter 3.
-
-<EventSelectionFigures/Sketch_PartonParticleCaloJet.png, id=18, 1111.15125pt x 
-410.53375pt>
-File: EventSelectionFigures/Sketch_PartonParticleCaloJet.png Graphic file (type
- png)
- <use EventSelectionFigures/Sketch_PartonParticleCaloJet.png>
-Package pdftex.def Info: EventSelectionFigures/Sketch_PartonParticleCaloJet.png
- used on input line 8.
-(pdftex.def)             Requested size: 303.53267pt x 112.14229pt.
-
-[3
-
-
-
- <./EventSelectionFigures/Sketch_PartonParticleCaloJet.png>]
-
-LaTeX Warning: Citation `particleflow' on page 4 undefined on input line 18.
-
-
-LaTeX Warning: Citation `CAaachen' on page 4 undefined on input line 23.
-
-
-LaTeX Warning: Citation `CAcambridge' on page 4 undefined on input line 23.
-
-
-LaTeX Warning: Citation `fastjet1' on page 4 undefined on input line 24.
-
-
-LaTeX Warning: Citation `fastjet' on page 4 undefined on input line 24.
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 28.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 6.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-
-LaTeX Warning: Citation `jetarea_fastjet' on page 4 undefined on input line 35.
-
+Missing character: There is no Ð in font cmr12!
 
 
-LaTeX Warning: Citation `jetarea_fastjet_pu' on page 4 undefined on input line 
-35.
+LaTeX Warning: Reference `fig:CMSLayout' on page 2 undefined on input line 12.
 
 
-LaTeX Warning: Citation `JME-JINST' on page 4 undefined on input line 44.
+LaTeX Warning: Reference `fig:CMS_Slice' on page 2 undefined on input line 12.
+
+[2
 
 
-LaTeX Warning: Citation `Collaboration:2012dp' on page 4 undefined on input lin
-e 44.
 
-[4]
+] <figures/cms_complete_layout.jpg, id=23, 786.94pt x 569.12625pt>
+File: figures/cms_complete_layout.jpg Graphic file (type jpg)
 
-LaTeX Warning: Citation `jetpruning1' on page 5 undefined on input line 56.
+<use figures/cms_complete_layout.jpg>
+Package pdftex.def Info: figures/cms_complete_layout.jpg used on input line 26.
+
+(pdftex.def)             Requested size: 303.53267pt x 219.5181pt.
+
+<figures/CMS_Slice.png, id=24, 995.72pt x 507.8975pt>
+File: figures/CMS_Slice.png Graphic file (type png)
+
+<use figures/CMS_Slice.png>
+Package pdftex.def Info: figures/CMS_Slice.png used on input line 34.
+(pdftex.def)             Requested size: 390.25534pt x 199.06346pt.
+
+Overfull \hbox (17.35732pt too wide) in paragraph at lines 39--39
+[]\OT1/cmr/bx/n/20.74 The beam: lu-mi-nos-ity and cross-section 
+ []
 
 
-LaTeX Warning: Citation `jetpruning2' on page 5 undefined on input line 56.
+LaTeX Warning: Reference `table:magnet' on page 3 undefined on input line 47.
+
+[3 <./figures/cms_complete_layout.jpg>] [4 <./figures/CMS_Slice.png>]
+
+LaTeX Warning: Reference `fig:trackerLayout' on page 5 undefined on input line 
+72.
+
+[5] <figures/TrackerLayout.png, id=46, 903.375pt x 426.59375pt>
+File: figures/TrackerLayout.png Graphic file (type png)
+
+<use figures/TrackerLayout.png>
+Package pdftex.def Info: figures/TrackerLayout.png used on input line 82.
+(pdftex.def)             Requested size: 607.06534pt x 286.68857pt.
+
+Overfull \hbox (173.44534pt too wide) in paragraph at lines 82--83
+ [][] 
+ []
 
 
-LaTeX Warning: Citation `JME-13-006' on page 5 undefined on input line 66.
+LaTeX Warning: Reference `fig:ECAL' on page 6 undefined on input line 106.
+
+Missing character: There is no Õ in font cmr12!
+[6] [7 <./figures/TrackerLayout.png>]
+<figures/ECALEta.png, id=59, 1441.385pt x 734.745pt>
+File: figures/ECALEta.png Graphic file (type png)
+ <use figures/ECALEta.png>
+Package pdftex.def Info: figures/ECALEta.png used on input line 114.
+(pdftex.def)             Requested size: 346.89731pt x 176.82448pt.
+
+[8 <./figures/ECALEta.png (PNG copy)>]
+
+LaTeX Warning: Reference `figs:HCAL' on page 9 undefined on input line 135.
+
+<figures/Hcal.jpg, id=65, 691.58376pt x 440.64626pt>
+File: figures/Hcal.jpg Graphic file (type jpg)
+ <use figures/Hcal.jpg>
+Package pdftex.def Info: figures/Hcal.jpg used on input line 143.
+(pdftex.def)             Requested size: 346.89731pt x 221.02856pt.
+
+[9 <./figures/Hcal.jpg>]
+
+LaTeX Warning: Reference `fig:Muonsystem' on page 10 undefined on input line 16
+2.
 
 
-LaTeX Warning: Reference `fig:JetMassTagging' on page 5 undefined on input line
- 70.
+LaTeX Warning: Reference `fig:MuonStation' on page 10 undefined on input line 1
+63.
 
-[5]
-<EventSelectionFigures/signal-data-qcd-jetmass.pdf, id=41, 569.12625pt x 555.07
+[10] <figures/MuStations.jpg, id=78, 319.1925pt x 355.3275pt>
+File: figures/MuStations.jpg Graphic file (type jpg)
+
+<use figures/MuStations.jpg>
+Package pdftex.def Info: figures/MuStations.jpg used on input line 183.
+(pdftex.def)             Requested size: 346.89731pt x 386.17154pt.
+
+<figures/Muonsystem.png, id=79, 790.955pt x 574.145pt>
+File: figures/Muonsystem.png Graphic file (type png)
+
+<use figures/Muonsystem.png>
+Package pdftex.def Info: figures/Muonsystem.png used on input line 194.
+(pdftex.def)             Requested size: 346.89731pt x 251.80983pt.
+ <figures/DT.png, id=80, 240.9pt x 147.55125pt>
+File: figures/DT.png Graphic file (type png)
+
+<use figures/DT.png>
+Package pdftex.def Info: figures/DT.png used on input line 204.
+(pdftex.def)             Requested size: 346.89731pt x 212.49387pt.
+) [11] [12 <./figures/MuStations.jpg>] [13 <./figures/Muonsystem.png (PNG copy)
+> <./figures/DT.png>]
+\openout2 = `EXO-12-024/introduction.aux'.
+
+ (./EXO-12-024/introduction.tex
+Chapter 3.
+
+LaTeX Warning: Reference `label:chapIntro' on page 14 undefined on input line 5
+.
+
+
+LaTeX Warning: Citation `Gouzevitch:2013qca' on page 14 undefined on input line
+ 11.
+
+
+LaTeX Warning: Citation `ref_2011' on page 14 undefined on input line 22.
+
+
+LaTeX Warning: Citation `Thaler:2010tr' on page 14 undefined on input line 26.
+
+[14
+
+
+
+]
+
+LaTeX Warning: Citation `ref_qstar' on page 15 undefined on input line 29.
+
+
+LaTeX Warning: Citation `rs1' on page 15 undefined on input line 31.
+
+
+LaTeX Warning: Citation `GravitonWWZZ1' on page 15 undefined on input line 32.
+
+
+LaTeX Warning: Citation `GravitonWWZZ2' on page 15 undefined on input line 32.
+
+
+LaTeX Warning: Citation `GravitonWWZZ3' on page 15 undefined on input line 32.
+
+
+LaTeX Warning: Citation `ref_gauge' on page 15 undefined on input line 34.
+
+
+LaTeX Warning: Citation `exo12016' on page 15 undefined on input line 37.
+
+
+LaTeX Warning: Citation `ATLASexcitedPAS' on page 15 undefined on input line 37
+.
+
+
+LaTeX Warning: Citation `Harris:2011bh' on page 15 undefined on input line 37.
+
+
+LaTeX Warning: Citation `exo12016' on page 15 undefined on input line 39.
+
+
+LaTeX Warning: Citation `CDFexcitedPAPER' on page 15 undefined on input line 42
+.
+
+
+LaTeX Warning: Citation `D0excitedPAPER' on page 15 undefined on input line 42.
+
+
+
+LaTeX Warning: Citation `ref_2011' on page 15 undefined on input line 44.
+
+
+LaTeX Warning: Citation `CMSqZPAS' on page 15 undefined on input line 44.
+
+
+LaTeX Warning: Citation `CMSZZPAS2' on page 15 undefined on input line 47.
+
+
+LaTeX Warning: Citation `ATLASWWPAPER' on page 15 undefined on input line 47.
+
+
+LaTeX Warning: Citation `ATLASZZPAPER' on page 15 undefined on input line 47.
+
+
+LaTeX Warning: Citation `CDFZZPAPER' on page 15 undefined on input line 47.
+
+
+LaTeX Warning: Citation `CMSwprimePAPER2013' on page 15 undefined on input line
+ 56.
+
+
+LaTeX Warning: Citation `ATLASwprimePAPER' on page 15 undefined on input line 5
+6.
+
+
+LaTeX Warning: Citation `CMSwprimeWZPAS' on page 15 undefined on input line 60.
+
+
+
+LaTeX Warning: Citation `ATLASWWPAPER' on page 15 undefined on input line 60.
+
+
+LaTeX Warning: Citation `ATLASwprimeWZPAS' on page 15 undefined on input line 6
+0.
+
+[15]
+
+LaTeX Warning: Citation `ref_2011' on page 16 undefined on input line 84.
+
+
+LaTeX Warning: Citation `cmsdijet' on page 16 undefined on input line 89.
+
+) [16]
+\openout2 = `EXO-12-024/analysis.aux'.
+
+ (./EXO-12-024/analysis.tex
+
+LaTeX Warning: Citation `particleflow' on page 17 undefined on input line 10.
+
+
+LaTeX Warning: Citation `CAaachen' on page 17 undefined on input line 15.
+
+
+LaTeX Warning: Citation `CAcambridge' on page 17 undefined on input line 15.
+
+
+LaTeX Warning: Citation `fastjet1' on page 17 undefined on input line 16.
+
+
+LaTeX Warning: Citation `fastjet' on page 17 undefined on input line 16.
+
+
+Overfull \hbox (9.43661pt too wide) in paragraph at lines 9--26
+[]\OT1/cmr/m/n/12 Based on CMSSW 5.3.x soft-ware pack-age,events are re-con-str
+ucted us-ing the particle-
+ []
+
+
+LaTeX Warning: Citation `jetarea_fastjet' on page 17 undefined on input line 31
+.
+
+
+LaTeX Warning: Citation `jetarea_fastjet_pu' on page 17 undefined on input line
+ 31.
+
+
+LaTeX Warning: Citation `JME-JINST' on page 17 undefined on input line 40.
+
+
+LaTeX Warning: Citation `Collaboration:2012dp' on page 17 undefined on input li
+ne 40.
+
+[17
+
+
+]
+
+LaTeX Warning: Citation `topwtag_pas' on page 18 undefined on input line 46.
+
+[18]) [19] [20]
+\openout2 = `EXO-12-024/data_and_mc_samples.aux'.
+
+ (./EXO-12-024/data_and_mc_samples.tex
+
+LaTeX Warning: Reference `table:dataset' on page 21 undefined on input line 9.
+
+
+LaTeX Warning: Citation `Gao:2010qx' on page 21 undefined on input line 15.
+
+
+LaTeX Warning: Citation `Bolognesi:2012mm' on page 21 undefined on input line 1
+5.
+
+
+LaTeX Warning: Citation `pythia' on page 21 undefined on input line 16.
+
+
+LaTeX Warning: Citation `herwig' on page 21 undefined on input line 16.
+
+
+LaTeX Warning: Citation `refGEANT' on page 21 undefined on input line 18.
+
+
+LaTeX Warning: Citation `cteq' on page 21 undefined on input line 19.
+
+
+LaTeX Warning: Citation `mrst' on page 21 undefined on input line 19.
+
+
+LaTeX Warning: Citation `bib_tunez1' on page 21 undefined on input line 21.
+
+
+LaTeX Warning: Citation `resonanceshape' on page 21 undefined on input line 28.
+
+
+
+LaTeX Warning: Citation `CMSZZPAS2' on page 21 undefined on input line 31.
+
+[21
+
+
+]
+
+LaTeX Warning: Reference `fig:compare-Herwig++-Pythia6' on page 22 undefined on
+ input line 41.
+
+
+LaTeX Warning: Reference `fig:compare-Herwig++-Pythia6' on page 22 undefined on
+ input line 45.
+
+
+<EXO-12-024/figs/comparison-jhu-pythia-herwigg/MX.pdf, id=145, 168.7605pt x 191
+.10768pt>
+File: EXO-12-024/figs/comparison-jhu-pythia-herwigg/MX.pdf Graphic file (type p
+df)
+ <use EXO-12-024/figs/comparison-jhu-pythia-herwigg/MX.pdf>
+Package pdftex.def Info: EXO-12-024/figs/comparison-jhu-pythia-herwigg/MX.pdf u
+sed on input line 50.
+(pdftex.def)             Requested size: 186.45341pt x 211.15515pt.
+
+<EXO-12-024/figs/comparison-jhu-pythia-herwigg/delta-y.pdf, id=146, 165.42111pt
+ x 191.6214pt>
+File: EXO-12-024/figs/comparison-jhu-pythia-herwigg/delta-y.pdf Graphic file (t
+ype pdf)
+ <use EXO-12-024/figs/comparison-jhu-pythia-herwigg/delta-y.pdf>
+Package pdftex.def Info: EXO-12-024/figs/comparison-jhu-pythia-herwigg/delta-y.
+pdf used on input line 51.
+(pdftex.def)             Requested size: 186.45341pt x 216.00333pt.
+
+[22 <./EXO-12-024/figs/comparison-jhu-pythia-herwigg/MX.pdf> <./EXO-12-024/figs
+/comparison-jhu-pythia-herwigg/delta-y.pdf>]
+
+LaTeX Warning: Reference `table:singletag' on page 23 undefined on input line 6
+0.
+
+
+LaTeX Warning: Reference `table:doubletag' on page 23 undefined on input line 6
+0.
+
+
+LaTeX Warning: Reference `table:doubletagbulk' on page 23 undefined on input li
+ne 60.
+
+
+LaTeX Warning: Reference `table:doubletag2' on page 23 undefined on input line 
+60.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+[]\OT1/cmr/m/n/12 Table 3.1: []Summary of 8 TeV-col-li-sion data used in this
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+\OT1/cmr/m/n/12 anal-y-sis. The cer-ti-fi-ca-tion file used for these data is
+ []
+
+
+LaTeX Warning: Reference `table:singletag' on page 23 undefined on input line 1
+83.
+
+
+LaTeX Warning: Reference `table:doubletag' on page 23 undefined on input line 1
+90.
+
+
+LaTeX Warning: Reference `table:doubletag2' on page 23 undefined on input line 
+197.
+
+)
+Overfull \hbox (158.79706pt too wide) in paragraph at lines 190--150
+\OT1/cmr/m/n/12 are given by the ra-tio of []\OT1/cmtt/m/n/12 RS/Model:Lambda_p
+i \OT1/cmr/m/n/12 and the res-o-nance mass []\OT1/cmtt/m/n/12 /Herwig/Particles
+/Graviton:NominalMass\OT1/cmr/m/n/12 .
+ []
+
+[23] [24] [25] [26] [27] [28]
+\openout2 = `EXO-12-024/trigger.aux'.
+
+ (./EXO-12-024/trigger.tex
+Overfull \hbox (33.09074pt too wide) in paragraph at lines 7--10
+[]\OT1/cmr/m/n/12 Events are se-lected if one of the fol-low-ing trig-gers has 
+fired: HLT[]HT750, HLT[]PFHT650,
+ []
+
+
+Overfull \hbox (2.31177pt too wide) in paragraph at lines 7--10
+\OT1/cmr/m/n/12 HLT[]PFNoPUHT650 HLT[]FatDiPFJetMass750[]DR1p1[]Deta1p5. All ve
+r-sions of each
+ []
+
+
+LaTeX Warning: Reference `fig:trigger efficiencies part1' on page 29 undefined 
+on input line 12.
+
+
+LaTeX Warning: Reference `fig:trigger efficiencies part2' on page 29 undefined 
+on input line 12.
+
+
+LaTeX Warning: Reference `fig:trigger efficiencies part3' on page 29 undefined 
+on input line 12.
+
+
+<EXO-12-024/figs/trigger-eff/Dataeff_withouttagging.pdf, id=210, 569.12625pt x 
+442.65375pt>
+File: EXO-12-024/figs/trigger-eff/Dataeff_withouttagging.pdf Graphic file (type
+ pdf)
+ <use EXO-12-024/figs/trigger-eff/Dataeff_withouttagging.pdf>
+Package pdftex.def Info: EXO-12-024/figs/trigger-eff/Dataeff_withouttagging.pdf
+ used on input line 17.
+(pdftex.def)             Requested size: 569.12486pt x 442.65265pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\OT1/cmr/m/n/12 Figure 3.2: []Trigger ef-fi-ciency for un-tagged data of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+\OT1/cmr/m/n/12 FAT[]750$\OMS/cmsy/m/n/12 k$\OT1/cmr/m/n/12 HLT[]PF(NoPU)HT650$
+\OMS/cmsy/m/n/12 k$\OT1/cmr/m/n/12 HLT[]HT750 mea-sured us-ing data col-lected
+ []
+
+
+<EXO-12-024/figs/trigger-eff/Dataeff_singletagging.pdf, id=211, 569.12625pt x 4
+42.65375pt>
+File: EXO-12-024/figs/trigger-eff/Dataeff_singletagging.pdf Graphic file (type 
+pdf)
+ <use EXO-12-024/figs/trigger-eff/Dataeff_singletagging.pdf>
+Package pdftex.def Info: EXO-12-024/figs/trigger-eff/Dataeff_singletagging.pdf 
+used on input line 24.
+(pdftex.def)             Requested size: 569.12486pt x 442.65265pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]\OT1/cmr/m/n/12 Figure 3.3: []Trigger ef-fi-ciency for sin-gle tagged data of
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\OT1/cmr/m/n/12 FAT[]750$\OMS/cmsy/m/n/12 k$\OT1/cmr/m/n/12 HLT[]PF(NoPU)HT650$
+\OMS/cmsy/m/n/12 k$\OT1/cmr/m/n/12 HLT[]HT750 mea-sured us-ing data col-lected
+ []
+
+
+<EXO-12-024/figs/trigger-eff/Dataeff_doubletagging.pdf, id=212, 569.12625pt x 4
+42.65375pt>
+File: EXO-12-024/figs/trigger-eff/Dataeff_doubletagging.pdf Graphic file (type 
+pdf)
+ <use EXO-12-024/figs/trigger-eff/Dataeff_doubletagging.pdf>
+Package pdftex.def Info: EXO-12-024/figs/trigger-eff/Dataeff_doubletagging.pdf 
+used on input line 31.
+(pdftex.def)             Requested size: 569.12486pt x 442.65265pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]\OT1/cmr/m/n/12 Figure 3.4: []Trigger ef-fi-ciency for dou-ble tagged data of
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\OT1/cmr/m/n/12 FAT[]750$\OMS/cmsy/m/n/12 k$\OT1/cmr/m/n/12 HLT[]PF(NoPU)HT650$
+\OMS/cmsy/m/n/12 k$\OT1/cmr/m/n/12 HLT[]HT750 mea-sured us-ing data col-lected
+ []
+
+[29
+
+
+] [30 <./EXO-12-024/figs/trigger-eff/Dataeff_withouttagging.pdf, page is rotate
+d 90 degrees>] [31 <./EXO-12-024/figs/trigger-eff/Dataeff_singletagging.pdf, pa
+ge is rotated 90 degrees>] [32 <./EXO-12-024/figs/trigger-eff/Dataeff_doubletag
+ging.pdf, page is rotated 90 degrees>])
+\openout2 = `EXO-12-024/data_mc_comparisons.aux'.
+
+
+(./EXO-12-024/data_mc_comparisons.tex
+
+LaTeX Warning: Reference `fig:mjjSingle' on page 33 undefined on input line 6.
+
+
+LaTeX Warning: Reference `fig:mjjDouble' on page 33 undefined on input line 6.
+
+
+LaTeX Warning: Reference `fig:dySingle' on page 33 undefined on input line 6.
+
+
+LaTeX Warning: Reference `fig:dyDouble' on page 33 undefined on input line 6.
+
+
+LaTeX Warning: Reference `fig:dphiSingle' on page 33 undefined on input line 6.
+
+
+
+LaTeX Warning: Reference `fig:dphiDouble' on page 33 undefined on input line 7.
+
+
+
+LaTeX Warning: Reference `fig:metSumPtSingle' on page 33 undefined on input lin
+e 7.
+
+
+LaTeX Warning: Reference `fig:Pt0Single' on page 33 undefined on input line 8.
+
+
+LaTeX Warning: Reference `fig:Pt0Double' on page 33 undefined on input line 8.
+
+
+LaTeX Warning: Reference `fig:Pt1Single' on page 33 undefined on input line 8.
+
+
+LaTeX Warning: Reference `fig:Pt1Double' on page 33 undefined on input line 8.
+
+
+LaTeX Warning: Reference `fig:Eta0Single' on page 33 undefined on input line 9.
+
+
+
+LaTeX Warning: Reference `fig:Eta0Double' on page 33 undefined on input line 9.
+
+
+
+LaTeX Warning: Reference `fig:Eta1Single' on page 33 undefined on input line 9.
+
+
+
+LaTeX Warning: Reference `fig:Eta1Double' on page 33 undefined on input line 9.
+
+
+
+LaTeX Warning: Reference `fig:massNsub' on page 33 undefined on input line 11.
+
+
+LaTeX Warning: Reference `table:eventnumbers' on page 33 undefined on input lin
+e 15.
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 24--24
+[]|\OT1/cmr/m/n/12 lower mass bin
+ []
+
+
+Overfull \hbox (55.57127pt too wide) in paragraph at lines 21--62
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 447.09993pt on input line 64.
+
+[33
+
+
+
+]
+<EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVLowP.pdf, id=369, 569.12625pt 
+x 463.7325pt>
+File: EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVLowP.pdf Graphic file (ty
+pe pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVLowP.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVLowP.p
+df used on input line 74.
+(pdftex.def)             Requested size: 569.12486pt x 463.73135pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVMiumHigh.pdf, id=370, 569.1262
+5pt x 559.08875pt>
+File: EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVMiumHigh.pdf Graphic file
+ (type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVMiumHigh.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVMiumHi
+gh.pdf used on input line 75.
+(pdftex.def)             Requested size: 569.12486pt x 559.08737pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 73--80
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/DijetMass-VVLowP.pdf, id=371, 569.12625pt 
+x 463.7325pt>
+File: EXO-12-024/figs/Data-MC-comparisons/DijetMass-VVLowP.pdf Graphic file (ty
+pe pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/DijetMass-VVLowP.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/DijetMass-VVLowP.p
+df used on input line 87.
+(pdftex.def)             Requested size: 569.12486pt x 463.73135pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/DijetMass-VVMiumHigh.pdf, id=372, 569.1262
+5pt x 559.08875pt>
+File: EXO-12-024/figs/Data-MC-comparisons/DijetMass-VVMiumHigh.pdf Graphic file
+ (type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/DijetMass-VVMiumHigh.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/DijetMass-VVMiumHi
+gh.pdf used on input line 88.
+(pdftex.def)             Requested size: 569.12486pt x 559.08737pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 86--93
+ [][] 
+ []
+
+[34 <./EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVLowP.pdf, page is rotate
+d 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVMiumHigh.pdf, 
+page is rotated 90 degrees>]
+<EXO-12-024/figs/Data-MC-comparisons/Deta-qVLowP.pdf, id=464, 569.12625pt x 462
+.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Deta-qVLowP.pdf Graphic file (type pd
+f)
+ <use EXO-12-024/figs/Data-MC-comparisons/Deta-qVLowP.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Deta-qVLowP.pdf us
+ed on input line 101.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/Deta-qVMiumHigh.pdf, id=465, 569.12625pt x
+ 462.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Deta-qVMiumHigh.pdf Graphic file (typ
+e pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/Deta-qVMiumHigh.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Deta-qVMiumHigh.pd
+f used on input line 102.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 100--106
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/Deta-VVLowP.pdf, id=466, 569.12625pt x 462
+.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Deta-VVLowP.pdf Graphic file (type pd
+f)
+ <use EXO-12-024/figs/Data-MC-comparisons/Deta-VVLowP.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Deta-VVLowP.pdf us
+ed on input line 113.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/Deta-VVMiumHigh.pdf, id=467, 569.12625pt x
+ 462.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Deta-VVMiumHigh.pdf Graphic file (typ
+e pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/Deta-VVMiumHigh.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Deta-VVMiumHigh.pd
+f used on input line 114.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 112--117
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/Dphi-qVLowP.pdf, id=468, 569.12625pt x 462
+.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Dphi-qVLowP.pdf Graphic file (type pd
+f)
+ <use EXO-12-024/figs/Data-MC-comparisons/Dphi-qVLowP.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Dphi-qVLowP.pdf us
+ed on input line 126.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/Dphi-qVMiumHigh.pdf, id=469, 569.12625pt x
+ 462.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Dphi-qVMiumHigh.pdf Graphic file (typ
+e pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/Dphi-qVMiumHigh.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Dphi-qVMiumHigh.pd
+f used on input line 127.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 125--131
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/Dphi-VVLowP.pdf, id=470, 569.12625pt x 462
+.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Dphi-VVLowP.pdf Graphic file (type pd
+f)
+ <use EXO-12-024/figs/Data-MC-comparisons/Dphi-VVLowP.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Dphi-VVLowP.pdf us
+ed on input line 138.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/Dphi-VVMiumHigh.pdf, id=471, 569.12625pt x
+ 462.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Dphi-VVMiumHigh.pdf Graphic file (typ
+e pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/Dphi-VVMiumHigh.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Dphi-VVMiumHigh.pd
+f used on input line 139.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 137--142
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/etsumEt.pdf, id=472, 569.12625pt x 415.552
+5pt>
+File: EXO-12-024/figs/Data-MC-comparisons/etsumEt.pdf Graphic file (type pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/etsumEt.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/etsumEt.pdf used o
+n input line 151.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/etsumEtlog.pdf, id=473, 569.12625pt x 415.
+5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/etsumEtlog.pdf Graphic file (type pdf
+)
+ <use EXO-12-024/figs/Data-MC-comparisons/etsumEtlog.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/etsumEtlog.pdf use
+d on input line 152.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 150--155
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/PT0-qVLowP.pdf, id=474, 569.12625pt x 462.
+72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/PT0-qVLowP.pdf Graphic file (type pdf
+)
+ <use EXO-12-024/figs/Data-MC-comparisons/PT0-qVLowP.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/PT0-qVLowP.pdf use
+d on input line 186.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/PT0-qVMiumHigh.pdf, id=475, 569.12625pt x 
+462.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/PT0-qVMiumHigh.pdf Graphic file (type
+ pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/PT0-qVMiumHigh.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/PT0-qVMiumHigh.pdf
+ used on input line 187.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 185--191
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/PT0-VVLowP.pdf, id=476, 569.12625pt x 462.
+72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/PT0-VVLowP.pdf Graphic file (type pdf
+)
+ <use EXO-12-024/figs/Data-MC-comparisons/PT0-VVLowP.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/PT0-VVLowP.pdf use
+d on input line 198.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/PT0-VVMiumHigh.pdf, id=477, 569.12625pt x 
+462.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/PT0-VVMiumHigh.pdf Graphic file (type
+ pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/PT0-VVMiumHigh.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/PT0-VVMiumHigh.pdf
+ used on input line 199.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 197--202
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/PT1-qVLowP.pdf, id=478, 569.12625pt x 462.
+72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/PT1-qVLowP.pdf Graphic file (type pdf
+)
+ <use EXO-12-024/figs/Data-MC-comparisons/PT1-qVLowP.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/PT1-qVLowP.pdf use
+d on input line 210.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/PT1-qVMiumHigh.pdf, id=479, 569.12625pt x 
+462.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/PT1-qVMiumHigh.pdf Graphic file (type
+ pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/PT1-qVMiumHigh.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/PT1-qVMiumHigh.pdf
+ used on input line 211.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 209--215
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/PT1-VVLowP.pdf, id=480, 569.12625pt x 462.
+72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/PT1-VVLowP.pdf Graphic file (type pdf
+)
+ <use EXO-12-024/figs/Data-MC-comparisons/PT1-VVLowP.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/PT1-VVLowP.pdf use
+d on input line 222.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/PT1-VVMiumHigh.pdf, id=481, 569.12625pt x 
+462.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/PT1-VVMiumHigh.pdf Graphic file (type
+ pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/PT1-VVMiumHigh.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/PT1-VVMiumHigh.pdf
+ used on input line 223.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 221--226
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/Eta0-qVLowP.pdf, id=482, 569.12625pt x 462
+.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Eta0-qVLowP.pdf Graphic file (type pd
+f)
+ <use EXO-12-024/figs/Data-MC-comparisons/Eta0-qVLowP.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Eta0-qVLowP.pdf us
+ed on input line 236.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/Eta0-qVMiumHigh.pdf, id=483, 569.12625pt x
+ 462.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Eta0-qVMiumHigh.pdf Graphic file (typ
+e pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/Eta0-qVMiumHigh.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Eta0-qVMiumHigh.pd
+f used on input line 237.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 235--241
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/Eta0-VVLowP.pdf, id=484, 569.12625pt x 462
+.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Eta0-VVLowP.pdf Graphic file (type pd
+f)
+ <use EXO-12-024/figs/Data-MC-comparisons/Eta0-VVLowP.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Eta0-VVLowP.pdf us
+ed on input line 248.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/Eta0-VVMiumHigh.pdf, id=485, 569.12625pt x
+ 462.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Eta0-VVMiumHigh.pdf Graphic file (typ
+e pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/Eta0-VVMiumHigh.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Eta0-VVMiumHigh.pd
+f used on input line 249.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 247--252
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/Eta1-qVLowP.pdf, id=486, 569.12625pt x 462
+.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Eta1-qVLowP.pdf Graphic file (type pd
+f)
+ <use EXO-12-024/figs/Data-MC-comparisons/Eta1-qVLowP.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Eta1-qVLowP.pdf us
+ed on input line 261.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/Eta1-qVMiumHigh.pdf, id=487, 569.12625pt x
+ 462.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Eta1-qVMiumHigh.pdf Graphic file (typ
+e pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/Eta1-qVMiumHigh.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Eta1-qVMiumHigh.pd
+f used on input line 262.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 260--266
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/Eta1-VVLowP.pdf, id=488, 569.12625pt x 462
+.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Eta1-VVLowP.pdf Graphic file (type pd
+f)
+ <use EXO-12-024/figs/Data-MC-comparisons/Eta1-VVLowP.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Eta1-VVLowP.pdf us
+ed on input line 273.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/Eta1-VVMiumHigh.pdf, id=489, 569.12625pt x
+ 462.72874pt>
+File: EXO-12-024/figs/Data-MC-comparisons/Eta1-VVMiumHigh.pdf Graphic file (typ
+e pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/Eta1-VVMiumHigh.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Eta1-VVMiumHigh.pd
+f used on input line 274.
+(pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 272--277
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/lumi19fb_dataMC_ca8jet_norm_mlog.pdf, id=4
+90, 569.12625pt x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/lumi19fb_dataMC_ca8jet_norm_mlog.pdf 
+Graphic file (type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/lumi19fb_dataMC_ca8jet_norm_mlog.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/lumi19fb_dataMC_ca
+8jet_norm_mlog.pdf used on input line 311.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/data-qcd-Jet-Tau21.pdf, id=491, 569.12625p
+t x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/data-qcd-Jet-Tau21.pdf Graphic file (
+type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/data-qcd-Jet-Tau21.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/data-qcd-Jet-Tau21
+.pdf used on input line 312.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 310--316
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/npv.pdf, id=492, 569.12625pt x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/npv.pdf Graphic file (type pdf)
+<use EXO-12-024/figs/Data-MC-comparisons/npv.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/npv.pdf used on in
+put line 343.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/npvlog.pdf, id=493, 569.12625pt x 415.5525
+pt>
+File: EXO-12-024/figs/Data-MC-comparisons/npvlog.pdf Graphic file (type pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/npvlog.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/npvlog.pdf used on
+ input line 344.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 342--348
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnergyFraction.pdf, id=494, 5
+69.12625pt x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnergyFraction.pdf Graph
+ic file (type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnergyFraction.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnerg
+yFraction.pdf used on input line 355.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnergyFractionlog.pdf, id=495
+, 569.12625pt x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnergyFractionlog.pdf Gr
+aphic file (type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnergyFractionlog.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnerg
+yFractionlog.pdf used on input line 356.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 354--359
+ [][] 
+ []
+
+[35 <./EXO-12-024/figs/Data-MC-comparisons/DijetMass-VVLowP.pdf, page is rotate
+d 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/DijetMass-VVMiumHigh.pdf, 
+page is rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/Deta-qVLowP.
+pdf, page is rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/Deta-qV
+MiumHigh.pdf, page is rotated 90 degrees>] [36] [37 <./EXO-12-024/figs/Data-MC-
+comparisons/Deta-VVLowP.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/Dat
+a-MC-comparisons/Deta-VVMiumHigh.pdf, page is rotated 90 degrees> <./EXO-12-024
+/figs/Data-MC-comparisons/Dphi-qVLowP.pdf, page is rotated 90 degrees> <./EXO-1
+2-024/figs/Data-MC-comparisons/Dphi-qVMiumHigh.pdf, page is rotated 90 degrees>
+] [38 <./EXO-12-024/figs/Data-MC-comparisons/Dphi-VVLowP.pdf, page is rotated 9
+0 degrees> <./EXO-12-024/figs/Data-MC-comparisons/Dphi-VVMiumHigh.pdf, page is 
+rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/etsumEt.pdf, page is
+ rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/etsumEtlog.pdf, pag
+e is rotated 90 degrees>] [39 <./EXO-12-024/figs/Data-MC-comparisons/PT0-qVLowP
+.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/PT0-qV
+MiumHigh.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparison
+s/PT0-VVLowP.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/Data-MC-compar
+isons/PT0-VVMiumHigh.pdf, page is rotated 90 degrees>] [40 <./EXO-12-024/figs/D
+ata-MC-comparisons/PT1-qVLowP.pdf, page is rotated 90 degrees> <./EXO-12-024/fi
+gs/Data-MC-comparisons/PT1-qVMiumHigh.pdf, page is rotated 90 degrees> <./EXO-1
+2-024/figs/Data-MC-comparisons/PT1-VVLowP.pdf, page is rotated 90 degrees> <./E
+XO-12-024/figs/Data-MC-comparisons/PT1-VVMiumHigh.pdf, page is rotated 90 degre
+es>] [41 <./EXO-12-024/figs/Data-MC-comparisons/Eta0-qVLowP.pdf, page is rotate
+d 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/Eta0-qVMiumHigh.pdf, page 
+is rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/Eta0-VVLowP.pdf, 
+page is rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/Eta0-VVMiumH
+igh.pdf, page is rotated 90 degrees>] [42 <./EXO-12-024/figs/Data-MC-comparison
+s/Eta1-qVLowP.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/Data-MC-compa
+risons/Eta1-qVMiumHigh.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/Data
+-MC-comparisons/Eta1-VVLowP.pdf, page is rotated 90 degrees> <./EXO-12-024/figs
+/Data-MC-comparisons/Eta1-VVMiumHigh.pdf, page is rotated 90 degrees>] [43 <./E
+XO-12-024/figs/Data-MC-comparisons/lumi19fb_dataMC_ca8jet_norm_mlog.pdf, page i
+s rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/data-qcd-Jet-Tau21
+.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/npv.pd
+f, page is rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/npvlog.pd
+f, page is rotated 90 degrees>] [44 <./EXO-12-024/figs/Data-MC-comparisons/neut
+ralHadronEnergyFraction.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/Dat
+a-MC-comparisons/neutralHadronEnergyFractionlog.pdf, page is rotated 90 degrees
+>]
+<EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFraction.pdf, id=2025, 569.
+12625pt x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFraction.pdf Graphic f
+ile (type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFraction.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFra
+ction.pdf used on input line 369.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFractionlog.pdf, id=2026, 5
+69.12625pt x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFractionlog.pdf Graphi
+c file (type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFractionlog.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFra
+ctionlog.pdf used on input line 370.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 368--373
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnergyFraction.pdf, id=2027, 
+569.12625pt x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnergyFraction.pdf Graph
+ic file (type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnergyFraction.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnerg
+yFraction.pdf used on input line 380.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnergyFractionlog.pdf, id=202
+8, 569.12625pt x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnergyFractionlog.pdf Gr
+aphic file (type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnergyFractionlog.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnerg
+yFractionlog.pdf used on input line 381.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 379--384
+ [][] 
+ []
+
+[45
+
+ <./EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFraction.pdf, page is ro
+tated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFractio
+nlog.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/ch
+argedHadronEnergyFraction.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/D
+ata-MC-comparisons/chargedHadronEnergyFractionlog.pdf, page is rotated 90 degre
+es>]
+<EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFraction.pdf, id=2207, 569.
+12625pt x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFraction.pdf Graphic f
+ile (type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFraction.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFra
+ction.pdf used on input line 394.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFractionlog.pdf, id=2208, 5
+69.12625pt x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFractionlog.pdf Graphi
+c file (type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFractionlog.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFra
+ctionlog.pdf used on input line 395.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 393--398
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicity.pdf, id=2209, 569.1262
+5pt x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicity.pdf Graphic file 
+(type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicit
+y.pdf used on input line 405.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicitylog.pdf, id=2210, 569.1
+2625pt x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicitylog.pdf Graphic fi
+le (type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicitylog.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicit
+ylog.pdf used on input line 406.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 404--409
+ [][] 
+ []
+
+[46 <./EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFraction.pdf, page is
+ rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFrac
+tionlog.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons
+/chargedMultiplicity.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/Data-M
+C-comparisons/chargedMultiplicitylog.pdf, page is rotated 90 degrees>]
+<EXO-12-024/figs/Data-MC-comparisons/nConstituents.pdf, id=2390, 569.12625pt x 
+415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/nConstituents.pdf Graphic file (type 
+pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/nConstituents.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/nConstituents.pdf 
+used on input line 418.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/nConstituentslog.pdf, id=2391, 569.12625pt
+ x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/nConstituentslog.pdf Graphic file (ty
+pe pdf)
+ <use EXO-12-024/figs/Data-MC-comparisons/nConstituentslog.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/nConstituentslog.p
+df used on input line 419.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 417--422
+ [][] 
+ []
+
+
+<EXO-12-024/figs/Data-MC-comparisons/muonEnergyFraction.pdf, id=2392, 569.12625
+pt x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/muonEnergyFraction.pdf Graphic file (
+type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/muonEnergyFraction.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/muonEnergyFraction
+.pdf used on input line 430.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+<EXO-12-024/figs/Data-MC-comparisons/muonEnergyFractionlog.pdf, id=2393, 569.12
+625pt x 415.5525pt>
+File: EXO-12-024/figs/Data-MC-comparisons/muonEnergyFractionlog.pdf Graphic fil
+e (type pdf)
+
+<use EXO-12-024/figs/Data-MC-comparisons/muonEnergyFractionlog.pdf>
+Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/muonEnergyFraction
+log.pdf used on input line 431.
+(pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 429--434
+ [][] 
+ []
+
+[47 <./EXO-12-024/figs/Data-MC-comparisons/nConstituents.pdf, page is rotated 9
+0 degrees> <./EXO-12-024/figs/Data-MC-comparisons/nConstituentslog.pdf, page is
+ rotated 90 degrees>]
+
+LaTeX Warning: Reference `fig:dphiSingle' on page 48 undefined on input line 45
+2.
+
+
+LaTeX Warning: Reference `fig:dphiDouble' on page 48 undefined on input line 45
+2.
+
+
+LaTeX Warning: Reference `fig:metSumPtSingle' on page 48 undefined on input lin
+e 452.
+
+
+LaTeX Warning: Reference `fig:npv' on page 48 undefined on input line 484.
+
+
+LaTeX Warning: Reference `fig:neutralHadronEnergyFraction' on page 48 undefined
+ on input line 485.
+
+
+LaTeX Warning: Reference `fig:neutralEmEnergyFraction' on page 48 undefined on 
+input line 485.
+
+
+LaTeX Warning: Reference `fig:chargedHadronEnergyFraction' on page 48 undefined
+ on input line 485.
+
+
+LaTeX Warning: Reference `fig:chargedEmEnergyFraction' on page 48 undefined on 
+input line 485.
+
+
+LaTeX Warning: Reference `fig:chargedMultiplicity' on page 48 undefined on inpu
+t line 485.
+
+
+LaTeX Warning: Reference `fig:nConstituents' on page 48 undefined on input line
+ 485.
+
+
+LaTeX Warning: Reference `fig:muonEnergyFraction' on page 48 undefined on input
+ line 485.
+
+[48 <./EXO-12-024/figs/Data-MC-comparisons/muonEnergyFraction.pdf, page is rota
+ted 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/muonEnergyFractionlog.pd
+f, page is rotated 90 degrees>] [49])
+\openout2 = `EXO-12-024/WtagSF.aux'.
+
+ (./EXO-12-024/WtagSF.tex [50
+
+
+
+
+] [51]
+
+LaTeX Warning: Reference `fig:fitsmatched' on page 52 undefined on input line 4
+4.
+
+
+LaTeX Warning: Reference `fig:fitsunmatched' on page 52 undefined on input line
+ 44.
+
+<EXO-12-024/figs/WtagSF/MT.pdf, id=2598, 569.12625pt x 638.385pt>
+File: EXO-12-024/figs/WtagSF/MT.pdf Graphic file (type pdf)
+
+<use EXO-12-024/figs/WtagSF/MT.pdf>
+Package pdftex.def Info: EXO-12-024/figs/WtagSF/MT.pdf used on input line 48.
+(pdftex.def)             Requested size: 138.76157pt x 155.65076pt.
+
+<EXO-12-024/figs/WtagSF/ML.pdf, id=2599, 569.12625pt x 638.385pt>
+File: EXO-12-024/figs/WtagSF/ML.pdf Graphic file (type pdf)
+
+<use EXO-12-024/figs/WtagSF/ML.pdf>
+Package pdftex.def Info: EXO-12-024/figs/WtagSF/ML.pdf used on input line 49.
+(pdftex.def)             Requested size: 138.76157pt x 155.65076pt.
+
+<EXO-12-024/figs/WtagSF/MF.pdf, id=2600, 569.12625pt x 638.385pt>
+File: EXO-12-024/figs/WtagSF/MF.pdf Graphic file (type pdf)
+
+<use EXO-12-024/figs/WtagSF/MF.pdf>
+Package pdftex.def Info: EXO-12-024/figs/WtagSF/MF.pdf used on input line 50.
+(pdftex.def)             Requested size: 138.76157pt x 155.65076pt.
+
+<EXO-12-024/figs/WtagSF/UT.pdf, id=2601, 569.12625pt x 638.385pt>
+File: EXO-12-024/figs/WtagSF/UT.pdf Graphic file (type pdf)
+
+<use EXO-12-024/figs/WtagSF/UT.pdf>
+Package pdftex.def Info: EXO-12-024/figs/WtagSF/UT.pdf used on input line 56.
+(pdftex.def)             Requested size: 138.76157pt x 155.65076pt.
+
+<EXO-12-024/figs/WtagSF/UL.pdf, id=2602, 569.12625pt x 638.385pt>
+File: EXO-12-024/figs/WtagSF/UL.pdf Graphic file (type pdf)
+
+<use EXO-12-024/figs/WtagSF/UL.pdf>
+Package pdftex.def Info: EXO-12-024/figs/WtagSF/UL.pdf used on input line 57.
+(pdftex.def)             Requested size: 138.76157pt x 155.65076pt.
+
+<EXO-12-024/figs/WtagSF/UF.pdf, id=2603, 569.12625pt x 638.385pt>
+File: EXO-12-024/figs/WtagSF/UF.pdf Graphic file (type pdf)
+
+<use EXO-12-024/figs/WtagSF/UF.pdf>
+Package pdftex.def Info: EXO-12-024/figs/WtagSF/UF.pdf used on input line 58.
+(pdftex.def)             Requested size: 138.76157pt x 155.65076pt.
+ [52 <./EXO-12-024/figs/WtagSF/MT.pdf> <./EXO-12-024/figs/WtagSF/ML.pdf> <./EXO
+-12-024/figs/WtagSF/MF.pdf> <./EXO-12-024/figs/WtagSF/UT.pdf> <./EXO-12-024/fig
+s/WtagSF/UL.pdf> <./EXO-12-024/figs/WtagSF/UF.pdf>]
+
+LaTeX Warning: Reference `fig:datafits' on page 53 undefined on input line 79.
+
+
+LaTeX Warning: Reference `fig:mcfits' on page 53 undefined on input line 79.
+
+<EXO-12-024/figs/WtagSF/MCTIGHT.pdf, id=2869, 569.12625pt x 339.2675pt>
+File: EXO-12-024/figs/WtagSF/MCTIGHT.pdf Graphic file (type pdf)
+
+<use EXO-12-024/figs/WtagSF/MCTIGHT.pdf>
+Package pdftex.def Info: EXO-12-024/figs/WtagSF/MCTIGHT.pdf used on input line 
+82.
+(pdftex.def)             Requested size: 212.47617pt x 126.66072pt.
+
+<EXO-12-024/figs/WtagSF/MCLOOSE.pdf, id=2870, 569.12625pt x 339.2675pt>
+File: EXO-12-024/figs/WtagSF/MCLOOSE.pdf Graphic file (type pdf)
+
+<use EXO-12-024/figs/WtagSF/MCLOOSE.pdf>
+Package pdftex.def Info: EXO-12-024/figs/WtagSF/MCLOOSE.pdf used on input line 
+83.
+(pdftex.def)             Requested size: 212.47617pt x 126.66072pt.
+
+<EXO-12-024/figs/WtagSF/TIGHT.pdf, id=2871, 569.12625pt x 339.2675pt>
+File: EXO-12-024/figs/WtagSF/TIGHT.pdf Graphic file (type pdf)
+
+<use EXO-12-024/figs/WtagSF/TIGHT.pdf>
+Package pdftex.def Info: EXO-12-024/figs/WtagSF/TIGHT.pdf used on input line 88
+.
+(pdftex.def)             Requested size: 212.47617pt x 126.66072pt.
+
+<EXO-12-024/figs/WtagSF/LOOSE.pdf, id=2872, 569.12625pt x 339.2675pt>
+File: EXO-12-024/figs/WtagSF/LOOSE.pdf Graphic file (type pdf)
+
+<use EXO-12-024/figs/WtagSF/LOOSE.pdf>
+Package pdftex.def Info: EXO-12-024/figs/WtagSF/LOOSE.pdf used on input line 89
+.
+(pdftex.def)             Requested size: 212.47617pt x 126.66072pt.
+
+Overfull \hbox (4.07639pt too wide) in paragraph at lines 79--92
+[]\OT1/cmr/m/n/12 All other pa-ram-e-ters are al-lowed to float. All other nor-
+mal-iza-tions are parametrized
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[53] [54 <./EXO-12-024/figs/WtagSF/MCTIGHT.pdf, page is rotated 90 degrees> <./
+EXO-12-024/figs/WtagSF/MCLOOSE.pdf, page is rotated 90 degrees> <./EXO-12-024/f
+igs/WtagSF/TIGHT.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/WtagSF/LOO
+SE.pdf, page is rotated 90 degrees>] [55])
+\openout2 = `EXO-12-024/signal.aux'.
+
+ (./EXO-12-024/signal.tex
+
+LaTeX Warning: Reference `fig:taggingvariables' on page 56 undefined on input l
+ine 7.
+
+
+<EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass.pdf, id=3072, 569.12625
+pt x 559.08875pt>
+File: EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass.pdf Graphic file (
+type pdf)
+
+<use EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass.pdf>
+Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass
+.pdf used on input line 24.
+(pdftex.def)             Requested size: 212.47617pt x 208.72787pt.
+
+<EXO-12-024/figs/signal-acc-eff/signal-data-qcd-Jet-Tau21.pdf, id=3073, 569.126
+25pt x 559.08875pt>
+File: EXO-12-024/figs/signal-acc-eff/signal-data-qcd-Jet-Tau21.pdf Graphic file
+ (type pdf)
+
+<use EXO-12-024/figs/signal-acc-eff/signal-data-qcd-Jet-Tau21.pdf>
+Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/signal-data-qcd-Jet-Tau
+21.pdf used on input line 25.
+(pdftex.def)             Requested size: 212.47617pt x 208.72787pt.
+
+
+LaTeX Warning: Reference `fig:acceptances' on page 56 undefined on input line 4
+8.
+
+[56
+
+
+
+]
+<EXO-12-024/figs/signal-acc-eff/all-signal-acc-8TeV.pdf, id=3079, 569.12625pt x
+ 559.08875pt>
+File: EXO-12-024/figs/signal-acc-eff/all-signal-acc-8TeV.pdf Graphic file (type
+ pdf)
+ <use EXO-12-024/figs/signal-acc-eff/all-signal-acc-8TeV.pdf>
+Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/all-signal-acc-8TeV.pdf
+ used on input line 127.
+(pdftex.def)             Requested size: 381.5877pt x 374.87756pt.
+
+<EXO-12-024/figs/signal-acc-eff/single-tagging-eff-medium.pdf, id=3080, 569.126
+25pt x 559.08875pt>
+File: EXO-12-024/figs/signal-acc-eff/single-tagging-eff-medium.pdf Graphic file
+ (type pdf)
+
+<use EXO-12-024/figs/signal-acc-eff/single-tagging-eff-medium.pdf>
+Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/single-tagging-eff-medi
+um.pdf used on input line 137.
+(pdftex.def)             Requested size: 212.47617pt x 208.72787pt.
+
+<EXO-12-024/figs/signal-acc-eff/single-tagging-eff.pdf, id=3081, 569.12625pt x 
+559.08875pt>
+File: EXO-12-024/figs/signal-acc-eff/single-tagging-eff.pdf Graphic file (type 
+pdf)
+ <use EXO-12-024/figs/signal-acc-eff/single-tagging-eff.pdf>
+Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/single-tagging-eff.pdf 
+used on input line 138.
+(pdftex.def)             Requested size: 212.47617pt x 208.72787pt.
+
+<EXO-12-024/figs/signal-acc-eff/double-tagging-eff-medium.pdf, id=3082, 569.126
+25pt x 559.08875pt>
+File: EXO-12-024/figs/signal-acc-eff/double-tagging-eff-medium.pdf Graphic file
+ (type pdf)
+
+<use EXO-12-024/figs/signal-acc-eff/double-tagging-eff-medium.pdf>
+Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/double-tagging-eff-medi
+um.pdf used on input line 149.
+(pdftex.def)             Requested size: 212.47617pt x 208.72787pt.
+
+<EXO-12-024/figs/signal-acc-eff/double-tagging-eff.pdf, id=3083, 569.12625pt x 
+559.08875pt>
+File: EXO-12-024/figs/signal-acc-eff/double-tagging-eff.pdf Graphic file (type 
+pdf)
+ <use EXO-12-024/figs/signal-acc-eff/double-tagging-eff.pdf>
+Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/double-tagging-eff.pdf 
+used on input line 150.
+(pdftex.def)             Requested size: 212.47617pt x 208.72787pt.
+
+
+LaTeX Warning: Reference `fig:singleefficiencies' on page 57 undefined on input
+ line 161.
+
+
+LaTeX Warning: Reference `fig:doubleefficiencies' on page 57 undefined on input
+ line 161.
+
+
+LaTeX Warning: Reference `fig:mediumsignalShapes' on page 57 undefined on input
+ line 166.
+
+
+LaTeX Warning: Reference `fig:highsignalShapes' on page 57 undefined on input l
+ine 166.
+
+
+<EXO-12-024/figs/signal-acc-eff/resonance-shape-medium.pdf, id=3084, 569.12625p
+t x 368.37625pt>
+File: EXO-12-024/figs/signal-acc-eff/resonance-shape-medium.pdf Graphic file (t
+ype pdf)
+
+<use EXO-12-024/figs/signal-acc-eff/resonance-shape-medium.pdf>
+Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/resonance-shape-medium.
+pdf used on input line 180.
+(pdftex.def)             Requested size: 325.215pt x 210.51062pt.
+
+<EXO-12-024/figs/signal-acc-eff/resonance-shape.pdf, id=3085, 569.12625pt x 559
+.08875pt>
+File: EXO-12-024/figs/signal-acc-eff/resonance-shape.pdf Graphic file (type pdf
+)
+ <use EXO-12-024/figs/signal-acc-eff/resonance-shape.pdf>
+Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/resonance-shape.pdf use
+d on input line 190.
+(pdftex.def)             Requested size: 325.215pt x 319.49434pt.
+ [57 <./EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass.pdf, page is rot
+ated 90 degrees> <./EXO-12-024/figs/signal-acc-eff/signal-data-qcd-Jet-Tau21.pd
+f, page is rotated 90 degrees>] [58 <./EXO-12-024/figs/signal-acc-eff/all-signa
+l-acc-8TeV.pdf, page is rotated 90 degrees>] [59 <./EXO-12-024/figs/signal-acc-
+eff/single-tagging-eff-medium.pdf, page is rotated 90 degrees> <./EXO-12-024/fi
+gs/signal-acc-eff/single-tagging-eff.pdf, page is rotated 90 degrees> <./EXO-12
+-024/figs/signal-acc-eff/double-tagging-eff-medium.pdf, page is rotated 90 degr
+ees> <./EXO-12-024/figs/signal-acc-eff/double-tagging-eff.pdf, page is rotated 
+90 degrees>]
+[60 <./EXO-12-024/figs/signal-acc-eff/resonance-shape-medium.pdf, page is rotat
+ed 90 degrees>] [61 <./EXO-12-024/figs/signal-acc-eff/resonance-shape.pdf, page
+ is rotated 90 degrees>])
+\openout2 = `EXO-12-024/systematics.aux'.
+
+ (./EXO-12-024/systematics.tex
+
+LaTeX Warning: Citation `cmsdijet' on page 62 undefined on input line 15.
+
+
+LaTeX Warning: Reference `eqParam' on page 62 undefined on input line 16.
+
+
+LaTeX Warning: Reference `fig:singleVtagBG' on page 62 undefined on input line 
+28.
+
+
+LaTeX Warning: Reference `fig:doubleVtagBG' on page 62 undefined on input line 
+28.
+
+
+LaTeX Warning: Reference `eqParam' on page 62 undefined on input line 29.
+
+[62
+
+
+
+]
+<EXO-12-024/figs/MediumPuriqVFitAndPull.pdf, id=3510, 569.12625pt x 548.0475pt>
+File: EXO-12-024/figs/MediumPuriqVFitAndPull.pdf Graphic file (type pdf)
+<use EXO-12-024/figs/MediumPuriqVFitAndPull.pdf>
+Package pdftex.def Info: EXO-12-024/figs/MediumPuriqVFitAndPull.pdf used on inp
+ut line 39.
+(pdftex.def)             Requested size: 212.47617pt x 204.60579pt.
+
+<EXO-12-024/figs/HighPuriqVFitAndPull.pdf, id=3511, 569.12625pt x 548.0475pt>
+File: EXO-12-024/figs/HighPuriqVFitAndPull.pdf Graphic file (type pdf)
+
+<use EXO-12-024/figs/HighPuriqVFitAndPull.pdf>
+Package pdftex.def Info: EXO-12-024/figs/HighPuriqVFitAndPull.pdf used on input
+ line 40.
+(pdftex.def)             Requested size: 212.47617pt x 204.60579pt.
+
+<EXO-12-024/figs/MediumPuriVVFitAndPull.pdf, id=3512, 569.12625pt x 548.0475pt>
+File: EXO-12-024/figs/MediumPuriVVFitAndPull.pdf Graphic file (type pdf)
+<use EXO-12-024/figs/MediumPuriVVFitAndPull.pdf>
+Package pdftex.def Info: EXO-12-024/figs/MediumPuriVVFitAndPull.pdf used on inp
+ut line 52.
+(pdftex.def)             Requested size: 212.47617pt x 204.60579pt.
+
+<EXO-12-024/figs/HighPuriVVFitAndPull.pdf, id=3513, 569.12625pt x 548.0475pt>
+File: EXO-12-024/figs/HighPuriVVFitAndPull.pdf Graphic file (type pdf)
+
+<use EXO-12-024/figs/HighPuriVVFitAndPull.pdf>
+Package pdftex.def Info: EXO-12-024/figs/HighPuriVVFitAndPull.pdf used on input
+ line 53.
+(pdftex.def)             Requested size: 212.47617pt x 204.60579pt.
+
+
+LaTeX Warning: Citation `madgraph' on page 63 undefined on input line 72.
+
+[63 <./EXO-12-024/figs/MediumPuriqVFitAndPull.pdf, page is rotated 90 degrees> 
+<./EXO-12-024/figs/HighPuriqVFitAndPull.pdf, page is rotated 90 degrees>]
+
+LaTeX Warning: Citation `JME-13-006' on page 64 undefined on input line 76.
+
+
+LaTeX Warning: Reference `fig:singleefficiencies' on page 64 undefined on input
+ line 122.
+
+
+LaTeX Warning: Reference `fig:doubleefficiencies' on page 64 undefined on input
+ line 122.
+
+[64 <./EXO-12-024/figs/MediumPuriVVFitAndPull.pdf, page is rotated 90 degrees> 
+<./EXO-12-024/figs/HighPuriVVFitAndPull.pdf, page is rotated 90 degrees>]
+
+LaTeX Warning: Citation `JME-JINST' on page 65 undefined on input line 137.
+
+
+LaTeX Warning: Citation `Collaboration:2013dp' on page 65 undefined on input li
+ne 137.
+
+
+LaTeX Warning: Citation `JME-JINST' on page 65 undefined on input line 140.
+
+
+LaTeX Warning: Citation `LUM-13-001' on page 65 undefined on input line 142.
+
+[65] [66])
+\openout2 = `EXO-12-024/statistics.aux'.
+
+ (./EXO-12-024/statistics.tex
+
+LaTeX Warning: Citation `AsymptCLs' on page 67 undefined on input line 6.
+
+
+LaTeX Warning: Citation `CLs1' on page 67 undefined on input line 6.
+
+
+LaTeX Warning: Citation `CLs2' on page 67 undefined on input line 6.
+
+) [67
+
+
+
+]
+\openout2 = `EXO-12-024/results.aux'.
+
+ (./EXO-12-024/results.tex
+
+LaTeX Warning: Reference `fig:Vtagresults1' on page 68 undefined on input line 
+5.
+
+
+LaTeX Warning: Reference `fig:Vtagresults2' on page 68 undefined on input line 
+5.
+
+
+LaTeX Warning: Reference `fig:Vtagresults3' on page 68 undefined on input line 
+5.
+
+
+LaTeX Warning: Reference `table:results' on page 68 undefined on input line 9.
+
+
+LaTeX Warning: Citation `ref_2011' on page 68 undefined on input line 9.
+
+
+LaTeX Warning: Reference `fig:Vtagresults4' on page 68 undefined on input line 
+10.
+
+
+LaTeX Warning: Reference `fig:Vtagresults5' on page 68 undefined on input line 
+10.
+
+
+LaTeX Warning: Reference `fig:Vtagresults52' on page 68 undefined on input line
+ 10.
+
+
+LaTeX Warning: Reference `fig:Vtagresults6' on page 68 undefined on input line 
+10.
+
+
+LaTeX Warning: Reference `fig:lee' on page 68 undefined on input line 12.
+
+
+Overfull \hbox (73.11342pt too wide) in paragraph at lines 17--31
+ [] 
+ []
+
+
+<EXO-12-024/figs/limits/brazilianFlag_qW_high_purity.pdf, id=3716, 569.12625pt 
+x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_qW_high_purity.pdf Graphic file (typ
+e pdf)
+ <use EXO-12-024/figs/limits/brazilianFlag_qW_high_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_qW_high_purity.pd
+f used on input line 39.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_qZ_high_purity.pdf, id=3717, 569.12625pt 
+x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_qZ_high_purity.pdf Graphic file (typ
+e pdf)
+ <use EXO-12-024/figs/limits/brazilianFlag_qZ_high_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_qZ_high_purity.pd
+f used on input line 40.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_RS1WW_high_purity.pdf, id=3718, 569.12625
+pt x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_RS1WW_high_purity.pdf Graphic file (
+type pdf)
+
+<use EXO-12-024/figs/limits/brazilianFlag_RS1WW_high_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_RS1WW_high_purity
+.pdf used on input line 41.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_high_purity.pdf, id=3719, 569.12625
+pt x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_high_purity.pdf Graphic file (
+type pdf)
+
+<use EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_high_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_high_purity
+.pdf used on input line 42.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_BulkWW_high_purity.pdf, id=3720, 569.1262
+5pt x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_BulkWW_high_purity.pdf Graphic file 
+(type pdf)
+
+<use EXO-12-024/figs/limits/brazilianFlag_BulkWW_high_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_BulkWW_high_purit
+y.pdf used on input line 43.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_BulkZZ_high_purity.pdf, id=3721, 569.1262
+5pt x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_BulkZZ_high_purity.pdf Graphic file 
+(type pdf)
+
+<use EXO-12-024/figs/limits/brazilianFlag_BulkZZ_high_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_BulkZZ_high_purit
+y.pdf used on input line 44.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_WZ_high_purity.pdf, id=3722, 569.12625pt 
+x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_WZ_high_purity.pdf Graphic file (typ
+e pdf)
+ <use EXO-12-024/figs/limits/brazilianFlag_WZ_high_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_WZ_high_purity.pd
+f used on input line 45.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+
+LaTeX Warning: Float too large for page by 62.86559pt on input line 50.
+
+
+<EXO-12-024/figs/limits/brazilianFlag_qW_low_purity.pdf, id=3723, 569.12625pt x
+ 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_qW_low_purity.pdf Graphic file (type
+ pdf)
+ <use EXO-12-024/figs/limits/brazilianFlag_qW_low_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_qW_low_purity.pdf
+ used on input line 54.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_qZ_low_purity.pdf, id=3724, 569.12625pt x
+ 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_qZ_low_purity.pdf Graphic file (type
+ pdf)
+ <use EXO-12-024/figs/limits/brazilianFlag_qZ_low_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_qZ_low_purity.pdf
+ used on input line 55.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_RS1WW_low_purity.pdf, id=3725, 569.12625p
+t x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_RS1WW_low_purity.pdf Graphic file (t
+ype pdf)
+ <use EXO-12-024/figs/limits/brazilianFlag_RS1WW_low_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_RS1WW_low_purity.
+pdf used on input line 56.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_low_purity.pdf, id=3726, 569.12625p
+t x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_low_purity.pdf Graphic file (t
+ype pdf)
+ <use EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_low_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_low_purity.
+pdf used on input line 57.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_BulkWW_low_purity.pdf, id=3727, 569.12625
+pt x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_BulkWW_low_purity.pdf Graphic file (
+type pdf)
+
+<use EXO-12-024/figs/limits/brazilianFlag_BulkWW_low_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_BulkWW_low_purity
+.pdf used on input line 58.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_BulkZZ_low_purity.pdf, id=3728, 569.12625
+pt x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_BulkZZ_low_purity.pdf Graphic file (
+type pdf)
+
+<use EXO-12-024/figs/limits/brazilianFlag_BulkZZ_low_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_BulkZZ_low_purity
+.pdf used on input line 59.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_WZ_low_purity.pdf, id=3729, 569.12625pt x
+ 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_WZ_low_purity.pdf Graphic file (type
+ pdf)
+ <use EXO-12-024/figs/limits/brazilianFlag_WZ_low_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_WZ_low_purity.pdf
+ used on input line 60.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+
+LaTeX Warning: Float too large for page by 62.86559pt on input line 66.
+
+
+<EXO-12-024/figs/limits/brazilianFlag_qW_combined.pdf, id=3730, 569.12625pt x 5
+46.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_qW_combined.pdf Graphic file (type p
+df)
+ <use EXO-12-024/figs/limits/brazilianFlag_qW_combined.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_qW_combined.pdf u
+sed on input line 70.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_qZ_combined.pdf, id=3731, 569.12625pt x 5
+46.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_qZ_combined.pdf Graphic file (type p
+df)
+ <use EXO-12-024/figs/limits/brazilianFlag_qZ_combined.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_qZ_combined.pdf u
+sed on input line 71.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_RS1WW_combined.pdf, id=3732, 569.12625pt 
+x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_RS1WW_combined.pdf Graphic file (typ
+e pdf)
+ <use EXO-12-024/figs/limits/brazilianFlag_RS1WW_combined.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_RS1WW_combined.pd
+f used on input line 72.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_combined.pdf, id=3733, 569.12625pt 
+x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_combined.pdf Graphic file (typ
+e pdf)
+ <use EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_combined.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_combined.pd
+f used on input line 73.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_BulkWW_combined.pdf, id=3734, 569.12625pt
+ x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_BulkWW_combined.pdf Graphic file (ty
+pe pdf)
+ <use EXO-12-024/figs/limits/brazilianFlag_BulkWW_combined.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_BulkWW_combined.p
+df used on input line 74.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_BulkZZ_combined.pdf, id=3735, 569.12625pt
+ x 546.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_BulkZZ_combined.pdf Graphic file (ty
+pe pdf)
+ <use EXO-12-024/figs/limits/brazilianFlag_BulkZZ_combined.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_BulkZZ_combined.p
+df used on input line 75.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+<EXO-12-024/figs/limits/brazilianFlag_WZ_combined.pdf, id=3736, 569.12625pt x 5
+46.04pt>
+File: EXO-12-024/figs/limits/brazilianFlag_WZ_combined.pdf Graphic file (type p
+df)
+ <use EXO-12-024/figs/limits/brazilianFlag_WZ_combined.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_WZ_combined.pdf u
+sed on input line 76.
+(pdftex.def)             Requested size: 151.76964pt x 145.61641pt.
+
+
+LaTeX Warning: Float too large for page by 77.36559pt on input line 82.
+
+
+<EXO-12-024/figs/limits/pvalue_qW_low_purity.pdf, id=3737, 569.12625pt x 522.95
 375pt>
-File: EventSelectionFigures/signal-data-qcd-jetmass.pdf Graphic file (type pdf)
+File: EXO-12-024/figs/limits/pvalue_qW_low_purity.pdf Graphic file (type pdf)
+ <use EXO-12-024/figs/limits/pvalue_qW_low_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_qW_low_purity.pdf used o
+n input line 86.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
 
- <use EventSelectionFigures/signal-data-qcd-jetmass.pdf>
-Package pdftex.def Info: EventSelectionFigures/signal-data-qcd-jetmass.pdf used
- on input line 95.
+<EXO-12-024/figs/limits/pvalue_qZ_low_purity.pdf, id=3738, 569.12625pt x 522.95
+375pt>
+File: EXO-12-024/figs/limits/pvalue_qZ_low_purity.pdf Graphic file (type pdf)
+ <use EXO-12-024/figs/limits/pvalue_qZ_low_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_qZ_low_purity.pdf used o
+n input line 87.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_qW_high_purity.pdf, id=3739, 569.12625pt x 522.9
+5375pt>
+File: EXO-12-024/figs/limits/pvalue_qW_high_purity.pdf Graphic file (type pdf)
+ <use EXO-12-024/figs/limits/pvalue_qW_high_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_qW_high_purity.pdf used 
+on input line 88.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_qZ_high_purity.pdf, id=3740, 569.12625pt x 522.9
+5375pt>
+File: EXO-12-024/figs/limits/pvalue_qZ_high_purity.pdf Graphic file (type pdf)
+ <use EXO-12-024/figs/limits/pvalue_qZ_high_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_qZ_high_purity.pdf used 
+on input line 89.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_qW_combined.pdf, id=3741, 569.12625pt x 522.9537
+5pt>
+File: EXO-12-024/figs/limits/pvalue_qW_combined.pdf Graphic file (type pdf)
+ <use EXO-12-024/figs/limits/pvalue_qW_combined.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_qW_combined.pdf used on 
+input line 90.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_qZ_combined.pdf, id=3742, 569.12625pt x 522.9537
+5pt>
+File: EXO-12-024/figs/limits/pvalue_qZ_combined.pdf Graphic file (type pdf)
+ <use EXO-12-024/figs/limits/pvalue_qZ_combined.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_qZ_combined.pdf used on 
+input line 91.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_RS1WW_low_purity.pdf, id=3743, 569.12625pt x 522
+.95375pt>
+File: EXO-12-024/figs/limits/pvalue_RS1WW_low_purity.pdf Graphic file (type pdf
+)
+ <use EXO-12-024/figs/limits/pvalue_RS1WW_low_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_RS1WW_low_purity.pdf use
+d on input line 99.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_RS1ZZ_low_purity.pdf, id=3744, 569.12625pt x 522
+.95375pt>
+File: EXO-12-024/figs/limits/pvalue_RS1ZZ_low_purity.pdf Graphic file (type pdf
+)
+ <use EXO-12-024/figs/limits/pvalue_RS1ZZ_low_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_RS1ZZ_low_purity.pdf use
+d on input line 100.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_RS1WW_high_purity.pdf, id=3745, 569.12625pt x 52
+2.95375pt>
+File: EXO-12-024/figs/limits/pvalue_RS1WW_high_purity.pdf Graphic file (type pd
+f)
+ <use EXO-12-024/figs/limits/pvalue_RS1WW_high_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_RS1WW_high_purity.pdf us
+ed on input line 101.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_RS1ZZ_high_purity.pdf, id=3746, 569.12625pt x 52
+2.95375pt>
+File: EXO-12-024/figs/limits/pvalue_RS1ZZ_high_purity.pdf Graphic file (type pd
+f)
+ <use EXO-12-024/figs/limits/pvalue_RS1ZZ_high_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_RS1ZZ_high_purity.pdf us
+ed on input line 102.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_RS1WW_combined.pdf, id=3747, 569.12625pt x 522.9
+5375pt>
+File: EXO-12-024/figs/limits/pvalue_RS1WW_combined.pdf Graphic file (type pdf)
+ <use EXO-12-024/figs/limits/pvalue_RS1WW_combined.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_RS1WW_combined.pdf used 
+on input line 103.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_RS1ZZ_combined.pdf, id=3748, 569.12625pt x 522.9
+5375pt>
+File: EXO-12-024/figs/limits/pvalue_RS1ZZ_combined.pdf Graphic file (type pdf)
+ <use EXO-12-024/figs/limits/pvalue_RS1ZZ_combined.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_RS1ZZ_combined.pdf used 
+on input line 104.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_BulkWW_low_purity.pdf, id=3749, 569.12625pt x 52
+2.95375pt>
+File: EXO-12-024/figs/limits/pvalue_BulkWW_low_purity.pdf Graphic file (type pd
+f)
+ <use EXO-12-024/figs/limits/pvalue_BulkWW_low_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_BulkWW_low_purity.pdf us
+ed on input line 112.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_BulkZZ_low_purity.pdf, id=3750, 569.12625pt x 52
+2.95375pt>
+File: EXO-12-024/figs/limits/pvalue_BulkZZ_low_purity.pdf Graphic file (type pd
+f)
+ <use EXO-12-024/figs/limits/pvalue_BulkZZ_low_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_BulkZZ_low_purity.pdf us
+ed on input line 113.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_BulkWW_high_purity.pdf, id=3751, 569.12625pt x 5
+22.95375pt>
+File: EXO-12-024/figs/limits/pvalue_BulkWW_high_purity.pdf Graphic file (type p
+df)
+ <use EXO-12-024/figs/limits/pvalue_BulkWW_high_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_BulkWW_high_purity.pdf u
+sed on input line 114.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_BulkZZ_high_purity.pdf, id=3752, 569.12625pt x 5
+22.95375pt>
+File: EXO-12-024/figs/limits/pvalue_BulkZZ_high_purity.pdf Graphic file (type p
+df)
+ <use EXO-12-024/figs/limits/pvalue_BulkZZ_high_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_BulkZZ_high_purity.pdf u
+sed on input line 115.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_BulkWW_combined.pdf, id=3753, 569.12625pt x 522.
+95375pt>
+File: EXO-12-024/figs/limits/pvalue_BulkWW_combined.pdf Graphic file (type pdf)
+
+ <use EXO-12-024/figs/limits/pvalue_BulkWW_combined.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_BulkWW_combined.pdf used
+ on input line 116.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_BulkZZ_combined.pdf, id=3754, 569.12625pt x 522.
+95375pt>
+File: EXO-12-024/figs/limits/pvalue_BulkZZ_combined.pdf Graphic file (type pdf)
+
+ <use EXO-12-024/figs/limits/pvalue_BulkZZ_combined.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_BulkZZ_combined.pdf used
+ on input line 117.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_WZ_low_purity.pdf, id=3755, 569.12625pt x 522.95
+375pt>
+File: EXO-12-024/figs/limits/pvalue_WZ_low_purity.pdf Graphic file (type pdf)
+ <use EXO-12-024/figs/limits/pvalue_WZ_low_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_WZ_low_purity.pdf used o
+n input line 125.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_WZ_high_purity.pdf, id=3756, 569.12625pt x 522.9
+5375pt>
+File: EXO-12-024/figs/limits/pvalue_WZ_high_purity.pdf Graphic file (type pdf)
+ <use EXO-12-024/figs/limits/pvalue_WZ_high_purity.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_WZ_high_purity.pdf used 
+on input line 126.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/limits/pvalue_WZ_combined.pdf, id=3757, 569.12625pt x 522.9537
+5pt>
+File: EXO-12-024/figs/limits/pvalue_WZ_combined.pdf Graphic file (type pdf)
+ <use EXO-12-024/figs/limits/pvalue_WZ_combined.pdf>
+Package pdftex.def Info: EXO-12-024/figs/limits/pvalue_WZ_combined.pdf used on 
+input line 127.
+(pdftex.def)             Requested size: 151.76964pt x 139.45984pt.
+
+<EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys_1000_2300.pdf, id=3758,
+ 569.12625pt x 499.8675pt>
+File: EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys_1000_2300.pdf Grap
+hic file (type pdf)
+
+<use EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys_1000_2300.pdf>
+Package pdftex.def Info: EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys
+_1000_2300.pdf used on input line 135.
+(pdftex.def)             Requested size: 208.13574pt x 182.80478pt.
+
+<EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys_1200_2300.pdf, id=3759,
+ 569.12625pt x 499.8675pt>
+File: EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys_1200_2300.pdf Grap
+hic file (type pdf)
+
+<use EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys_1200_2300.pdf>
+Package pdftex.def Info: EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys
+_1200_2300.pdf used on input line 136.
+(pdftex.def)             Requested size: 208.13574pt x 182.80478pt.
+
+<EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys_1500_2000.pdf, id=3760,
+ 569.12625pt x 499.8675pt>
+File: EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys_1500_2000.pdf Grap
+hic file (type pdf)
+
+<use EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys_1500_2000.pdf>
+Package pdftex.def Info: EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys
+_1500_2000.pdf used on input line 137.
+(pdftex.def)             Requested size: 208.13574pt x 182.80478pt.
+
+<EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys_2000_2300.pdf, id=3761,
+ 569.12625pt x 499.8675pt>
+File: EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys_2000_2300.pdf Grap
+hic file (type pdf)
+
+<use EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys_2000_2300.pdf>
+Package pdftex.def Info: EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys
+_2000_2300.pdf used on input line 138.
+(pdftex.def)             Requested size: 208.13574pt x 182.80478pt.
+
+[68
+
+
+] [69 <./EXO-12-024/figs/limits/brazilianFlag_qW_high_purity.pdf, page is rotat
+ed 90 degrees> <./EXO-12-024/figs/limits/brazilianFlag_qZ_high_purity.pdf, page
+ is rotated 90 degrees> <./EXO-12-024/figs/limits/brazilianFlag_RS1WW_high_puri
+ty.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/limits/brazilianFlag_RS1
+ZZ_high_purity.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/limits/brazi
+lianFlag_BulkWW_high_purity.pdf, page is rotated 90 degrees> <./EXO-12-024/figs
+/limits/brazilianFlag_BulkZZ_high_purity.pdf, page is rotated 90 degrees> <./EX
+O-12-024/figs/limits/brazilianFlag_WZ_high_purity.pdf, page is rotated 90 degre
+es>] [70 <./EXO-12-024/figs/limits/brazilianFlag_qW_low_purity.pdf, page is rot
+ated 90 degrees> <./EXO-12-024/figs/limits/brazilianFlag_qZ_low_purity.pdf, pag
+e is rotated 90 degrees> <./EXO-12-024/figs/limits/brazilianFlag_RS1WW_low_puri
+ty.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/limits/brazilianFlag_RS1
+ZZ_low_purity.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/limits/brazil
+ianFlag_BulkWW_low_purity.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/l
+imits/brazilianFlag_BulkZZ_low_purity.pdf, page is rotated 90 degrees> <./EXO-1
+2-024/figs/limits/brazilianFlag_WZ_low_purity.pdf, page is rotated 90 degrees>]
+ [71 <./EXO-12-024/figs/limits/brazilianFlag_qW_combined.pdf, page is rotated 9
+0 degrees> <./EXO-12-024/figs/limits/brazilianFlag_qZ_combined.pdf, page is rot
+ated 90 degrees> <./EXO-12-024/figs/limits/brazilianFlag_RS1WW_combined.pdf, pa
+ge is rotated 90 degrees> <./EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_combine
+d.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/limits/brazilianFlag_Bulk
+WW_combined.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/limits/brazilia
+nFlag_BulkZZ_combined.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/limit
+s/brazilianFlag_WZ_combined.pdf, page is rotated 90 degrees>] [72 <./EXO-12-024
+/figs/limits/pvalue_qW_low_purity.pdf, page is rotated 90 degrees> <./EXO-12-02
+4/figs/limits/pvalue_qZ_low_purity.pdf, page is rotated 90 degrees> <./EXO-12-0
+24/figs/limits/pvalue_qW_high_purity.pdf, page is rotated 90 degrees> <./EXO-12
+-024/figs/limits/pvalue_qZ_high_purity.pdf, page is rotated 90 degrees> <./EXO-
+12-024/figs/limits/pvalue_qW_combined.pdf, page is rotated 90 degrees> <./EXO-1
+2-024/figs/limits/pvalue_qZ_combined.pdf, page is rotated 90 degrees>]
+[73 <./EXO-12-024/figs/limits/pvalue_RS1WW_low_purity.pdf, page is rotated 90 d
+egrees> <./EXO-12-024/figs/limits/pvalue_RS1ZZ_low_purity.pdf, page is rotated 
+90 degrees> <./EXO-12-024/figs/limits/pvalue_RS1WW_high_purity.pdf, page is rot
+ated 90 degrees> <./EXO-12-024/figs/limits/pvalue_RS1ZZ_high_purity.pdf, page i
+s rotated 90 degrees> <./EXO-12-024/figs/limits/pvalue_RS1WW_combined.pdf, page
+ is rotated 90 degrees> <./EXO-12-024/figs/limits/pvalue_RS1ZZ_combined.pdf, pa
+ge is rotated 90 degrees>] [74 <./EXO-12-024/figs/limits/pvalue_BulkWW_low_puri
+ty.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/limits/pvalue_BulkZZ_low
+_purity.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/limits/pvalue_BulkW
+W_high_purity.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/limits/pvalue
+_BulkZZ_high_purity.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/limits/
+pvalue_BulkWW_combined.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/limi
+ts/pvalue_BulkZZ_combined.pdf, page is rotated 90 degrees>] [75 <./EXO-12-024/f
+igs/limits/pvalue_WZ_low_purity.pdf, page is rotated 90 degrees> <./EXO-12-024/
+figs/limits/pvalue_WZ_high_purity.pdf, page is rotated 90 degrees> <./EXO-12-02
+4/figs/limits/pvalue_WZ_combined.pdf, page is rotated 90 degrees>] [76 <./EXO-1
+2-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys_1000_2300.pdf, page is rotate
+d 90 degrees> <./EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig_channel2_toys_1200_23
+00.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/appendix/Xvv_WW_8TeV_Sig
+_channel2_toys_1500_2000.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/ap
+pendix/Xvv_WW_8TeV_Sig_channel2_toys_2000_2300.pdf, page is rotated 90 degrees>
+])
+\openout2 = `EXO-12-024/conclusions.aux'.
+
+ (./EXO-12-024/conclusions.tex) [77
+
+
+
+]
+\openout2 = `EXO-14-009/introduction.aux'.
+
+ (./EXO-14-009/introduction.tex
+Chapter 4.
+
+LaTeX Warning: Citation `Chatrchyan:2012ufa' on page 78 undefined on input line
+ 9.
+
+
+LaTeX Warning: Citation `higgsdiscoveryAtlas' on page 78 undefined on input lin
+e 9.
+
+
+LaTeX Warning: Citation `Gouzevitch:2013qca' on page 78 undefined on input line
+ 15.
+
+
+LaTeX Warning: Reference `fig:Xdecays' on page 78 undefined on input line 22.
+
+[78
+
+
+
+]
+
+LaTeX Warning: Citation `Composite0' on page 79 undefined on input line 31.
+
+
+LaTeX Warning: Citation `Composite1' on page 79 undefined on input line 31.
+
+
+LaTeX Warning: Citation `Composite2' on page 79 undefined on input line 31.
+
+
+LaTeX Warning: Citation `Han:2003wu' on page 79 undefined on input line 31.
+
+
+LaTeX Warning: Citation `Pappadopulo:2014qza' on page 79 undefined on input lin
+e 34.
+
+
+LaTeX Warning: Citation `Pappadopulo:2014qza' on page 79 undefined on input lin
+e 40.
+
+
+LaTeX Warning: Citation `CMSwprimePAPER2013' on page 79 undefined on input line
+ 42.
+
+
+LaTeX Warning: Citation `ATLASwprimePAPER' on page 79 undefined on input line 4
+2.
+
+
+LaTeX Warning: Citation `CMSwprimeWZPAS' on page 79 undefined on input line 46.
+
+
+
+LaTeX Warning: Citation `ATLASWWPAPER' on page 79 undefined on input line 46.
+
+
+LaTeX Warning: Citation `ATLASwprimeWZPAS' on page 79 undefined on input line 4
+6.
+
+
+LaTeX Warning: Citation `ATLASzprimePAPER' on page 79 undefined on input line 4
+9.
+
+
+LaTeX Warning: Citation `CMSzprimePAPER' on page 79 undefined on input line 49.
+
+
+<EXO-14-009/figs/diagrambb.png, id=5808, 320.19624pt x 184.69pt>
+File: EXO-14-009/figs/diagrambb.png Graphic file (type png)
+
+<use EXO-14-009/figs/diagrambb.png>
+Package pdftex.def Info: EXO-14-009/figs/diagrambb.png used on input line 55.
+(pdftex.def)             Requested size: 212.47617pt x 122.55801pt.
+
+<EXO-14-009/figs/diagramww.png, id=5810, 329.23pt x 202.7575pt>
+File: EXO-14-009/figs/diagramww.png Graphic file (type png)
+
+<use EXO-14-009/figs/diagramww.png>
+Package pdftex.def Info: EXO-14-009/figs/diagramww.png used on input line 56.
+(pdftex.def)             Requested size: 212.47617pt x 130.85648pt.
+
+
+LaTeX Warning: Citation `BTV-13-001' on page 79 undefined on input line 74.
+
+
+LaTeX Warning: Citation `topwtag_pas' on page 79 undefined on input line 77.
+
+
+LaTeX Warning: Citation `JME-13-006' on page 79 undefined on input line 77.
+
+[79]
+
+LaTeX Warning: Citation `cmsdijet' on page 80 undefined on input line 94.
+
+
+LaTeX Warning: Citation `cmsdijet8TeV' on page 80 undefined on input line 94.
+
+
+LaTeX Warning: Citation `CMS:2013fea' on page 80 undefined on input line 102.
+
+[80 <./EXO-14-009/figs/diagrambb.png> <./EXO-14-009/figs/diagramww.png>]
+
+LaTeX Warning: Citation `HH4b' on page 81 undefined on input line 112.
+
+) [81]
+\openout2 = `EXO-14-009/data_and_mc_samples.aux'.
+
+ (./EXO-14-009/data_and_mc_samples.tex
+
+LaTeX Warning: Reference `table:dataset' on page 82 undefined on input line 33.
+
+
+
+LaTeX Warning: Reference `table:Hww' on page 82 undefined on input line 41.
+
+
+LaTeX Warning: Reference `appendix:modelParam' on page 82 undefined on input li
+ne 45.
+
+
+LaTeX Warning: Citation `madgraph' on page 82 undefined on input line 46.
+
+
+LaTeX Warning: Citation `pythia' on page 82 undefined on input line 51.
+
+
+LaTeX Warning: Citation `herwig' on page 82 undefined on input line 51.
+
+
+LaTeX Warning: Citation `refGEANT' on page 82 undefined on input line 53.
+
+
+LaTeX Warning: Citation `bib_tunez1' on page 82 undefined on input line 54.
+
+
+LaTeX Warning: Citation `herwig' on page 82 undefined on input line 55.
+
+
+LaTeX Warning: Citation `cteq' on page 82 undefined on input line 56.
+
+
+LaTeX Warning: Citation `mrst' on page 82 undefined on input line 57.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\OT1/cmr/m/n/12 Table 4.1: []Summary of 8 TeV-col-li-sion data used in this
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\OT1/cmr/m/n/12 anal-y-sis. The cer-ti-fi-ca-tion file used for these data is
+ []
+
+) [82
+
+
+] [83]
+\openout2 = `EXO-14-009/trigger.aux'.
+
+ (./EXO-14-009/trigger.tex
+Overfull \hbox (33.09074pt too wide) in paragraph at lines 8--15
+[]\OT1/cmr/m/n/12 Events are se-lected if one of the fol-low-ing trig-gers has 
+fired: HLT[]HT750, HLT[]PFHT650,
+ []
+
+
+Overfull \hbox (2.31177pt too wide) in paragraph at lines 8--15
+\OT1/cmr/m/n/12 HLT[]PFNoPUHT650 HLT[]FatDiPFJetMass750[]DR1p1[]Deta1p5. All ve
+r-sions of each
+ []
+
+
+LaTeX Warning: Reference `fig:trigger efficiencies part1' on page 84 undefined 
+on input line 17.
+
+
+LaTeX Warning: Reference `fig:trigger efficiencies part2' on page 84 undefined 
+on input line 17.
+
+
+LaTeX Warning: Reference `fig:trigger efficiencies part3' on page 84 undefined 
+on input line 18.
+
+
+LaTeX Warning: Reference `fig:referencetrigger' on page 84 undefined on input l
+ine 27.
+
+
+LaTeX Warning: Reference `fig:referencetrigger' on page 84 undefined on input l
+ine 28.
+
+
+<EXO-14-009/figs/trigger-eff/TriggerStudySignal.pdf, id=5849, 569.12625pt x 555
+.07375pt>
+File: EXO-14-009/figs/trigger-eff/TriggerStudySignal.pdf Graphic file (type pdf
+)
+ <use EXO-14-009/figs/trigger-eff/TriggerStudySignal.pdf>
+Package pdftex.def Info: EXO-14-009/figs/trigger-eff/TriggerStudySignal.pdf use
+d on input line 46.
+(pdftex.def)             Requested size: 569.12486pt x 555.07237pt.
+
+<EXO-14-009/figs/trigger-eff/Dataeff_withouttagging.pdf, id=5850, 569.12625pt x
+ 442.65375pt>
+File: EXO-14-009/figs/trigger-eff/Dataeff_withouttagging.pdf Graphic file (type
+ pdf)
+ <use EXO-14-009/figs/trigger-eff/Dataeff_withouttagging.pdf>
+Package pdftex.def Info: EXO-14-009/figs/trigger-eff/Dataeff_withouttagging.pdf
+ used on input line 53.
+(pdftex.def)             Requested size: 569.12486pt x 442.65265pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]\OT1/cmr/m/n/12 Figure 4.3: []trigger ef-fi-ciency for un-tagged data of
+ []
+
+
+Underfull \hbox (badness 4543) in paragraph at lines 54--54
+\OT1/cmr/m/n/12 fat[]750$\OMS/cmsy/m/n/12 k$\OT1/cmr/m/n/12 hlt[]pf(nopu)ht650$
+\OMS/cmsy/m/n/12 k$\OT1/cmr/m/n/12 hlt[]ht750 mea-sured us-ing data col-lected 
+by lower
+ []
+
+
+<EXO-14-009/figs/trigger-eff/DijetMassHbbPlotHighPurityBinned.pdf, id=5851, 569
+.12625pt x 556.0775pt>
+File: EXO-14-009/figs/trigger-eff/DijetMassHbbPlotHighPurityBinned.pdf Graphic 
+file (type pdf)
+
+<use EXO-14-009/figs/trigger-eff/DijetMassHbbPlotHighPurityBinned.pdf>
+Package pdftex.def Info: EXO-14-009/figs/trigger-eff/DijetMassHbbPlotHighPurity
+Binned.pdf used on input line 60.
+(pdftex.def)             Requested size: 569.12486pt x 556.07614pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]\OT1/cmr/m/n/12 Figure 4.4: []Trigger ef-fi-ciency for Hb-b-Vqq tagged data o
+f
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\OT1/cmr/m/n/12 FAT[]750$\OMS/cmsy/m/n/12 k$\OT1/cmr/m/n/12 HLT[]PF(NoPU)HT650$
+\OMS/cmsy/m/n/12 k$\OT1/cmr/m/n/12 HLT[]HT750 mea-sured us-ing data col-lected
+ []
+
+
+<EXO-14-009/figs/trigger-eff/DijetMassPlotBinnedHighP.pdf, id=5852, 569.12625pt
+ x 556.0775pt>
+File: EXO-14-009/figs/trigger-eff/DijetMassPlotBinnedHighP.pdf Graphic file (ty
+pe pdf)
+ <use EXO-14-009/figs/trigger-eff/DijetMassPlotBinnedHighP.pdf>
+Package pdftex.def Info: EXO-14-009/figs/trigger-eff/DijetMassPlotBinnedHighP.p
+df used on input line 67.
+(pdftex.def)             Requested size: 569.12486pt x 556.07614pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]\OT1/cmr/m/n/12 Figure 4.5: []Trigger ef-fi-ciency for HqqqqVqq tagged data o
+f
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/12 FAT[]750$\OMS/cmsy/m/n/12 k$\OT1/cmr/m/n/12 HLT[]PF(NoPU)HT650$
+\OMS/cmsy/m/n/12 k$\OT1/cmr/m/n/12 HLT[]HT750 mea-sured us-ing data col-lected
+ []
+
+[84
+
+
+] [85 <./EXO-14-009/figs/trigger-eff/TriggerStudySignal.pdf, page is rotated 90
+ degrees>] [86 <./EXO-14-009/figs/trigger-eff/Dataeff_withouttagging.pdf, page 
+is rotated 90 degrees>] [87 <./EXO-14-009/figs/trigger-eff/DijetMassHbbPlotHigh
+PurityBinned.pdf, page is rotated 90 degrees>] [88 <./EXO-14-009/figs/trigger-e
+ff/DijetMassPlotBinnedHighP.pdf, page is rotated 90 degrees>])
+\openout2 = `EXO-14-009/analysis.aux'.
+
+
+(./EXO-14-009/analysis.tex
+
+LaTeX Warning: Citation `particleflow' on page 89 undefined on input line 11.
+
+
+LaTeX Warning: Citation `CAaachen' on page 89 undefined on input line 16.
+
+
+LaTeX Warning: Citation `CAcambridge' on page 89 undefined on input line 16.
+
+
+LaTeX Warning: Citation `fastjet1' on page 89 undefined on input line 17.
+
+
+LaTeX Warning: Citation `fastjet' on page 89 undefined on input line 17.
+
+
+LaTeX Warning: Citation `jetarea_fastjet' on page 89 undefined on input line 34
+.
+
+
+LaTeX Warning: Citation `jetarea_fastjet_pu' on page 89 undefined on input line
+ 34.
+
+
+LaTeX Warning: Citation `JME-JINST' on page 89 undefined on input line 43.
+
+
+LaTeX Warning: Citation `Collaboration:2012dp' on page 89 undefined on input li
+ne 43.
+
+[89
+
+
+
+]
+
+LaTeX Warning: Citation `topwtag_pas' on page 90 undefined on input line 49.
+
+[90]) [91]
+\openout2 = `EXO-14-009/H-taggingAlgo1.aux'.
+
+ (./EXO-14-009/H-taggingAlgo1.tex
+
+LaTeX Warning: Citation `pdg-higgs' on page 92 undefined on input line 9.
+
+
+LaTeX Warning: Reference `sec:N-subjettiness' on page 92 undefined on input lin
+e 21.
+
+
+LaTeX Warning: Reference `sec:jetPruning' on page 92 undefined on input line 22
+.
+
+
+LaTeX Warning: Reference `sec:wztagging' on page 92 undefined on input line 23.
+
+
+
+LaTeX Warning: Reference `sec:higgsTaggerbb' on page 92 undefined on input line
+ 24.
+
+
+LaTeX Warning: Reference `sec:higgsTaggerww' on page 92 undefined on input line
+ 24.
+
+
+LaTeX Warning: Citation `Thaler:2010tr' on page 92 undefined on input line 32.
+
+
+LaTeX Warning: Citation `Thaler:2011gf' on page 92 undefined on input line 32.
+
+
+LaTeX Warning: Citation `Stewart:2010tn' on page 92 undefined on input line 32.
+
+
+
+LaTeX Warning: Citation `Thaler:2010tr' on page 92 undefined on input line 38.
+
+[92
+
+
+]
+
+LaTeX Warning: Citation `Thaler:2010tr' on page 93 undefined on input line 51.
+
+
+LaTeX Warning: Reference `fig:N-sub-mass' on page 93 undefined on input line 56
+.
+
+
+<EXO-14-009/figs/N-subjettiness/Signal_MC_Pre.pdf, id=6074, 569.12625pt x 463.7
+325pt>
+File: EXO-14-009/figs/N-subjettiness/Signal_MC_Pre.pdf Graphic file (type pdf)
+ <use EXO-14-009/figs/N-subjettiness/Signal_MC_Pre.pdf>
+Package pdftex.def Info: EXO-14-009/figs/N-subjettiness/Signal_MC_Pre.pdf used 
+on input line 64.
+(pdftex.def)             Requested size: 569.12486pt x 463.73135pt.
+
+<EXO-14-009/figs/N-subjettiness/Signal_MC.pdf, id=6075, 569.12625pt x 463.7325p
+t>
+File: EXO-14-009/figs/N-subjettiness/Signal_MC.pdf Graphic file (type pdf)
+ <use EXO-14-009/figs/N-subjettiness/Signal_MC.pdf>
+Package pdftex.def Info: EXO-14-009/figs/N-subjettiness/Signal_MC.pdf used on i
+nput line 65.
+(pdftex.def)             Requested size: 569.12486pt x 463.73135pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 63--71
+ [][] 
+ []
+
+
+LaTeX Warning: Citation `catop_cms' on page 93 undefined on input line 86.
+
+
+LaTeX Warning: Citation `topwtag_pas' on page 93 undefined on input line 86.
+
+
+LaTeX Warning: Citation `jetpruning1' on page 93 undefined on input line 91.
+
+
+LaTeX Warning: Citation `jetpruning2' on page 93 undefined on input line 91.
+
+
+LaTeX Warning: Reference `fig:JetMassTagging' on page 93 undefined on input lin
+e 108.
+
+[93]
+<EXO-14-009/HbbZqqfigs/Signal/signal-data-qcd-jetmass.pdf, id=6082, 569.12625pt
+ x 555.07375pt>
+File: EXO-14-009/HbbZqqfigs/Signal/signal-data-qcd-jetmass.pdf Graphic file (ty
+pe pdf)
+ <use EXO-14-009/HbbZqqfigs/Signal/signal-data-qcd-jetmass.pdf>
+Package pdftex.def Info: EXO-14-009/HbbZqqfigs/Signal/signal-data-qcd-jetmass.p
+df used on input line 116.
 (pdftex.def)             Requested size: 299.19885pt x 291.82462pt.
 
 
-LaTeX Warning: Citation `CSVBtagging' on page 6 undefined on input line 116.
+LaTeX Warning: Citation `CMS:2013fea' on page 94 undefined on input line 145.
+
+[94 <./EXO-14-009/figs/N-subjettiness/Signal_MC_Pre.pdf, page is rotated 90 deg
+rees> <./EXO-14-009/figs/N-subjettiness/Signal_MC.pdf, page is rotated 90 degre
+es>] [95 <./EXO-14-009/HbbZqqfigs/Signal/signal-data-qcd-jetmass.pdf, page is r
+otated 90 degrees>]
+
+LaTeX Warning: Citation `JME-13-006' on page 96 undefined on input line 159.
 
 
-LaTeX Warning: Citation `CSVBtagging' on page 6 undefined on input line 121.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 179.
 
 
-LaTeX Warning: Citation `BTV-13-001' on page 6 undefined on input line 134.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 179.
 
-[6] [7 <./EventSelectionFigures/signal-data-qcd-jetmass.pdf, page is rotated 90
- degr
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 179.
+
+
+LaTeX Warning: Citation `BTV-13-001' on page 96 undefined on input line 185.
+
+
+LaTeX Warning: Citation `HH4b' on page 96 undefined on input line 191.
+
+
+LaTeX Warning: Citation `HWlv' on page 96 undefined on input line 192.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 210.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 210.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 210.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 210.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 210.
+
+[96]
+
+LaTeX Warning: Citation `cmstoptagging' on page 97 undefined on input line 226.
+
+
+
+LaTeX Warning: Reference `fig:Nsubjets' on page 97 undefined on input line 234.
+
+
+
+<EXO-14-009/HqqqqZqqfigs/N-subjettiness/Nsubjets.pdf, id=6232, 569.12625pt x 55
+6.0775pt>
+File: EXO-14-009/HqqqqZqqfigs/N-subjettiness/Nsubjets.pdf Graphic file (type pd
+f)
+ <use EXO-14-009/HqqqqZqqfigs/N-subjettiness/Nsubjets.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/N-subjettiness/Nsubjets.pdf us
+ed on input line 239.
+(pdftex.def)             Requested size: 569.12486pt x 556.07614pt.
+
+
+LaTeX Warning: Reference `fig:tau421TeV' on page 97 undefined on input line 253
+.
+
+
+LaTeX Warning: Reference `fig:tau422TeV' on page 97 undefined on input line 253
+.
+
+
+<EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVPre.pdf, id=6233, 569.12625pt 
+x 556.0775pt>
+File: EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVPre.pdf Graphic file (typ
+e pdf)
+ <use EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVPre.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVPre.pd
+f used on input line 260.
+(pdftex.def)             Requested size: 569.12486pt x 556.07614pt.
+
+<EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVAfter.pdf, id=6234, 569.12625p
+t x 556.0775pt>
+File: EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVAfter.pdf Graphic file (t
+ype pdf)
+
+<use EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVAfter.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVAfter.
+pdf used on input line 261.
+(pdftex.def)             Requested size: 569.12486pt x 556.07614pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 259--271
+ [][] 
+ []
+
+
+<EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllPre.pdf, id=6235, 569.12625
+pt x 556.0775pt>
+File: EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllPre.pdf Graphic file (
+type pdf)
+
+<use EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllPre.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllPre
+.pdf used on input line 278.
+(pdftex.def)             Requested size: 569.12486pt x 556.07614pt.
+
+<EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllAfter.pdf, id=6236, 569.126
+25pt x 556.0775pt>
+File: EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllAfter.pdf Graphic file
+ (type pdf)
+
+<use EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllAfter.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllAft
+er.pdf used on input line 279.
+(pdftex.def)             Requested size: 569.12486pt x 556.07614pt.
+
+Overfull \hbox (23.99728pt too wide) in paragraph at lines 277--287
+ [][] 
+ []
+
+
+LaTeX Warning: Reference `appendix:tauNM' on page 97 undefined on input line 29
+2.
+
+
+LaTeX Warning: Reference `fig:roc' on page 97 undefined on input line 295.
+
+<EXO-14-009/ROC.pdf, id=6237, 569.12625pt x 556.0775pt>
+File: EXO-14-009/ROC.pdf Graphic file (type pdf)
+
+<use EXO-14-009/ROC.pdf>
+Package pdftex.def Info: EXO-14-009/ROC.pdf used on input line 305.
+(pdftex.def)             Requested size: 569.12486pt x 556.07614pt.
+ [97]
+
+LaTeX Warning: Reference `sec:tau42Opti' on page 98 undefined on input line 319
+.
+
+[98 <./EXO-14-009/HqqqqZqqfigs/N-subjettiness/Nsubjets.pdf, page is rotated 90 
+degrees>] [99 <./EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVPre.pdf, page 
+is rotated 90 degrees> <./EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVAfter
+.pdf, page is rotated 90 degrees> <./EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau
+42PlotAllPre.pdf, page is rotated 90 degrees> <./EXO-14-009/HqqqqZqqfigs/N-subj
+ettiness/tau42PlotAllAfter.pdf, page is rotated 90 degrees>] [100 <./EXO-14-009
+/ROC.pdf, page is rotated 90 degrees>] [101]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 339.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\tau' on input line 339.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 339.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\tau' on input line 339.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 339.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 339.
+
+
+LaTeX Warning: Reference `sec:statistics' on page 102 undefined on input line 3
+46.
+
+
+LaTeX Warning: Reference `table:tau42Opti' on page 102 undefined on input line 
+349.
+
+
+LaTeX Warning: Reference `fig:tau421TeV' on page 102 undefined on input line 35
+5.
+
+
+LaTeX Warning: Reference `fig:tau422TeV' on page 102 undefined on input line 35
+5.
+
+[102
+
+] [103])
+\openout2 = `EXO-14-009/signal.aux'.
+
+ (./EXO-14-009/signal.tex
+
+LaTeX Warning: Reference `table:categories' on page 104 undefined on input line
+ 15.
+
+
+LaTeX Warning: Reference `fig:HiggsTau42' on page 104 undefined on input line 5
+4.
+
+
+<EXO-14-009/HqqqqZqqfigs/cross-talk/cross-talk.pdf, id=6534, 569.12625pt x 555.
+07375pt>
+File: EXO-14-009/HqqqqZqqfigs/cross-talk/cross-talk.pdf Graphic file (type pdf)
+
+ <use EXO-14-009/HqqqqZqqfigs/cross-talk/cross-talk.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/cross-talk/cross-talk.pdf used
+ on input line 60.
+(pdftex.def)             Requested size: 569.12486pt x 555.07237pt.
+ [104
+
+
+
+]
+
+LaTeX Warning: Reference `table:HbbHww' on page 105 undefined on input line 73.
+
+
+
+Overfull \hbox (2.85571pt too wide) in paragraph at lines 73--93
+\OT1/cmr/m/n/12 Higgs branch-ing ra-tios cor-re-spond to the Higgs mass of 125 
+GeV. For $[]$,
+ []
+
+[105 <./EXO-14-009/HqqqqZqqfigs/cross-talk/cross-talk.pdf, page is rotated 90 d
+egrees>]
+
+LaTeX Warning: Reference `table:HbbHww' on page 106 undefined on input line 94.
+
+
+
+LaTeX Warning: Reference `appendix:crosstalkData' on page 106 undefined on inpu
+t line 125.
+
+
+LaTeX Warning: Float too large for page by 189.23323pt on input line 171.
+
+[106] [107]
+
+LaTeX Warning: Reference `table:categories' on page 108 undefined on input line
+ 233.
+
+[108
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 296.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 296.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@@overline' on input line 296.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 296.
+
+
+LaTeX Warning: Reference `fig:HEff' on page 109 undefined on input line 303.
+
+
+<EXO-14-009/HbbZqqfigs/Signal/H-taggingEff-8TeV.pdf, id=6606, 569.12625pt x 414
+.54875pt>
+File: EXO-14-009/HbbZqqfigs/Signal/H-taggingEff-8TeV.pdf Graphic file (type pdf
+)
+ <use EXO-14-009/HbbZqqfigs/Signal/H-taggingEff-8TeV.pdf>
+Package pdftex.def Info: EXO-14-009/HbbZqqfigs/Signal/H-taggingEff-8TeV.pdf use
+d on input line 309.
+(pdftex.def)             Requested size: 212.47617pt x 154.76591pt.
+
+<EXO-14-009/HbbZqqfigs/Signal/Z-taggingEff-8TeV.pdf, id=6607, 569.12625pt x 415
+.5525pt>
+File: EXO-14-009/HbbZqqfigs/Signal/Z-taggingEff-8TeV.pdf Graphic file (type pdf
+)
+ <use EXO-14-009/HbbZqqfigs/Signal/Z-taggingEff-8TeV.pdf>
+Package pdftex.def Info: EXO-14-009/HbbZqqfigs/Signal/Z-taggingEff-8TeV.pdf use
+d on input line 310.
+(pdftex.def)             Requested size: 212.47617pt x 155.14066pt.
+ [109]
+
+LaTeX Warning: Reference `fig:fatCSVM' on page 110 undefined on input line 340.
+
+
+
+<EXO-14-009/HbbZqqfigs/Signal/H-taggingEff-8TeV-CSVM.pdf, id=6614, 569.12625pt 
+x 415.5525pt>
+File: EXO-14-009/HbbZqqfigs/Signal/H-taggingEff-8TeV-CSVM.pdf Graphic file (typ
+e pdf)
+ <use EXO-14-009/HbbZqqfigs/Signal/H-taggingEff-8TeV-CSVM.pdf>
+Package pdftex.def Info: EXO-14-009/HbbZqqfigs/Signal/H-taggingEff-8TeV-CSVM.pd
+f used on input line 352.
+(pdftex.def)             Requested size: 260.17464pt x 189.97707pt.
+
+[110 <./EXO-14-009/HbbZqqfigs/Signal/H-taggingEff-8TeV.pdf, page is rotated 90 
+degrees> <./EXO-14-009/HbbZqqfigs/Signal/Z-taggingEff-8TeV.pdf, page is rotated
+ 90 degrees>] [111 <./EXO-14-009/HbbZqqfigs/Signal/H-taggingEff-8TeV-CSVM.pdf, 
+page is rotated 90 degrees>]
+Overfull \hbox (4.44366pt too wide) in paragraph at lines 363--363
+[]\OT1/cmr/bx/n/17.28 Signal ac-cep-tance and to-tal ef-fi-ciency for $\OML/cmm
+/m/it/17.28 H \OMS/cmsy/m/n/17.28 !
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 363.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 363.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@@overline' on input line 363.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 363.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 363.
+
+
+LaTeX Warning: Reference `fig:Acc' on page 112 undefined on input line 368.
+
+
+<EXO-14-009/HbbZqqfigs/Signal/HbbZqq-signal-acc-8TeV.pdf, id=6754, 569.12625pt 
+x 414.54875pt>
+File: EXO-14-009/HbbZqqfigs/Signal/HbbZqq-signal-acc-8TeV.pdf Graphic file (typ
+e pdf)
+ <use EXO-14-009/HbbZqqfigs/Signal/HbbZqq-signal-acc-8TeV.pdf>
+Package pdftex.def Info: EXO-14-009/HbbZqqfigs/Signal/HbbZqq-signal-acc-8TeV.pd
+f used on input line 372.
+(pdftex.def)             Requested size: 212.47617pt x 154.76591pt.
+
+
+LaTeX Warning: Reference `fig:HbbZqqOverallEff' on page 112 undefined on input 
+line 383.
+
+
+<EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-8TeV.pdf, id=6755, 569.1
+2625pt x 556.0775pt>
+File: EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-8TeV.pdf Graphic fi
+le (type pdf)
+
+<use EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-8TeV.pdf>
+Package pdftex.def Info: EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-
+8TeV.pdf used on input line 388.
+(pdftex.def)             Requested size: 212.47617pt x 207.60367pt.
+
+<EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-LowV-8TeV.pdf, id=6756, 
+569.12625pt x 556.0775pt>
+File: EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-LowV-8TeV.pdf Graph
+ic file (type pdf)
+
+<use EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-LowV-8TeV.pdf>
+Package pdftex.def Info: EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-
+LowV-8TeV.pdf used on input line 389.
+(pdftex.def)             Requested size: 212.47617pt x 207.60367pt.
+
+[112
+
+ <./EXO-14-009/HbbZqqfigs/Signal/HbbZqq-signal-acc-8TeV.pdf, page is rotated 90
+ degrees>] [113 <./EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-8TeV.p
+df> <./EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-LowV-8TeV.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 423.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 423.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 423.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 423.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 423.
+
+
+LaTeX Warning: Reference `fig:HwwEff' on page 114 undefined on input line 427.
+
+
+<EXO-14-009/HqqqqZqqfigs/Signal/H-taggingEff-8TeV.pdf, id=6824, 569.12625pt x 4
+15.5525pt>
+File: EXO-14-009/HqqqqZqqfigs/Signal/H-taggingEff-8TeV.pdf Graphic file (type p
+df)
+ <use EXO-14-009/HqqqqZqqfigs/Signal/H-taggingEff-8TeV.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/Signal/H-taggingEff-8TeV.pdf u
+sed on input line 430.
+(pdftex.def)             Requested size: 212.47617pt x 155.14066pt.
+
+<EXO-14-009/HqqqqZqqfigs/Signal/Z-taggingEff-8TeV.pdf, id=6825, 569.12625pt x 4
+15.5525pt>
+File: EXO-14-009/HqqqqZqqfigs/Signal/Z-taggingEff-8TeV.pdf Graphic file (type p
+df)
+ <use EXO-14-009/HqqqqZqqfigs/Signal/Z-taggingEff-8TeV.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/Signal/Z-taggingEff-8TeV.pdf u
+sed on input line 431.
+(pdftex.def)             Requested size: 212.47617pt x 155.14066pt.
+
+
+LaTeX Warning: Reference `fig:LowPurity' on page 114 undefined on input line 44
+7.
+
+
+<EXO-14-009/HqqqqZqqfigs/Signal/H-taggingEff-8TeV-LowP.pdf, id=6826, 569.12625p
+t x 415.5525pt>
+File: EXO-14-009/HqqqqZqqfigs/Signal/H-taggingEff-8TeV-LowP.pdf Graphic file (t
+ype pdf)
+
+<use EXO-14-009/HqqqqZqqfigs/Signal/H-taggingEff-8TeV-LowP.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/Signal/H-taggingEff-8TeV-LowP.
+pdf used on input line 456.
+(pdftex.def)             Requested size: 212.47617pt x 155.14066pt.
+
+<EXO-14-009/HqqqqZqqfigs/Signal/Z-taggingEff-8TeV-LowP.pdf, id=6827, 569.12625p
+t x 415.5525pt>
+File: EXO-14-009/HqqqqZqqfigs/Signal/Z-taggingEff-8TeV-LowP.pdf Graphic file (t
+ype pdf)
+
+<use EXO-14-009/HqqqqZqqfigs/Signal/Z-taggingEff-8TeV-LowP.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/Signal/Z-taggingEff-8TeV-LowP.
+pdf used on input line 457.
+(pdftex.def)             Requested size: 212.47617pt x 155.14066pt.
+
+Overfull \hbox (4.44366pt too wide) in paragraph at lines 467--467
+[]\OT1/cmr/bx/n/17.28 Signal ac-cep-tance and to-tal ef-fi-ciency for $\OML/cmm
+/m/it/17.28 H \OMS/cmsy/m/n/17.28 !
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 467.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 467.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 467.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 467.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 467.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 467.
+
+
+LaTeX Warning: Reference `fig:HwwAcc' on page 114 undefined on input line 469.
+
+
+<EXO-14-009/HqqqqZqqfigs/Signal/HqqqqZqq-signal-acc-8TeV.pdf, id=6828, 569.1262
+5pt x 415.5525pt>
+File: EXO-14-009/HqqqqZqqfigs/Signal/HqqqqZqq-signal-acc-8TeV.pdf Graphic file 
+(type pdf)
+
+<use EXO-14-009/HqqqqZqqfigs/Signal/HqqqqZqq-signal-acc-8TeV.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/Signal/HqqqqZqq-signal-acc-8Te
+V.pdf used on input line 474.
+(pdftex.def)             Requested size: 212.47617pt x 155.14066pt.
+ [114
+
+ <./EXO-14-009/HqqqqZqqfigs/Signal/H-taggingEff-8TeV.pdf, page is rotated 90 de
+grees> <./EXO-14-009/HqqqqZqqfigs/Signal/Z-taggingEff-8TeV.pdf, page is rotated
+ 90 degrees>]
+
+LaTeX Warning: Reference `fig:HwwEffAll' on page 115 undefined on input line 48
+4.
+
+
+<EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-8TeV.pdf, id=6921, 569
+.12625pt x 556.0775pt>
+File: EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-8TeV.pdf Graphic 
+file (type pdf)
+
+<use EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-8TeV.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEf
+f-8TeV.pdf used on input line 490.
+(pdftex.def)             Requested size: 303.53267pt x 296.58638pt.
+
+<EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowH-8TeV.pdf, id=6922
+, 569.12625pt x 556.0775pt>
+File: EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowH-8TeV.pdf Gra
+phic file (type pdf)
+
+<use EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowH-8TeV.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEf
+f-LowH-8TeV.pdf used on input line 491.
+(pdftex.def)             Requested size: 212.47617pt x 207.60367pt.
+
+<EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowV-8TeV.pdf, id=6923
+, 569.12625pt x 556.0775pt>
+File: EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowV-8TeV.pdf Gra
+phic file (type pdf)
+
+<use EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowV-8TeV.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEf
+f-LowV-8TeV.pdf used on input line 492.
+(pdftex.def)             Requested size: 212.47617pt x 207.60367pt.
+
+[115 <./EXO-14-009/HqqqqZqqfigs/Signal/H-taggingEff-8TeV-LowP.pdf, page is rota
+ted 90 degrees> <./EXO-14-009/HqqqqZqqfigs/Signal/Z-taggingEff-8TeV-LowP.pdf, p
+age is rotated 90 degrees> <./EXO-14-009/HqqqqZqqfigs/Signal/HqqqqZqq-signal-ac
+c-8TeV.pdf, page is rotated 90 degrees>]
+
+LaTeX Warning: Reference `fig:HbbZqqShape' on page 116 undefined on input line 
+501.
+
+<EXO-14-009/shapeAll.pdf, id=7062, 569.12625pt x 555.07375pt>
+File: EXO-14-009/shapeAll.pdf Graphic file (type pdf)
+
+<use EXO-14-009/shapeAll.pdf>
+Package pdftex.def Info: EXO-14-009/shapeAll.pdf used on input line 504.
+(pdftex.def)             Requested size: 303.53267pt x 296.05101pt.
+ [116 <./EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-8TeV.pdf> <./E
+XO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowH-8TeV.pdf> <./EXO-14
+-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowV-8TeV.pdf>] [117 <./EXO-1
+4-009/shapeAll.pdf>])
+\openout2 = `EXO-14-009/background.aux'.
+
+ (./EXO-14-009/background.tex
+
+LaTeX Warning: Citation `cmsdijet' on page 118 undefined on input line 35.
+
+
+LaTeX Warning: Citation `Ftest' on page 118 undefined on input line 35.
+
+
+LaTeX Warning: Reference `fig:HbbZqqBG' on page 118 undefined on input line 45.
+
+
+
+LaTeX Warning: Reference `fig:HwwZqqBG' on page 118 undefined on input line 45.
+
+
+
+LaTeX Warning: Reference `eqParam' on page 118 undefined on input line 48.
+
+
+LaTeX Warning: Reference `table:highestMass' on page 118 undefined on input lin
+e 54.
+
+[118
+
+
+
+]
+<EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullLowP.pdf, id=7107, 569.12625pt x 54
+6.04pt>
+File: EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullLowP.pdf Graphic file (type pd
+f)
+ <use EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullLowP.pdf>
+Package pdftex.def Info: EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullLowP.pdf us
+ed on input line 99.
+(pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
+
+<EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullHighP.pdf, id=7108, 569.12625pt x 5
+46.04pt>
+File: EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullHighP.pdf Graphic file (type p
+df)
+ <use EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullHighP.pdf>
+Package pdftex.def Info: EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullHighP.pdf u
+sed on input line 100.
+(pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
+
+
+LaTeX Warning: Reference `eqParam' on page 119 undefined on input line 114.
+
+
+LaTeX Warning: Reference `eqParam' on page 119 undefined on input line 114.
+
+
+<EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullHighP.pdf, id=7109, 569.12625pt x
+ 546.04pt>
+File: EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullHighP.pdf Graphic file (type
+ pdf)
+ <use EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullHighP.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullHighP.pdf
+ used on input line 122.
+(pdftex.def)             Requested size: 299.19885pt x 287.07523pt.
+
+<EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowH.pdf, id=7110, 569.12625pt x 
+546.04pt>
+File: EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowH.pdf Graphic file (type 
+pdf)
+ <use EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowH.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowH.pdf 
+used on input line 123.
+(pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
+
+<EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowV.pdf, id=7111, 569.12625pt x 
+546.04pt>
+File: EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowV.pdf Graphic file (type 
+pdf)
+ <use EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowV.pdf>
+Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowV.pdf 
+used on input line 124.
+(pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
+
+
+LaTeX Warning: Reference `eqParam' on page 119 undefined on input line 141.
+
+
+LaTeX Warning: Reference `eqParam' on page 119 undefined on input line 141.
+
+
+LaTeX Warning: Float too large for page by 14.96399pt on input line 143.
+
+[119] [120 <./EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullLowP.pdf, page is rota
+ted 90 degrees> <./EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullHighP.pdf, page i
+s rotated 90 degrees>] [121 <./EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullHig
+hP.pdf, page is rotated 90 degrees> <./EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAn
+dPullLowH.pdf, page is rotated 90 degrees> <./EXO-14-009/HqqqqZqqfigs/FITS/HwwV
+qqFitAndPullLowV.pdf, page is rotated 90 degrees>])
+\openout2 = `EXO-14-009/systematicsCombine.aux'.
+
+
+(./EXO-14-009/systematicsCombine.tex
+
+LaTeX Warning: Citation `CMS:2013fea' on page 122 undefined on input line 46.
+
+
+LaTeX Warning: Citation `JME-13-006' on page 122 undefined on input line 46.
+
+
+LaTeX Warning: Citation `madgraph' on page 122 undefined on input line 54.
+
+[122
+
+
+
+]
+
+LaTeX Warning: Citation `CMS:2013fea' on page 123 undefined on input line 103.
+
+[123]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 116.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 116.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 116.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 116.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 116.
+
+
+LaTeX Warning: Reference `tau42SF' on page 124 undefined on input line 120.
+
+
+LaTeX Warning: Reference `table:Difference' on page 124 undefined on input line
+ 151.
+
+[124]
+
+LaTeX Warning: Citation `JME-JINST' on page 125 undefined on input line 197.
+
+
+LaTeX Warning: Citation `Collaboration:2013dp' on page 125 undefined on input l
+ine 197.
+
+
+LaTeX Warning: Citation `JME-JINST' on page 125 undefined on input line 205.
+
+[125]
+
+LaTeX Warning: Citation `LUM-13-001' on page 126 undefined on input line 235.
+
+
+LaTeX Warning: Reference `eq:uncer' on page 126 undefined on input line 242.
+
+
+Overfull \hbox (69.80609pt too wide) detected at line 248
+[][]\OML/cmm/m/it/12 Uncertainty[] \OT1/cmr/m/n/12 = [] \OMS/cmsy/m/n/12 ^^@ \O
+T1/cmr/m/n/12 1
+ []
+
+[126]
+
+LaTeX Warning: Reference `table:HbbHww' on page 127 undefined on input line 253
+.
+
+
+LaTeX Warning: Reference `table:systematicsAll' on page 127 undefined on input 
+line 287.
+
+
+Overfull \hbox (112.22844pt too wide) in paragraph at lines 292--319
+[][]
+ []
+
+[127] [128])
+\openout2 = `EXO-14-009/statistics.aux'.
+
+ (./EXO-14-009/statistics.tex
+
+LaTeX Warning: Reference `eqParam' on page 129 undefined on input line 18.
+
+
+LaTeX Warning: Citation `AsymptCLs' on page 129 undefined on input line 22.
+
+
+LaTeX Warning: Citation `CLs1' on page 129 undefined on input line 23.
+
+
+LaTeX Warning: Citation `CLs3' on page 129 undefined on input line 23.
+
+
+LaTeX Warning: Reference `eqParam' on page 129 undefined on input line 33.
+
+) [129
+
+
+
+] [130]
+\openout2 = `EXO-14-009/resultsCombine.aux'.
+
+ (./EXO-14-009/resultsCombine.tex
+
+LaTeX Warning: Reference `fig:HVCombined' on page 131 undefined on input line 5
+.
+
+<EXO-14-009/brazilianFlag_HV.pdf, id=7394, 569.12625pt x 546.04pt>
+File: EXO-14-009/brazilianFlag_HV.pdf Graphic file (type pdf)
+
+<use EXO-14-009/brazilianFlag_HV.pdf>
+Package pdftex.def Info: EXO-14-009/brazilianFlag_HV.pdf used on input line 13.
+
+(pdftex.def)             Requested size: 303.53267pt x 291.23283pt.
+
+<EXO-14-009/brazilianFlag_HZqq.pdf, id=7395, 569.12625pt x 546.04pt>
+File: EXO-14-009/brazilianFlag_HZqq.pdf Graphic file (type pdf)
+
+<use EXO-14-009/brazilianFlag_HZqq.pdf>
+Package pdftex.def Info: EXO-14-009/brazilianFlag_HZqq.pdf used on input line 1
+4.
+(pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
+
+<EXO-14-009/brazilianFlag_HWqq.pdf, id=7396, 569.12625pt x 546.04pt>
+File: EXO-14-009/brazilianFlag_HWqq.pdf Graphic file (type pdf)
+
+<use EXO-14-009/brazilianFlag_HWqq.pdf>
+Package pdftex.def Info: EXO-14-009/brazilianFlag_HWqq.pdf used on input line 1
+5.
+(pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
+
+
+LaTeX Warning: Float too large for page by 2.4891pt on input line 24.
+
+) [131
+
+
+] [132 <./EXO-14-009/brazilianFlag_HV.pdf, page is rotated 90 degrees> <./EXO-1
+4-009/brazilianFlag_HZqq.pdf, page is rotated 90 degrees> <./EXO-14-009/brazili
+anFlag_HWqq.pdf, page is rotated 90 degrees>]
+\openout2 = `EXO-14-009/resultsHbb.aux'.
+
+
+(./EXO-14-009/resultsHbb.tex
+Overfull \hbox (16.91728pt too wide) in paragraph at lines 2--2
+[]$\OML/cmm/m/it/20.74 H \OMS/cmsy/m/n/20.74 ! []$ \OT1/cmr/bx/n/20.74 tag-ger 
+lim-its (cat-e-gories Hbb1,
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@@overline' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+LaTeX Warning: Reference `fig:HbbVCombined' on page 133 undefined on input line
+ 35.
+
+<EXO-14-009/brazilianFlag_HbbZqqHPLP.pdf, id=7536, 569.12625pt x 546.04pt>
+File: EXO-14-009/brazilianFlag_HbbZqqHPLP.pdf Graphic file (type pdf)
+
+<use EXO-14-009/brazilianFlag_HbbZqqHPLP.pdf>
+Package pdftex.def Info: EXO-14-009/brazilianFlag_HbbZqqHPLP.pdf used on input 
+line 42.
+(pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
+
+<EXO-14-009/brazilianFlag_HbbWqqHPLP.pdf, id=7537, 569.12625pt x 546.04pt>
+File: EXO-14-009/brazilianFlag_HbbWqqHPLP.pdf Graphic file (type pdf)
+
+<use EXO-14-009/brazilianFlag_HbbWqqHPLP.pdf>
+Package pdftex.def Info: EXO-14-009/brazilianFlag_HbbWqqHPLP.pdf used on input 
+line 43.
+(pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
+ [133
+
+
+ <./EXO-14-009/brazilianFlag_HbbZqqHPLP.pdf, page is rotated 90 degrees> <./EXO
+-14-009/brazilianFlag_HbbWqqHPLP.pdf, page is rotated 90 degrees>])
+\openout2 = `EXO-14-009/resultsHww.aux'.
+
+ (./EXO-14-009/resultsHww.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\to' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+LaTeX Warning: Reference `fig:HwwVCombined' on page 134 undefined on input line
+ 37.
+
+<EXO-14-009/brazilianFlag_HwwZqqHPLPHV.pdf, id=7632, 569.12625pt x 546.04pt>
+File: EXO-14-009/brazilianFlag_HwwZqqHPLPHV.pdf Graphic file (type pdf)
+
+<use EXO-14-009/brazilianFlag_HwwZqqHPLPHV.pdf>
+Package pdftex.def Info: EXO-14-009/brazilianFlag_HwwZqqHPLPHV.pdf used on inpu
+t line 45.
+(pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
+
+<EXO-14-009/brazilianFlag_HwwWqqHPLPHV.pdf, id=7633, 569.12625pt x 546.04pt>
+File: EXO-14-009/brazilianFlag_HwwWqqHPLPHV.pdf Graphic file (type pdf)
+
+<use EXO-14-009/brazilianFlag_HwwWqqHPLPHV.pdf>
+Package pdftex.def Info: EXO-14-009/brazilianFlag_HwwWqqHPLPHV.pdf used on inpu
+t line 46.
+(pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
+ [134
+
+
+
+ <./EXO-14-009/brazilianFlag_HwwZqqHPLPHV.pdf, page is rotated 90 degrees> <./E
+XO-14-009/brazilianFlag_HwwWqqHPLPHV.pdf, page is rotated 90 degrees>])
+\openout2 = `EXO-14-009/resultsHbbpassHww.tex.aux'.
+
+
+No file EXO-14-009/resultsHbbpassHww.tex.tex.
+\openout2 = `EXO-14-009/conclusions.aux'.
+
+(./EXO-14-009/conclusions.tex
+
+LaTeX Warning: Reference `table:results' on page 135 undefined on input line 4.
+
+
+) [135
+
+
+
+
+
+] [136]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
+ (./YongjieThesis.aux (./Introduction.aux) (./CMSDetector.aux)
+(./EXO-12-024/introduction.aux) (./EXO-12-024/analysis.aux)
+(./EXO-12-024/data_and_mc_samples.aux) (./EXO-12-024/trigger.aux)
+(./EXO-12-024/data_mc_comparisons.aux) (./EXO-12-024/WtagSF.aux)
+(./EXO-12-024/signal.aux) (./EXO-12-024/systematics.aux)
+(./EXO-12-024/statistics.aux) (./EXO-12-024/results.aux)
+(./EXO-12-024/conclusions.aux) (./EXO-14-009/introduction.aux)
+(./EXO-14-009/data_and_mc_samples.aux) (./EXO-14-009/trigger.aux)
+(./EXO-14-009/analysis.aux) (./EXO-14-009/H-taggingAlgo1.aux)
+(./EXO-14-009/signal.aux) (./EXO-14-009/background.aux)
+(./EXO-14-009/systematicsCombine.aux) (./EXO-14-009/statistics.aux)
+(./EXO-14-009/resultsCombine.aux) (./EXO-14-009/resultsHbb.aux)
+(./EXO-14-009/resultsHww.aux) (./EXO-14-009/resultsHbbpassHww.tex.aux)
+(./EXO-14-009/conclusions.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
+
+
+Package rerunfilecheck Warning: File `YongjieThesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `YongjieThesis.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  9A7B442D57A5E0BB9D5FA00837BCAAC1;4951.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
+ ) 
+Here is how much of TeX's memory you used:
+ 9000 strings out of 493117
+ 159132 string characters out of 6135433
+ 231845 words of memory out of 5000000
+ 11691 multiletter control sequences out of 15000+600000
+ 21218 words of font info for 84 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 33i,14n,43p,931b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
+l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/
+texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+14/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on YongjieThesis.pdf (136 pages, 3593032 bytes).
+PDF statistics:
+ 7873 PDF objects out of 8907 (max. 8388607)
+ 3614 compressed objects within 37 object streams
+ 337 named destinations out of 1000 (max. 500000)
+ 866 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,9 +1,15 @@
 \chapter{Event reconstruction and selections}
 \label{label:EventsReconstruction}
 
-Jets are the experimental signatures of quarks and gluons produced in high-energy processes such as head-on proton-proton collisions at LHC. As quarks and gluons have a net colour charge and cannot exist freely due to colour-confinement, they are not directly observed in Nature. 
-Instead, they come together to form colour-neutral hadrons, a process called hadronisation that leads to a collimated spray of hadrons called a jet.
-\begin{figure}
+Because of QCD confinement, quarks and gluons produced from pp collisions are not free particles. 
+They will experience a process called hadronisation then result in a jet or jets of hadrons, as shown in Figure~\ref{figs:jets}. 
+
+
+%In this chapter, we will introduce the techniques used in this thesis. 
+
+%Jets are the experimental signatures of quarks and gluons produced in high-energy processes such as head-on proton-proton collisions at LHC. As quarks and gluons have a net colour charge and cannot exist freely due to colour-confinement, they are not directly observed in Nature. 
+%Instead, they come together to form colour-neutral hadrons, a process called hadronisation that leads to a collimated spray of hadrons called a jet.
+\begin{figure}{htb}
 \centering
 \includegraphics[width=.7\textwidth]{EventSelectionFigures/Sketch_PartonParticleCaloJet.png}
 \caption{Sketch of pp-collision and resulting collimated spray of particles, a jet.}
@@ -39,7 +45,8 @@ the jet energy is corrected by the amount of pileup expected in the
 jet area. The amount of energy expected from the underlying event is
 added back into the jet.  The pileup-subtracted jet four momenta are
 finally corrected for nonlinearities in $\eta$ and $\pt$ with
-simulated data, with a residual $\eta$-dependent correction added to
+simulated data{\color{red}what is simulated data?}, 
+with a residual $\eta$-dependent correction added to
 correct for the difference in simulated and true
 responses~\cite{JME-JINST,Collaboration:2012dp}.
 

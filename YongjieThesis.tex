@@ -7,7 +7,7 @@
 \usepackage{feynmp}
 \usepackage{rotating}
 \usepackage{cite}
-\usepackage{amsmath,amsfonts}
+\usepackage{amsmath,amsfonts} 
 \usepackage{amssymb}
 \usepackage{graphicx}
 %\usepackage{caption}
@@ -23,9 +23,12 @@
 \usepackage{wrapfig} 
 %\usepackage{times}  % Use this for ugly fonts
 
+%\usepackage{thesis}
 
 \usepackage{fancyhdr}    % Use nice looking headers along with the required footer page numbers   
 %\usepackage[hypertex]{hyperref}
+
+\usepackage{color}
 
 \newcommand{\wpr}{\ensuremath{\mathrm{W}^{\prime}}}
 \newcommand{\zpr}{\ensuremath{\mathrm{Z}^{\prime}}}
@@ -37,12 +40,14 @@
 \newcommand{\TeV}{\mathrm{TeV}}
 \newcommand{\MeV}{\mathrm{MeV}}
 \newcommand{\GeV}{\mathrm{GeV}}
-\newcommand{\ttbar}{\mathrm{t\overline{t}}}
 \newcommand{\tbbar}{\mathrm{t\overline{b}}}
 \newcommand{\pt}{\ensuremath{\mathrm{p_{T}}}}
 \newcommand{\PT}{\ensuremath{\mathrm{p_{T}}}}
 \newcommand{\MET}{\ensuremath{\mathrm{E_{T}^{miss}}}}
 \newcommand{\textdegrees}{\ensuremath{\mathrm{^{\circ}}}}
+
+\newcommand{\ttbar}{\mathrm{t\overline{t}}}
+
 
 \newcommand{\PW}{W}
 \newcommand{\cPZ}{Z}
@@ -50,6 +55,7 @@
 \newcommand{\TeVcc}{TeV}
 \newcommand{\bbbar}{\mathrm{b\overline{b}}}
 \newcommand{\kt}{$k_{T}$}
+\newcommand{\PH}{H}
 
 \newcommand{\qqbar}{{\rm q\bar{q}}}
 \newcommand{\Hbb}{H \to \bbbar}
@@ -122,6 +128,7 @@
 
 \begin{document}
 
+
 \title{Search for a massive resonance decaying to qV/VV/VH in hadronic final states}
 \author{Yongjie Xin}
 \degreemonth{May}
@@ -136,35 +143,35 @@
 
 \include{Introduction}
 \include{CMSDetector}
-\include{EventReconstruction}
+%\include{EventReconstruction}
 
-%\include{EXO-12-024/introduction}
-%\include{EXO-12-024/analysis} For this part, we might only need the optimization part
-%\include{EXO-12-024/data_and_mc_samples}
-%\include{EXO-12-024/trigger}
-%\include{EXO-12-024/data_mc_comparisons}
-%\include{EXO-12-024/WtagSF}
-%\include{EXO-12-024/signal}
-%\include{EXO-12-024/systematics}
-%\include{EXO-12-024/statistics}
-%\include{EXO-12-024/results}   This one is not successful
-%\include{EXO-12-024/conclusions}
+\include{EXO-12-024/introduction}
+\include{EXO-12-024/analysis} 
+\include{EXO-12-024/data_and_mc_samples}
+\include{EXO-12-024/trigger}
+\include{EXO-12-024/data_mc_comparisons}
+\include{EXO-12-024/WtagSF}
+\include{EXO-12-024/signal}
+\include{EXO-12-024/systematics}
+\include{EXO-12-024/statistics}
+\include{EXO-12-024/results}  
+\include{EXO-12-024/conclusions}
 
 
-%\include{EXO-14-009/introduction}
-%\include{EXO-14-009/data_and_mc_samples}
-%\include{EXO-14-009/trigger}
-%\include{EXO-14-009/analysis}
-%\include{EXO-14-009/H-taggingAlgo1}
-%\include{EXO-14-009/signal}
-%\include{EXO-14-009/background}
-%\include{EXO-14-009/systematicsCombine}
-%\include{EXO-14-009/statistics}
-%\include{EXO-14-009/resultsCombine}
-%\include{EXO-14-009/resultsHbb}
-%\include{EXO-14-009/resultsHww}
-%\input{resultsHbbpassHww.tex}
-%\include{EXO-14-009/conclusions}
+\include{EXO-14-009/introduction}
+\include{EXO-14-009/data_and_mc_samples}
+\include{EXO-14-009/trigger}
+\include{EXO-14-009/analysis}
+\include{EXO-14-009/H-taggingAlgo1}
+\include{EXO-14-009/signal}
+\include{EXO-14-009/background}
+\include{EXO-14-009/systematicsCombine}
+\include{EXO-14-009/statistics}
+\include{EXO-14-009/resultsCombine}
+\include{EXO-14-009/resultsHbb}
+\include{EXO-14-009/resultsHww}
+\include{EXO-14-009/resultsHbbpassHww.tex}
+\include{EXO-14-009/conclusions}
 
 
 
