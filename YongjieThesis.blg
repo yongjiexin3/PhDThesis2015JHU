@@ -2,10 +2,6 @@ This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: YongjieThesis.aux
 A level-1 auxiliary file: Introduction.aux
-A level-1 auxiliary file: CMSDetector.aux
-A level-1 auxiliary file: EventReconstruction.aux
-A level-1 auxiliary file: EXO-12-024/introduction.aux
-A level-1 auxiliary file: EXO-12-024/systematics.aux
 The style file: IEEEtran.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -13,59 +9,49 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: YongjieThesis.bib
-Warning--I didn't find a database entry for "CSVBtagging"
-Warning--I didn't find a database entry for "BTV-13-001"
-Warning--I didn't find a database entry for "Khachatryan:2014hpa"
-Warning--I didn't find a database entry for "CMSwprimeWZPAS"
 -- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
-Warning--missing institution in particleflow
-Warning--empty note in CAaachen
-Warning--missing institution in JME-13-006
-Warning--empty journal in Gouzevitch:2013qca
-Warning--missing institution in LUM-13-001
 
 Done.
-You've used 41 entries,
+You've used 4 entries,
             4039 wiz_defined-function locations,
-            1045 strings with 13358 characters,
-and the built_in function-call counts, 22616 in all, are:
-= -- 2112
-> -- 409
-< -- 78
-+ -- 198
-- -- 95
-* -- 992
-:= -- 3862
-add.period$ -- 82
-call.type$ -- 41
-change.case$ -- 42
-chr.to.int$ -- 27
-cite$ -- 46
-duplicate$ -- 1976
-empty$ -- 1749
-format.name$ -- 124
-if$ -- 5140
+            828 strings with 7690 characters,
+and the built_in function-call counts, 1396 in all, are:
+= -- 90
+> -- 16
+< -- 0
++ -- 8
+- -- 4
+* -- 52
+:= -- 254
+add.period$ -- 8
+call.type$ -- 4
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 117
+empty$ -- 155
+format.name$ -- 4
+if$ -- 289
 int.to.chr$ -- 0
-int.to.str$ -- 41
-missing$ -- 336
-newline$ -- 152
-num.names$ -- 41
-pop$ -- 711
+int.to.str$ -- 4
+missing$ -- 26
+newline$ -- 35
+num.names$ -- 4
+pop$ -- 73
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 1922
+skip$ -- 114
 stack$ -- 0
-substring$ -- 356
-swap$ -- 1420
-text.length$ -- 69
+substring$ -- 3
+swap$ -- 58
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 41
-warning$ -- 5
-while$ -- 75
-width$ -- 43
-write$ -- 423
-(There were 9 warnings)
+type$ -- 4
+warning$ -- 0
+while$ -- 4
+width$ -- 5
+write$ -- 50
