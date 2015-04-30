@@ -18,6 +18,7 @@
 \graphicspath{{./figs/}}
 \usepackage{fixltx2e}
 \usepackage{array}
+\usepackage{float}
 
 % wrapfig is fragile: use sparingly
 \usepackage{wrapfig} 
@@ -58,6 +59,7 @@
 \newcommand{\PH}{H}
 
 \newcommand{\qqbar}{{\rm q\bar{q}}}
+\newcommand{\qqbarprime}{{\rm q\bar{q'}}}
 \newcommand{\Hbb}{H \to \bbbar}
 \newcommand{\Hww}{ H \to \PW\PW^*\to4{\rm q}}
 \newcommand\Hzz{H\to\cPZ\cPZ^*\to4{\rm q}}
@@ -142,14 +144,16 @@
 %\include{pdefs}
 
 \include{Introduction}
-
-\iffalse
-
 \include{CMSDetector}
+
+\include{EXO-12-024/introduction}
+
+
+
+
 %\include{EventReconstruction}
 
 
-\include{EXO-12-024/introduction}
 \include{EXO-12-024/analysis} 
 \include{EXO-12-024/data_and_mc_samples}
 \include{EXO-12-024/trigger}
@@ -161,6 +165,7 @@
 \include{EXO-12-024/results}  
 \include{EXO-12-024/conclusions}
 
+\iffalse
 
 \include{EXO-14-009/introduction}
 \include{EXO-14-009/data_and_mc_samples}
