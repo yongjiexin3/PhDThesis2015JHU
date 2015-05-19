@@ -2,30 +2,41 @@
 \section{Limit setting procedure}
 \label{sec:statistics}
 
-For setting upper limits on the resonance production cross section
-the asymptotic approximation~\cite{AsymptCLs} of the LHC $CL_s$ method~\cite{CLs1,CLs2} is used.
-The binned likelihood, $L$, can be written as:
-\begin{equation}
-L = \prod_{i} \frac{\mu_{i}^{n_{i}} e^{-\mu_{i}}}{n_{i}!} \ ,
+
+
+We search for a peak on top of the falling background spectrum by
+means of a maximum likelihood fit to the data. The likelihood $\mathcal{L}$, computed using events binned as a function of $m_\mathrm{jj}$,
+is written as
+\begin{equation} \mathcal{L} = \prod_{i}
+  \frac{\lambda_{i}^{n_{i}}\re^{-\lambda_{i}}}{n_{i}!},
 \end{equation}
-where
-\begin{equation}
-{\mu_{i}} = {\sigma}{N_{i}(S)} + {N_{i}(B)} \ ,
-\label{function}
-\end{equation}
-$n_i$ is the observed number of events in the $i^{th}$ dijet mass bin, and
-$N_i(S)$ is the expected number of events from the signal in the $i^{th}$ dijet
-mass bin, $\sigma$ scales the signal amplitude, and
-$N_i(B)$ is the expected number of events from background in the
-$i^{th}$ dijet mass bin.
-The background $N_i(B)$ is estimated as the background component
-of the best signal+background fit to the data points.
-The dominant sources of systematic uncertainties (the jet energy
-scale, the jet energy resolution, the integrated luminosity, and the
-$\PW/\cPZ$-tagging efficiency) are considered as nuisance parameters associated to log-normal priors.
-The dependence of the likelihood on their
-value is removed through profiling. The ratio of the profiled
-likelihood at a given value $\sigma^*$ over the maximum of the
-likelihood (for $0<\sigma<\sigma^*$) is used as a test statistics
-to compute the $CL_s$ value associated to $\sigma^*$. This allows to
-determine the $95\%$ conficence-level (CL) limit.
+where ${\lambda_{i}} = {\mu}{N_{i}(S)} + {N_{i}(B)}$,
+$\mu$ is a scale factor for the signal, $N_i(S)$ is the number
+expected from the signal, and $N_i(B)$ is the number expected from
+multijet background. The parameter $n_i$ quantifies the number of
+events in the $i^\mathrm{th}$ $m_\mathrm{jj}$ mass bin.
+The background $N_i(B)$ is described by the functional form of
+Equation~(\ref{eqParam}). While maximizing the likelihood as a function of
+the resonance mass, $\mu$ as well as the parameters of the background
+function are left floating.
+
+
+We quantify the consistency of the data with the null hypothesis as a
+function of resonance mass for the benchmark models through the local
+p-value. The largest local significance in the singly
+$\PW/\cPZ$-tagged sample is observed for the hypothesis of a ${\rm q*
+\to q\PW}$ resonance of mass 1.5\TeVcc, and is equivalent to an excess
+of 1.8 standard deviations. The largest local significance in the
+doubly tagged event sample corresponds to an excess of 1.3 standard
+deviations for a  \GRS$\to\PW\PW$ resonance of mass 1.9\TeVcc. Using the
+${\rm \GBulk\to\PW\PW/\cPZ\cPZ}$ model, where the LP and HP categories
+contribute in different proportions compared to the case for the
+\GRS$\to\PW\PW$ model, yields no excess larger than one standard
+deviation. 
+
+Using pseudo-experiments, we estimated the probability of observing a
+local statistical fluctuation of at least two standard deviations in
+any mass bin. This probability corresponds to an equivalent global
+significance of one standard deviation.  The $m_\mathrm{jj}$ distributions
+are used to set upper limits on the product of the production cross
+sections and decay branching fractions for the benchmark models.

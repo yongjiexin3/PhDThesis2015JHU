@@ -1,0 +1,28 @@
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Summary of the four fundamental forces in Standard Model\nobreakspace {}\cite {particlebook1}.}}{4}{table.1.1}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Parameters of the CMS superconducting solenoid.}}{23}{table.2.1}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Summary of 8\nobreakspace {}TeV\nobreakspace {}collision data used in this analysis. }}{53}{table.3.1}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Summary of the simulated Monte Carlo samples used in this analysis for process ${\rm q* \to Z/W + jet}$}}{56}{table.3.2}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Summary of the simulated Monte Carlo samples used in this analysis for process ${\rm G_{RS} \to WW, ZZ}$.}}{58}{table.3.3}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Summary of the simulated Monte Carlo samples used in this analysis for process ${\rm W' \to WZ}$.}}{59}{table.3.4}
+\contentsline {table}{\numberline {3.5}{\ignorespaces Summary of the simulated Monte Carlo samples used in this analysis for process ${\rm G_{Bulk} \to WW, ZZ}$.}}{60}{table.3.5}
+\contentsline {table}{\numberline {3.6}{\ignorespaces Number of events in each mass bin exclusive, with 1 W/Z-tag and 2 W/Z-tags required in low purity and high purity categories for events with resonance masses $>2$\nobreakspace {}TeV.}}{68}{table.3.6}
+\contentsline {table}{\numberline {3.7}{\ignorespaces Summary of systematic uncertainties. The labels HP and LP refer to high-purity and low-purity event categories, respectively.}}{98}{table.3.7}
+\contentsline {table}{\numberline {3.8}{\ignorespaces Summary of observed limits on resonance masses at 95\% CL and their expected values, assuming a null hypothesis. The analysis is sensitive to resonances heavier than 1\nobreakspace {}TeV\nobreakspace {}.}}{104}{table.3.8}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Examples of the simulated Monte Carlo samples used in this analysis for process V' $\to $ VH. Cross sections are calculated from production cross sections of V' times its BR(W' $\to $HW or Z' $\to $ HZ). These samples are generated using Madgrap5 and hadronized with Pythia6. }}{112}{table.4.1}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Upper limits (in units of 0.01\nobreakspace {}pb) for high purity HW and HZ signals at different resonance masses and also different $\tau _{42}$ working points. }}{124}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Number of Higgs jets falls into two exclusive categories, assuming we have 100,000 SM Higgs (125 GeV) decays to all channels. $H\to {\rm Z}{\rm Z}^*\to 4{\rm q}$ signals are estimated by its branching ratio times the efficiency of $ H \to {\rm W}{\rm W}^*\to 4{\rm q}$ signals divied by the branching ratio of $ H \to {\rm W}{\rm W}^*\to 4{\rm q}$ channel. }}{133}{table.4.3}
+\contentsline {table}{\numberline {4.4}{\ignorespaces The five exclusive event categories used in this analysis. We also assign specific names (in parenthesis) for each category, which will be used in following sections. }}{134}{table.4.4}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Highest resonance mass in each channel.}}{145}{table.4.5}
+\contentsline {table}{\numberline {4.6}{\ignorespaces The difference of $ H \to {\rm W}{\rm W}^*\to 4{\rm q}$ jet tagging efficiency in signal MC by showering and hadronization with Pythia and Herwig. Higgs jets are the jets matched to Higgs generator particles. }}{151}{table.4.6}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Summarization of systematics.Numbers in parenthesis are for low purity categories.}}{154}{table.4.7}
+\contentsline {table}{\numberline {4.8}{\ignorespaces Summary of observed limits on resonance masses at 95\% CL and their expected values, assuming a null hypothesis. The analysis is sensitive to resonances heavier than 1\nobreakspace {}TeV\nobreakspace {}. }}{162}{table.4.8}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces Parameters used to describe the background distributions.}}{186}{table.A.1}
+\contentsline {table}{\numberline {A.2}{\ignorespaces Parameters used to describe the signal distributions. fp is shot for floating parameter.}}{193}{table.A.2}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {B.1}{\ignorespaces Table of model parameters. CX+ is the cross section for W'+. CX- is the cross section for W'-. CX0 is the cross section for Z'. M is the resonance mass, in unit TeV. Wd\_W$\prime $ and Wd\_Z$\prime $ are the width of the W' and Z' signals, in unit of GeV.}}{198}{table.B.1}
+\contentsline {table}{\numberline {B.2}{\ignorespaces Limits on different resonance mass for CSVL VS CSVM.}}{205}{table.B.2}

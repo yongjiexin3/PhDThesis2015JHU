@@ -61,16 +61,16 @@ We are then left with five samples: matched semi-leptonic $t\overline{t}$, unmat
  
 \subsubsection{b-W Separation}
 While investigating the relative separations of the various objects in an event, we noticed that some discrimination between matched and unmatched $W$s in semileptonic $t\overline{t}$ can be achieved through a cut on the $\Delta R$ of these jets ($\Delta R(Wjet, bjet)$). The two dimensional distribution of $\Delta R$ and $\tau 2/\tau 1$ for $W$ candidates is shown in Figure \ref{fig:drcut}. We make a cut on $\Delta R < 1.6$. Notice that the tight and loose peaks can be seen in the matched sample.
-\begin{}[h!]
+\begin{figure}[h!]
 \centering
-\includegraphics[scale=0.87]{figs/WtagSF/Z.pdf}
+\includegraphics[scale=0.87]{EXO-12-024/figs/WtagSF/Z.pdf}
 \caption{Distribution of $\Delta R$ and $\tau 2/\tau 1$ for $W$ candidates. The dotted black line shows the cut $\Delta R < 1.6$. The cut removes all events above the dotted line. Note that this cut is uncorrelated with $\tau 2/\tau 1$.}\label{fig:drcut}
 \end{figure}
 This cut does not change the shape of the $W$-mass distribution, only their normalizations. The effect of the cut can be seen in Figure~ \ref{fig:drproof}.
 \begin{figure}[h!]
 \centering
-        \includegraphics[width=0.77\textwidth]{figs/WtagSF/sigproof.pdf}
-        \includegraphics[width=0.77\textwidth]{figs/WtagSF/sigproofII.pdf}
+        \includegraphics[width=0.77\textwidth]{EXO-12-024/figs/WtagSF/sigproof.pdf}
+        \includegraphics[width=0.77\textwidth]{EXO-12-024/figs/WtagSF/sigproofII.pdf}
     \caption{$W$-mass distributions in tight, loose and failed before(black) and after(red) the $\Delta R < 1.6$ cut.}\label{fig:drproof}
 \end{figure}
 \subsection{Distributions in MC}
@@ -90,24 +90,24 @@ We do not apply the $\Delta R$ requirement on the $b$ and $W$ candidates.
 In figure \ref{fig:sbvalid} we can see the distribution of leptonic $t\overline{t}$ events in the full and loose selection. We've normalized the distributions, and can see that the looser selection doesn't cause a change in the shapes. The same process is applied to $W$+jets and single top backgrounds.
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.46]{figs/WtagSF/leptonicSB.png}
+\includegraphics[scale=0.46]{EXO-12-024/figs/WtagSF/leptonicSB.png}
 \caption{Agreement of the shapes in the loose and tight selection for leptonic $t\overline{t}$.}\label{fig:sbvalid}
 \end{figure}
 \subsubsection{Combined Distributions}
 In figures \ref{fig:tightHIST}, \ref{fig:looseHIST}, and \ref{fig:failedHIST} the summed distributions of all components are shown. The smoothing of backgrounds has already been applied. All three histograms are normalized to our luminosity $\L = 19.7 fb^{-1}$.
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.66]{figs/WtagSF/TOTAL_TIGHT.pdf}
+\includegraphics[scale=0.66]{EXO-12-024/figs/WtagSF/TOTAL_TIGHT.pdf}
 \caption{Sum of all distributions passing the tight cut, normalized to our luminosity $\L = 19.7 fb^{-1}$.}\label{fig:tightHIST}
 \end{figure}
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.66]{figs/WtagSF/TOTAL_LOOSE.pdf}
+\includegraphics[scale=0.66]{EXO-12-024/figs/WtagSF/TOTAL_LOOSE.pdf}
 \caption{Sum of all distributions passing the loose cut, normalized to our luminosity $\L = 19.7 fb^{-1}$.}\label{fig:looseHIST}
 \end{figure}
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.66]{figs/WtagSF/TOTAL_FAIL.pdf}
+\includegraphics[scale=0.66]{EXO-12-024/figs/WtagSF/TOTAL_FAIL.pdf}
 \caption{Sum of all distributions which failed both cuts, normalized to our luminosity $\L = 19.7 fb^{-1}$. }\label{fig:failedHIST}
 \end{figure}
 \subsection{Fitting Procedure}
@@ -116,17 +116,17 @@ We will attempt to isolate the true $W$s in data by fitting the constituent matc
 All backgrounds are fit with the same pdfs. The tight and loose shapes are fit to gaussians and the failed shapes are fit to decaying exponentials. There are thus $15$ parameters describing the shapes of the backgrounds. All of these parameters are held constant during the fit to data, but relative normalizations are allowed to vary during the fit. Table \ref{tab:mcval} lists the parameters describing the background, their values and the errors from fitting to MC. Plots of the resulting fits are shown in Figures \ref{fig:bkgI} - \ref{fig:bkgIII}
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.87]{figs/WtagSF/Leptonic_fits.pdf}
+\includegraphics[scale=0.87]{EXO-12-024/figs/WtagSF/Leptonic_fits.pdf}
 \caption{Fits to unmatched Leptonic distributions.}\label{fig:bkgI}
 \end{figure}
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.87]{figs/WtagSF/Wjets_fits.pdf}
+\includegraphics[scale=0.87]{EXO-12-024/figs/WtagSF/Wjets_fits.pdf}
 \caption{Fits to unmatched W + jets distributions.}\label{fig:bkgII}
 \end{figure}
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.87]{figs/WtagSF/SingleTop_fits.pdf}
+\includegraphics[scale=0.87]{EXO-12-024/figs/WtagSF/SingleTop_fits.pdf}
 \caption{Fits to unmatched Single Top distributions.}\label{fig:bkgIII}
 \end{figure}
 \begin{table}
@@ -183,7 +183,7 @@ The loose, unmatched $t\overline{t}$ distribution is fit to a gaussian. In the f
 The failed, unmatched $t\overline{t}$ distribution is fit to an exponential. The coefficient is allowed to float. The resulting fit is shown in Figure \ref{fig:unmatchedF}.
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.5]{figs/WtagSF/unmatched_fits.png}
+\includegraphics[scale=0.5]{EXO-12-024/figs/WtagSF/unmatched_fits.png}
 \caption{Fits to unmatched $t\overline{t}$ distributions.}\label{fig:unmatchedF}
 \end{figure}
 \subsubsection*{tight and loose, matched}
@@ -193,56 +193,44 @@ The relative normalization of the tight and loose shapes are determined in part 
 The failed, matched shape is fit as an exponential, with all parameters allowed to float in the fit to data. See figure \ref{fig:unmatchedF}.
 \begin{figure}[h!]
 \centering
-\includegraphics[scale=0.5]{figs/WtagSF/matched_fits.png}
+\includegraphics[scale=0.5]{EXO-12-024/figs/WtagSF/matched_fits.png}
 \caption{Fits to matched $t\overline{t}$ distributions.}\label{fig:matchedF}
 \end{figure}
 We now have probability distribution functions for every component of the three mass distributions.
 \begin{table}
 \centering
-\begin{tabular}{l | c  c  c}
+\begin{tabular}{cccc}
 Signal & variable & description & \\
-\hline\hline
-Unmatched Tight & & & \\
-& $\mu^{ut}_T$ & Peak of Gaussian & floating parameter\\
-\\
-& $\sigma^{ut}_T$ & Std Dev of Gaussian & floating parameter\\
-\\
-& $m^{ut}_T$ & Slope of Linear Contribution & floating parameter\\
-\\
+\hline
+Unmatched Tight &  $\mu^{ut}_T$ & Peak of Gaussian & fp\\
+& $\sigma^{ut}_T$ & Std Dev of Gaussian & fp\\
+& $m^{ut}_T$ & Slope of Linear Contribution & fp\\
 & $f^{ut}_T$ & Relative normalization of & \textbf{fixed in MC}\\
 & &  Linear and Gaussian Components &\\
 \hline
-Unmatched Loose & & & \\
-& $\mu^{ul}_L$ & Peak of Gaussian & floating parameter\\
-\\
-& $\sigma^{ul}_L$ & Std Dev of Gaussian & floating parameter\\
-\\
+Unmatched Loose&  $\mu^{ul}_L$ & Peak of Gaussian & fp\\
+& $\sigma^{ul}_L$ & Std Dev of Gaussian & fp\\
 \hline
-Unmatched Failed & & & \\
-& $\gamma^{uf}_F$ & Decay Coefficient & floating parameter\\
-\\
+Unmatched Failed & $\gamma^{uf}_F$ & Decay Coefficient & fp\\
 \hline
-Matched Tight/Loose & & & \\\
-& $\mu^{m}_P$ & Mean of $W$ Peak (Gaussian) & floating parameter\\
-\\
-& $\sigma^{m}_P$ & Std Dev of $W$ Peak & floating parameter\\
-\\
-& $\mu^{m}_S$ & Peak of Secondary Gaussian & \textbf{fixed with respect to $\mu^{m}_P$}\\
-\\
-& $\sigma^{m}_S$ & Std Dev of Secondary Gaussian & \textbf{fixed with respect to $\mu^{m}_P$}\\
-\\
+Matched Tight/Loose & $\mu^{m}_P$ & Mean of $W$ Peak (Gaussian) & fp\\
+& $\sigma^{m}_P$ & Std Dev of $W$ Peak & fp\\
+& $\mu^{m}_S$ & Peak of Secondary Gaussian & \textbf{fixed w.r.t $\mu^{m}_P$}\\
+& $\sigma^{m}_S$ & Std Dev of Secondary Gaussian & \textbf{fixed w.r.t $\mu^{m}_P$}\\
 & $f^{m}_P$ & Relative normalization of & \textbf{fixed in MC}\\
 & &  above two Gaussians &\\
-& $\gamma^{m}_L$ & Decay Coefficient of unmerged $W$s & floating parameter\\
-\\
+& $\gamma^{m}_L$ & Decay Coefficient of unmerged $W$s & fp\\
 & $f^{ut}_T$ & Relative normalization of & \textbf{fixed in MC}\\
 & &  Merged and Unmerged events in Loose &\\
 \hline
 Matched Failed & & & \\
 \hline
 \end{tabular}
-\caption{Parameters used to describe the signal distributions.} \label{tab:sigval}
+\caption{Parameters used to describe the signal distributions. fp is shot for 
+floating parameter.} 
+\label{tab:sigval}
 \end{table}
+
 \subsection{Efficiency Calculation}
 We will simultaneously fit the shapes found in MC to the three mass-distributions in data. We can calculate the efficiency in data by making it a parameter in the fit. 
 We define the following internal efficiencies: 

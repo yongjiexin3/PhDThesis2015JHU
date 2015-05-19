@@ -242,7 +242,7 @@ So in category Hbb1 and Hbb2,  the only signal is \HbbVqq, other Higgs decays pa
 be assigned as systematic uncertainties, which is evaluated according to Equation~\ref{eq:uncer}. 
 \begin{equation}
 %Uncertainty_{Cross-talk} = \frac{NumberofExpectedNuisanceSignals}{NumberofCorrespondingData}  
-Uncertainty_{Cross-talk} = \frac{NumberofExpectedNuisanceSignals+NumberofSignalOfInterest}{NumberofSignalOfInterest} - 1 
+Uncertainty_{Cross-talk} = \frac{\#TotalExpectedSignals}{\#SignalOfInterest} - 1 
 %P_D(m_\mathrm{jj}) = \frac{P_{0} (1 - m_\mathrm{jj}/\sqrt{s})^{P_{1}}}{(m_\mathrm{jj}/\sqrt{s})^{P_{2}}} \ .
 \label{eq:uncer}
 \end{equation}
@@ -292,7 +292,7 @@ Table~\ref{table:systematicsAll} shows a summarization of all the systematics ap
 \begin{tabular}{|l|l|l|l|l|}
 \hline
 Systematics/Signals  &  Relevant quantity &
-\multicolumn{2}{c|}{\HbbVqq signals} & \multicolumn{1}{l|}{\HwwVqq signals} \\ \hline
+\multicolumn{2}{c|}{\HbbVqq} & \multicolumn{1}{l|}{\HwwVqq} \\ \hline
 % & & Pass $\Hbb$ tagger & \multicolumn{1}{l|}{Fail $\Hbb$ tagger, but}    & \multicolumn{1}{l|}{Fail $\Hbb$ tagger, but} \\ 
  & & Hbb1, Hbb2 &  Hww1, Hww2, Hww3   & Hww1,Hww2,Hww3 \\ \hline 
 % & &  & pass $\Hww$ tagger & \multicolumn{1}{l|}{pass $\Hww$ tagger} \\ \hline
@@ -308,12 +308,12 @@ Dijet mass shift due to JER & Resoancne shape & 10.0\%  &  10.0\%  & 10.0\%  \\
 PileUp &Efficiency (per jet) & 1.5\% & 1.5\% & 1.5\% \\ %\hline
 PDF & Yield (per event) &5-15.0\% & 5-15.0\% & 5-15.0\% \\ %\hline
 B-tagging SF & Yield (per event) & 15.0\% & 1.0\% & 15.0\% \\ %\hline
-Higgs mass   & Efficiency (per jet) & 2.6\% & 2.6\% & - \\
-W-tagging tau21 & Efficiency (per jet)  & \multicolumn{1}{l|}{7.5\%(54\%)} & \multicolumn{1}{l|}{7.5\%(54\%)} & \multicolumn{1}{l|}{7.5\%(54\%)} \\ %\hline
-W-tagging tau21 shower/hadronization & Efficiency (per jet) & 4\%(12\%) & 4\%(12\%)  & 4\%(12\%) \\
+Higgs mass  & Efficiency (per jet) & 2.6\% & 2.6\% & - \\
+W-tagging \pt dependence  & Efficiency (per jet)& \multicolumn{1}{l|}{7.5\%(54\%)} & \multicolumn{1}{l|}{7.5\%(54\%)} & \multicolumn{1}{l|}{7.5\%(54\%)} \\ %\hline
+W-tagging $\tau_{21}$ extrapolation & Efficiency (per jet) & 4\%(12\%) & 4\%(12\%)  & 4\%(12\%) \\
 %tau21 shower/hadronization  & \multicolumn{1}{r|}{4\%(12\%)} & \multicolumn{1}{r|}{4\%(12\%)} & \multicolumn{1}{r|}{4\%(12\%)} \\ %\hline
-H-tagging tau42 & Efficiency (per jet)  & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{7.5\%(54\%)} & \multicolumn{1}{l|}{7.5\%(54\%)} \\ %\hline
-H-tagging tau42 shower/hadronization & Efficiency (per jet) & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{7\%(7\%)} & \multicolumn{1}{l|}{7\%(7\%)} \\ \hline
+H-tagging $\tau_{42}$ & Efficiency (per jet)  & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{7.5\%(54\%)} & \multicolumn{1}{l|}{7.5\%(54\%)} \\ %\hline
+H-tagging $\tau_{42}$ extrapolation & Efficiency (per jet) & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{7\%(7\%)} & \multicolumn{1}{l|}{7\%(7\%)} \\ \hline
 \end{tabular}
 \label{table:systematicsAll}
 \end{sidewaystable}

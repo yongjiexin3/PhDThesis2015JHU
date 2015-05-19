@@ -6,7 +6,7 @@ within a single jet if these particles are highly boosted.  In this
 analysis, we aim to cover as much of the Higgs branching ratio as
 possible.  The Standard Model Higgs with a mass of 125 \GeVcc decays
 to b$\bar{\rm b}$ with a branching fraction of 57.7\%, and to WW$^*$
-with a braching fraction of 21.4\%.~\cite{pdg-higgs}.  Using these two
+with a braching fraction of 21.4\%~\cite{pdg-higgs}.  Using these two
 decay modes in a VH search, where WW$^*$ specifically decays to four
 quarks, is the main topic of this note.  (The semileptonic decay mode
 $ H \to WW \to 2q\ell \nu$ is viable, but its reconstruction is more
@@ -29,80 +29,22 @@ Sections~\ref{sec:higgsTaggerbb} and ~\ref{sec:higgsTaggerww}.
 \subsection{N-subjettiness}
 \label{sec:N-subjettiness}
 
-N-subjettiness~\cite{Thaler:2010tr,Thaler:2011gf,Stewart:2010tn}
-exploits the fact that the pattern of the hadronic decay of a heavy
-object is reflected through the presence of distinctive energy lobes
-corresponding to the decay products, as opposed to QCD jets which
-present a more uniformly spread energy configuration. 
-The inclusive jet shape N-subjettiness is
-defined, in its generalized version~\cite{Thaler:2010tr}, as
-%
-\begin{equation}
-\tau_N = \frac{1}{d_{0}} \sum_{k} p_{T,k}\,min( (\Delta R_{1,k})^{\beta}, (\Delta R_{2,k})^{\beta}...(\Delta R_{N,k})^{\beta})
-\end{equation}
-%
-where the index $k$ runs over the jet constituents and the distances
-$\Delta R_{n,k}$ are calculated with respect to the axis of the $n^{\mathrm{th}}$
-subjet. The normalization factor $d_{0}$ is calculated as $d_{0}=
-\sum_{k} p_{T,k}R^{\beta}_{0}$, setting $R_{0}$ to the jet radius of
-the original jet. In the analysis, we use onepass\_kt\_axes definition
-of subjet axes and the N-subjettiness is calculated
-from the unpruned jets with the parameter $\beta=1$. 
-It has been shown in the literature~\cite{Thaler:2010tr} that the
-best way to separate (N+1)-prong from the N-prong decays merged into
-a single jet is to select jets with low value of the ratio $\tau_{N+1}/\tau_N$.
-In this vein, the variable able to best discriminate between $\PW/\cPZ$ jets and QCD jets
-is $\tau_{21}=\tau_{2} / \tau_{1}$. The distribution of $\tau_{21}$ for
-the VV signal and QCD background is given in Fig.~\ref{fig:N-sub-mass}.
-%While, 
-%the best variable to discriminate $H \to WW$ is $\tau_{42}=\tau_{4} / \tau_{2}$, given in 
-%Fig.~\ref{fig:tau421TeV} and Fig.~\ref{fig:tau422TeV}.
-
-\begin{figure}[htb]
-\centering
-\begin{tabular}{cc}
-     \resizebox{0.5\linewidth}{!}{\includegraphics{EXO-14-009/figs/N-subjettiness/Signal_MC_Pre.pdf}} &
-     \resizebox{0.5\linewidth}{!}{\includegraphics{EXO-14-009/figs/N-subjettiness/Signal_MC.pdf}} \\
-\end{tabular}
-\caption[N-subjettiness]{Comparison for $\tau_{2}/\tau_{1}$ distribution 
-between signal (red) and background (black) 
-before the jet mass cut (left) and after 
-the jet mass cut of [70, 100]~GeV applied (right). 
-The signal MC used here is Herwig WW 1.5 TeV, and background is Herwig QCD.}
-\label{fig:N-sub-mass}
-\end{figure}
-
-%\textbf{PLAN} in Fig~\ref{N-sub} and Fig~\ref{N-sub-mass}, I'm gonna add prettier plots for different signals(pythia and herwig, 1.0Tev to 3.0TeV resonance).  
-
-%The leading two ungroomed CA8 jets to the leading two pruned CA8 jets are matched requireing $\Delta R < 0.5 $, which fails in less than 0.1\% of the events.
-
+The details of N-subjettiness is elaborated before. Please refer to 
+Section~\ref{sec:N-subjettiness} in Chapter~\ref{chap:chapter3}. 
 
 
 
 \subsection{Jet Pruning}
 \label{sec:jetPruning}
 
-Jet pruning consists of the removal of the softest
-components of the jets~\cite{catop_cms,topwtag_pas}.
-The jet pruning algorithm uses the CA $R=0.8$ jets as inputs. In the
-process, soft and wide-angle particles (relative to the parent in the
-clustering) are ignored and are not clustered.  
-The same parameters are chosen for the jet
-pruning algorithm as in the original paper~\cite{jetpruning1,jetpruning2}.
+Please refer to Chapter~\ref{chap:chapter3} for the procedure of jet pruning. 
 
-%% &&& from Petar: is this really true?  I thought that the pruning
-%% &&& reruns the CA8 jet clustering from scratch, but in the process
-%% &&& prunes the soft and wide-angle PF candidates from the jet.
-%% &&& We should check this...
-
-
-The result of jet pruning on the CA8 jets is two fold, i.e., the invariant jet mass 
-reconstruction and subjet indentification.
+Here the result of jet pruning on the CA8 jets is two fold, i.e., the invariant jet mass 
+reconstruction and subjet identification.
 In all cases,
 we use the jet invariant mass computed from the whole (or ``fat'') 
 pruned jet.  This quantity is referred below to as the pruned jet mass.
 For W/Z tagging, we use pruned jet mass between 70 and 100 \GeVcc. 
-%is sychorinzed with VV search~\cite{EXO-12-024}.
 For the identification of Higgs jets, we require the pruned jet mass to
 lie between 110 and 135~\GeVcc.  The distribution of the pruned jet
 mass of the Higgs candidate jet is shown on Fig.~\ref{fig:JetMassTagging} 
@@ -141,8 +83,7 @@ pruned subjets are used as the basis for b tagging.
 \label{sec:wztagging}
 
 For the identification of W/Z jets, we employ the same tagging algorithm 
-previously used in published 
-searches~\cite{CMS:2013fea}.  W/Z jets are selected using the following
+previously used in Chapter~\ref{chap:chapter3}.  W/Z jets are selected using the following
 requirements:
 \begin{itemize}
 
@@ -152,9 +93,8 @@ requirements:
 \item {\bf N-subjettiness} 
   - We split the events into two categories, ``high purity'' $\PW/\cPZ$ jets by
     requiring $\tau_{21} \leq 0.5$, while $ 0.5 < \tau_{21} < 0.75$ defines 
-    the ``low purity'' $\PW/\cPZ$ jets.  The thresholds are taken from the published VV
-    search.
-
+    the ``low purity'' $\PW/\cPZ$ jets.  The thresholds are the same as those in 
+    Chapter~\ref{chap:chapter3}. 
 \end{itemize}
 The performance of the W/Z tagger has been documented in detail in Ref.~\cite{JME-13-006}.
 

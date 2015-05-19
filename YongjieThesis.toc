@@ -1,0 +1,98 @@
+\contentsline {chapter}{Abstract}{ii}{chapter*.1}
+\contentsline {chapter}{Acknowledgments}{iv}{chapter*.2}
+\contentsline {chapter}{List of Tables}{xi}{chapter*.4}
+\contentsline {chapter}{List of Figures}{xiii}{chapter*.5}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}The Standard Model}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Fundamental particles}{2}{subsection.1.1.1}
+\contentsline {section}{\numberline {1.2}Fundamental interactions}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Quantum Electrodynamics (QED)}{5}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Quantum Chromodynamics (QCD) and jets}{6}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}The SM Higgs mechanism}{12}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}The physics beyond the SM}{13}{section.1.3}
+\contentsline {chapter}{\numberline {2}The CMS detector at the LHC}{18}{chapter.2}
+\contentsline {section}{\numberline {2.1}The Magnet}{22}{section.2.1}
+\contentsline {section}{\numberline {2.2}The inner tracking system}{23}{section.2.2}
+\contentsline {section}{\numberline {2.3}Electromagnetic calorimeter (ECAL) }{26}{section.2.3}
+\contentsline {section}{\numberline {2.4}Hadronic calorimeter (HCAL)}{29}{section.2.4}
+\contentsline {section}{\numberline {2.5}Muon system}{30}{section.2.5}
+\contentsline {section}{\numberline {2.6}Trigger and data acqusition}{37}{section.2.6}
+\contentsline {chapter}{\numberline {3}Search for $X \to qV\nobreakspace {}or\nobreakspace {}VV$ at LHC at $\sqrt {s}=8$\nobreakspace {}TeV}{38}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{38}{section.3.1}
+\contentsline {section}{\numberline {3.2}Dijet analysis with jet substructure tagging}{42}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Event display}{42}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Jet reconstruction}{42}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Event selection}{46}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}The W/Z-Tagging algorithm}{48}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}N-subjettiness}{49}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Optimization study for the W-tagger}{50}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Data and Monte Carlo samples}{53}{section.3.4}
+\contentsline {section}{\numberline {3.5}Trigger}{61}{section.3.5}
+\contentsline {section}{\numberline {3.6}Data and MC comparisons}{65}{section.3.6}
+\contentsline {section}{\numberline {3.7}W-tagging scale factor}{82}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Fit to Monte Carlo}{83}{subsection.3.7.1}
+\contentsline {subsubsection}{\numberline {3.7.1.1}Fits to Data}{85}{subsubsection.3.7.1.1}
+\contentsline {subsection}{\numberline {3.7.2}Scale Factor Measurement}{86}{subsection.3.7.2}
+\contentsline {subsubsection}{\numberline {3.7.2.1}Systematics}{87}{subsubsection.3.7.2.1}
+\contentsline {section}{\numberline {3.8}The signal: dijet resonance}{88}{section.3.8}
+\contentsline {section}{\numberline {3.9}Systematic uncertainties}{94}{section.3.9}
+\contentsline {subsection}{\numberline {3.9.1}Background shape parametrization}{94}{subsection.3.9.1}
+\contentsline {subsection}{\numberline {3.9.2}W/Z-tagging efficiency}{96}{subsection.3.9.2}
+\contentsline {section}{\numberline {3.10}Limit setting procedure}{99}{section.3.10}
+\contentsline {section}{\numberline {3.11}Results}{101}{section.3.11}
+\contentsline {section}{\numberline {3.12}Conclusions}{105}{section.3.12}
+\contentsline {chapter}{\numberline {4}Search for X $\to $ WH or ZH at LHC at $\sqrt {s} = 8$\nobreakspace {}TeV }{106}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{106}{section.4.1}
+\contentsline {section}{\numberline {4.2}Data and Monte Carlo samples}{111}{section.4.2}
+\contentsline {section}{\numberline {4.3}Event preselection}{113}{section.4.3}
+\contentsline {section}{\numberline {4.4}The H tagging and W/Z tagging algorithms}{114}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}N-subjettiness}{114}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Jet Pruning}{115}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}W/Z tagging }{115}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4.4}${\rm H \to b\mathaccentV {bar}016{b}}$}{116}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}${\rm H \to WW^* \to 4q}$}{117}{subsection.4.4.5}
+\contentsline {subsubsection}{\numberline {4.4.5.1}Optimization of the $\tau _4/\tau _2$ threshold}{123}{subsubsection.4.4.5.1}
+\contentsline {section}{\numberline {4.5}Trigger}{125}{section.4.5}
+\contentsline {section}{\numberline {4.6}Signal efficiency}{130}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Cross-talk between the Higgs decay channels}{130}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Summary of Higgs and W/Z tagging categories}{134}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Tagging efficiency for $H \to \mathrm {b\overline {b}}$ jets}{135}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Signal acceptance and total efficiency for $H \to \mathrm {b\overline {b}},{\rm Z}\to {\rm q\mathaccentV {bar}016{q}}$\ channel}{138}{subsection.4.6.4}
+\contentsline {subsection}{\numberline {4.6.5}Tagging efficiency for $ H \to {\rm W}{\rm W}^*\to 4{\rm q}$ jets}{140}{subsection.4.6.5}
+\contentsline {subsection}{\numberline {4.6.6}Signal acceptance and total efficiency for $ H \to {\rm W}{\rm W}^*\to 4{\rm q},{\rm Z}\to {\rm q\mathaccentV {bar}016{q}}$\ channel}{141}{subsection.4.6.6}
+\contentsline {section}{\numberline {4.7}Background shape parametrization}{144}{section.4.7}
+\contentsline {section}{\numberline {4.8}Systematic uncertainties }{148}{section.4.8}
+\contentsline {subsection}{\numberline {4.8.1}b-tagging scale factor}{148}{subsection.4.8.1}
+\contentsline {subsection}{\numberline {4.8.2}W/Z-tagging efficiency}{148}{subsection.4.8.2}
+\contentsline {subsection}{\numberline {4.8.3}H-tagging efficiency for $ H \to {\rm W}{\rm W}^*\to 4{\rm q}$ tagger}{150}{subsection.4.8.3}
+\contentsline {subsection}{\numberline {4.8.4}Other uncertainties}{151}{subsection.4.8.4}
+\contentsline {section}{\numberline {4.9}Limit setting procedure}{155}{section.4.9}
+\contentsline {section}{\numberline {4.10}All combined limits}{157}{section.4.10}
+\contentsline {section}{\numberline {4.11}$H \to \mathrm {b\overline {b}}$ tagger limits (categories Hbb1, Hbb2)}{159}{section.4.11}
+\contentsline {section}{\numberline {4.12}$ H \to {\rm W}{\rm W}^*\to 4{\rm q}$ tagger limits (categories Hww1, Hww2, Hww3)}{160}{section.4.12}
+\contentsline {section}{\numberline {4.13}Results and conclusions}{161}{section.4.13}
+\contentsline {chapter}{\numberline {A}Appendices for Chapter\nobreakspace {}3}{163}{appendix.A}
+\contentsline {section}{\numberline {A.1}MC generator parameters for the signal models}{163}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}Signal shape at high resonance mass}{167}{subsection.A.1.1}
+\contentsline {section}{\numberline {A.2}Event displays}{168}{section.A.2}
+\contentsline {section}{\numberline {A.3}Limit calculation cross check}{177}{section.A.3}
+\contentsline {section}{\numberline {A.4}W tagging scale factor}{178}{section.A.4}
+\contentsline {subsection}{\numberline {A.4.1}Summary of differences with AN-13-139}{178}{subsection.A.4.1}
+\contentsline {subsection}{\numberline {A.4.2}Selection}{178}{subsection.A.4.2}
+\contentsline {subsubsection}{\numberline {A.4.2.1}$\tau 2/\tau 1$ cut}{179}{subsubsection.A.4.2.1}
+\contentsline {subsubsection}{\numberline {A.4.2.2}Backgrounds}{180}{subsubsection.A.4.2.2}
+\contentsline {subsubsection}{\numberline {A.4.2.3}b-W Separation}{181}{subsubsection.A.4.2.3}
+\contentsline {subsection}{\numberline {A.4.3}Distributions in MC}{181}{subsection.A.4.3}
+\contentsline {subsubsection}{\numberline {A.4.3.1}Smoothing}{181}{subsubsection.A.4.3.1}
+\contentsline {subsubsection}{\numberline {A.4.3.2}Combined Distributions}{184}{subsubsection.A.4.3.2}
+\contentsline {subsection}{\numberline {A.4.4}Fitting Procedure}{184}{subsection.A.4.4}
+\contentsline {subsubsection}{\numberline {A.4.4.1}Background Shapes}{185}{subsubsection.A.4.4.1}
+\contentsline {subsubsection}{\numberline {A.4.4.2}$t\overline {t}$ Shapes}{187}{subsubsection.A.4.4.2}
+\contentsline {subsection}{\numberline {A.4.5}Efficiency Calculation}{192}{subsection.A.4.5}
+\contentsline {chapter}{\numberline {B}Appendices for Chapter\nobreakspace {}4 }{197}{appendix.B}
+\contentsline {section}{\numberline {B.1}Model parameters and cross sections}{197}{section.B.1}
+\contentsline {section}{\numberline {B.2}tau42 scale factor extrapolation}{199}{section.B.2}
+\contentsline {section}{\numberline {B.3}CSVL Vs CSVM fat jet b tagging}{204}{section.B.3}
+\contentsline {section}{\numberline {B.4}tauNM distribution}{206}{section.B.4}
+\contentsline {section}{\numberline {B.5}Cross-talk in data}{209}{section.B.5}
+\contentsline {chapter}{Bibliography}{211}{appendix*.12}

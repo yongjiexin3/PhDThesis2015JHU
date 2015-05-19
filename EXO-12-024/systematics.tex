@@ -1,36 +1,38 @@
 \section{Systematic uncertainties}
-\label{sec:systematics}
+\label{sec:systematics1}
 The sources of systematic uncertainties are summarized as
 follows:
 \begin{itemize}
-\item Background-related systematic uncertainties: background parametrization.
-\item Signal-related systematics uncertainties: W/Z-tagging efficiency, Jet Energy Scale(JES), Jet Energy Resolution(JER), luminosity.
+\item Background-related systematic uncertainties: background shape parametrization.
+\item Signal-related systematics uncertainties: the determination of W/Z-tagging efficiency, jet energy scale(JES), jet energy resolution(JER), luminosity, PDF, and pile up.
 \end{itemize}
 
 \subsection{Background shape parametrization}
-\label{sec:background}
+\label{sec:background1}
 
 We model the shape of the QCD background in the dijet spectrum 
-using a simple parametrization which has been sucessfully deployed in
+using a simple parametrization which has been successfully deployed in
 previous searches in the dijet mass spectrum~\cite{cmsdijet}.
-The background model is given in Eq.~(\ref{eqParam}):
+Note in the limit setting, we employ a background plus signal fit. Here
+we show the background only fit to prove that data is dominated by background. 
+The background model is given in Equation~(\ref{eqParam}):
 \begin{equation}
 \frac{{\rm d}N}{{\rm d}m} = 
 \frac{P_{0} (1 - m/\sqrt{s})^{P_{1}}}{(m/\sqrt{s})^{P_{2}
 }} .
 \label{eqParam}
 \end{equation}
-\noindent where $m$ denotes the dijet mass and $\sqrt{s}$ the pp center of mass energy.
+\noindent where $m$ denotes the dijet mass and $\sqrt{s}$  is the center of energy for pp collisions.
 $P_0$ acts as a normalization parameter for the probability
 density function, and $P_1$, $P_2$ describe its shape.
-It was checked by a Fisher F-test that no additional parameter is not needed to discribe the distributions.
+It has been checked by a Fisher F-test that no additional parameter is not needed to discribe the distributions.
 
-Figure \ref{fig:singleVtagBG} and Figure \ref{fig:doubleVtagBG} show the dijet mass spectra from
-single and double $\PW/\cPZ$-tagged data fitted to Eq.~(\ref{eqParam}) and the bottom panes show corresponding pull
+Figure~\ref{fig:singleVtagBG} and Figure~\ref{fig:doubleVtagBG} show the dijet mass spectra for
+single and double $\PW/\cPZ$-tagged data, fitted to Equation~(\ref{eqParam}) and the bottom panes show corresponding pull
 distributions, demonstrating the agreement between the background-only
 probability density function and the data.
 
-No sizeable deviation from the background-only hypothesis is seen,
+No sizable deviation from the background-only hypothesis is seen,
 exclusion limits are set on the product of cross section, acceptance, and branching fraction for
 the five considered final states: qW, qZ, WW, WZ, and ZZ.
 
@@ -66,79 +68,77 @@ the five considered final states: qW, qZ, WW, WZ, and ZZ.
 \subsection{W/Z-tagging efficiency}
 \label{sec:vtageff}
 
-The W/Z-tagging efficiency is determined from the Monte Carlo simulation.
-We cross-check the MC modelling of the signal efficiency by measuring the W/Z-tagging efficiency
-in semileptonic $\ttbar$ data, and compare it
-with the same efficiency obtained using identical procedure from $\ttbar$ Monte Carlo sample generated with MadGraph~\cite{madgraph} and showered with Pythia6 Tune Z2*.
-The ratio of the two efficiencies defines a scale factor, which is then applied to
-the efficiencies for signals in the dijet data.
+The uncertainty in the efficiency for singly $\PW/\cPZ$-tagged events
+is estimated using the $\ell$+jets control sample from $\ttbar$ events
+described above. Uncertainties of \scalefactorHPu~and
+\scalefactorLPu~in the respective scale factors for HP and LP tagging
+include contributions from control-sample statistical uncertainties,
+and the uncertainties in the JES and JER for pruned jets. Since the
+scale factors are estimated only in the kinematic regime of the
+$\ttbar$ sample, where the \PW\ decay products merge and the b
+quarks are reconstructed as separate jets, we use the simulation just
+to extrapolate to larger $\PW/\cPZ$-jet \pt. The efficiency is
+therefore estimated as a function of \pt~for two showering and
+hadronization models, using $\GBulk$ samples generated with the {\sc
+  jhugen} event generator interfaced to \PYTHIA~and \HERWIG{++}. The
+differences are respectively within 4\% and 12\% for HP and LP
+tagged jets, significantly smaller than the statistical uncertainties
+in the scale factors. Other systematic uncertainties in tagging
+efficiency are even smaller. Because of the rejection of charged
+particles not originating from the primary vertex, and the application
+of pruning, the dependence of the $\PW/\cPZ$-tagging efficiency on
+pileup is weak, and the uncertainty in the modelling of the pileup
+distribution is $<$1.5\%. These systematic contributions refer to a
+singly $\PW/\cPZ$-tagged jet, and are applied to each of the two
+leading jets in doubly $\PW/\cPZ$-tagged events.
 
-We follow the same procedure as described in Ref.~\cite{JME-13-006}.
-%The efficiency of the cut on the $\tau_{21}$ variable in the semileptonic $\ttbar$ sample is found to be \mucuteffsemilepdata for data, %and \mucuteffsemilepmc for Monte Carlo.
-%The efficiency of the pruned jet mass cut for the data and Monte Carlo are \mcuteffsemilepdata and \mcuteffsemilepmc, respectively.
-Combining the efficiencies of the $\tau_{21}$ and jet mass cuts, a data-MC scale factor of  \scalefactorHP
-(\scalefactorLP) for the high (low) purity selection for the  W-tagging efficiency is determined.
-We assume that the same scale factor applies to Z-tagging as well.
-The errors on the scale factor are propagated
-into the systematic uncertainties on the overal signal efficiency.
+The JES has an uncertainty of
+1--2\%~\cite{JME-JINST,Collaboration:2013dp}, and its \pt~and $\eta$
+dependence is propagated to the reconstructed value of
+$m_\mathrm{jj}$, yielding an uncertainty of 1\%, regardless
+of the resonance mass. The impact of this uncertainty on the
+calculated limits is estimated by changing the dijet mass in the
+analysis within its uncertainty. The JER is known to a precision of
+10\%, and its non-Gaussian features observed in data are well
+described by the CMS simulation~\cite{JME-JINST}. The effect of the
+JER uncertainty in the limits is also estimated by changing the
+reconstructed resonance width within its uncertainty. The integrated
+luminosity has an uncertainty of 2.6\%~\cite{LUM-13-001}, which is
+also taken into account in the analysis. The uncertainty related to
+the PDF used to model the signal acceptance is estimated from the
+eigenvectors of the CTEQ66~\cite{cteq} and MRST2006~\cite{mrst2006}
+sets of PDF. The envelope of the upward and downward variations of the
+estimated acceptance for the two sets is assigned as uncertainty and
+found to be 5\% -- 15\% in the resonance mass range of interest. A
+summary of all systematic uncertainties is given in
+Table~\ref{table:uncertainties}.
+
+%\begin{table}[htb]
+\begin{table}[]
+\begin{center}
+  \caption{Summary of systematic uncertainties.  The labels HP and
+    LP refer to high-purity and low-purity event categories,
+    respectively.}
+\begin{tabular}{ llll }
+\hline
+Source         &  Relevant quantity         & LP (\%)  & HP (\%)   \\
+\hline
+Jet energy scale       & Resonance shape    & 1  & 1    \\
+Jet energy resolution    & Resonance shape    & 10 & 10     \\
+W-tagging    & Efficiency (per jet)  & 54 & 7.5  \\
+Tagging $\pt$-dependence  & Efficiency (per jet)  & $<$4 & $<$12 \\
+Pileup	           & Efficiency (per jet)    & $<$1.5 & $<$1.5    \\
+Integrated luminosity    & Yield (per event)    & 2.6  & 2.6  \\
+PDF       & Yield (per event)    & 5--15  & 5--15  \\
+\hline
+\end{tabular}
+\label{table:uncertainties}
+\end{center}
+\end{table}
 
 
-%\begin{figure}[htb]
-%\centering
-%\includegraphics[width=0.95\textwidth]{figs/semiLepMass_muHist}
-%\caption{$\tau_{21}$ of the highest mass jet in a semileptonic
-%ttbar sample from Ref.~\cite{hadronictop}.}
-%\label{figs:muHist_semileptonic}
-%\end{figure}
-
-%\begin{figure}[htbp]
-%\centering
-%\includegraphics[width=0.95\textwidth]{figs/semiLepMass_mWCand.pdf}
-%\caption{Pruned jet mass of the highest mass jet in a semileptonic
-%ttbar sample from Ref.~\cite{hadronictop}.}
-%\label{figs:mHist_semileptonic}
-%\end{figure}
 
 
-The efficiency error on a single $\PW/\cPZ$-tagging is estimated with
-a control sample of semileptonic $t \bar t$ events as described above.
-The uncertainties of \scalefactorHPu (\scalefactorLPu) on the scale
-factors for high (low) purity tagging include sources from control
-sample statistics, pruned jet mass scale and pruned jet mass
-resolution.
-Since we estimate the scale factor
-only in the kinematic regime of the $\ttbar$ sample where the W decay
-products merge, but the b-quarks are still reconstructed as separate
-jets, we need to rely on the simulation to extrapolate to
-higher jet \pt.
-Therefore, we estimate how the efficiency varies as a function of
-\pt for two different showering and hadronization models using
-\GBulk samples generated with {\sc jhugen} and interfaced with
-\PYTHIA~6 and \HERWIG{++}.
-We find that the differences are within $4\%$ ($12\%$)
-for the high (low) purity tagging and therefore smaller than the
-statistical uncertainty of the scale factor.
-Also, the dijet mass dependence of the $\PW/\cPZ$-tagging efficiency for
-background events, shown in Fig.~\ref{fig:singleefficiencies} and Fig.~\ref{fig:doubleefficiencies},
-is adequately described by the simulation.
-Other systematic errors on the tagging efficiency are small or
-negligible.  Because of the rejection of charged particles not
-originating from the primary vertex and also the application of
-pruning, the pileup dependence on the $\PW/\cPZ$-tagging efficiency
-is weak, and the uncertainty of the modeling of the pileup
-distribution is less than 3\%.  Modeling of the underlying event,
-estimated by switching it off in \PYTHIA~6, impacts the tagging
-efficiency by less than 1\%.   These
-systematic errors refer to a single $\PW/\cPZ$-tagged jet and are
-applied twice for double $\PW/\cPZ$-tagged events.
 
-\subsection{Other uncertainties}
-
-In the jet \pt and $\eta$ regions considered in this analysis, the Jet Energy Scale is known to a precision of 1-2\%~\cite{JME-JINST,Collaboration:2013dp}.
-The \pt and $\eta$ dependent uncertainty is propagated to the reconstructed dijet invariant mass, resulting in an uncertainty of 1\% to a good approximation independent of the reconstructed dijet invariant mass.
-It is taken into account by shifting the resonance dijet mass in the statistical analysis.
-The Jet Energy Resolution(JER) is known to a precision of 10\% and its tails are in agreement between data and MC~\cite{JME-JINST}.
-It is taken into account in the statistical analysis by a variation of the resonance width by 10\%.
-The luminosity has been measured with an uncertainty of 2.6\%~\cite{LUM-13-001}, and is also taken into account in the statistical analysis.
 
 \clearpage

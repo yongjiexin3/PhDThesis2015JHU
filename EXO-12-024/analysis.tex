@@ -1,14 +1,15 @@
 \section{Dijet analysis with jet substructure tagging}
-\label{sec:analysis}
+\label{sec:analysis1}
 
-\section{Event display}
-The event detected by the CMS detector is shown in Figure~\ref{fig:eventdisplay1}
-and Figure~\ref{fig:eventdisplay2}. In Figure~\ref{fig:eventdisplay1}, the top image is
+\subsection{Event display}
+The event detected by the CMS detector is shown in Figure~\ref{fig:eventdisplay1a}
+and Figure~\ref{fig:eventdisplay2a}. In Figure~\ref{fig:eventdisplay1a}, the top image is
 showing the event in the transverse plane, which is global $\theta-\phi$ axes. The bottom
-image is showing this event in the $\theta-z$ plane. In Figure~\ref{fig:eventdisplay2}, the top 
+image is showing this event in the $\theta-z$ plane. In Figure~\ref{fig:eventdisplay2a}, the top 
 image is showing the global view of this event. And the bottom image is showing
 the lego plot of the two jets, each of which is composed by two subjets, a term that we will
-introduce in the following text.  
+introduce in the following text. More plots of the events of interest are presented 
+in Appendix~\ref{appendix:events}. 
 
 \begin{figure}[!htbp]
 \begin{center}
@@ -19,7 +20,7 @@ introduce in the following text.
 The transverse momenta of the two leading jets are 1.1~\TeVcc and 0.92~\TeVcc .
 The invariant mass of the two leading pruned CA8 jets is 97.82 \GeVcc and 85.08 \GeVcc .
 }
-\label{fig:eventdisplay1}
+\label{fig:eventdisplay1a}
 \end{figure}
 
 \begin{figure}[!htbp]
@@ -31,32 +32,41 @@ The invariant mass of the two leading pruned CA8 jets is 97.82 \GeVcc and 85.08 
 The transverse momenta of the two leading jets are 1.1~\TeVcc and 0.92~\TeVcc .
 The invariant mass of the two leading pruned CA8 jets is 97.82 \GeVcc and 85.08 \GeVcc .
 }
-\label{fig:eventdisplay2}
+\label{fig:eventdisplay2a}
 \end{figure}
 
 
 \subsection{Jet reconstruction}
-
 \label{sec:reconstruction}
 
+Jets are reconstructed by clustering particles 
+obtained using the particle flow (PF) algorithm~\cite{jetid,particleflow,particleflow2}. 
+The PF procedure identifies each individual particle (a PF candidate) 
+through an optimized combination of all subdetector information. 
+The energy of photons is obtained directly from the ECAL measurement, 
+corrected for suppression effects of energies from calorimetric channels 
+with small signals (referred to as zero-suppression)~\cite{Chatrchyan:2013dgaParticle}. 
+The energy of an electron is determined from a combination 
+of the track momentum at the main interaction vertex, 
+the corresponding ECAL cluster energy, and the energy 
+sum of all bremsstrahlung photons associated with the track. 
+The energy of a muon is obtained from the corresponding track momentum. 
+The energy of a charged hadron is determined from a combination of the track momentum 
+and the corresponding ECAL and HCAL energies, corrected for zero-suppression effects, 
+and calibrated for the nonlinear response of the calorimeters. 
+Finally, the energy of a neutral hadron is obtained from the calibrated energies in ECAL and HCAL.
 
-Based on CMSSW 5.3.x software package,events are reconstructed using the particle-flow reconstruction
-algorithm~\cite{particleflow}, which attempts to reconstruct all
-stable particles in an event by combining information from all
-subdetectors. The algorithm categorizes all particles into five types:
-muons, electrons, photons, charged and neutral hadrons. The resulting
+
+The resulting
 particle flow candidates are passed to each jet clustering algorithm, in this case the
 Cambridge-Aachen (CA)~\cite{CAaachen,CAcambridge}
 jet clustering algorithm, as implemented in FastJet version 3.0.1 \cite{fastjet1,fastjet},
-to create "particle flow jets".
+to create ``particle flow jets".
 The CA clustering sequence is only determined by the distance between
 clusters and is not weighted by their momentum, as is done for the
 $k_\text{T}$ and anti-$k_\text{T}$ algorithms. A distance parameter of
 size $R=\sqrt{(\Delta \eta)^2 + (\Delta\phi)^2}=0.8$ is used for the CA algorithm.
-%In previous studies based on simulation~\cite{catop_cms}, the CA algorithm was
-%found to be more efficient (for the same mistag rate) than $k_{\mathrm  T}$
-%or anti-$k_{\mathrm T}$ at finding hard subjets by reversing
-%the last step of the clustering algorithm.
+The subjets of the CA8 jets are obtained by rewinding the last step of jet clustering. 
 
 
 Charged hadrons identified as pileup are removed from the inputs to

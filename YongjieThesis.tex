@@ -20,6 +20,8 @@
 \usepackage{array}
 \usepackage{float}
 
+\usepackage{verbatim}
+
 % wrapfig is fragile: use sparingly
 \usepackage{wrapfig} 
 %\usepackage{times}  % Use this for ugly fonts
@@ -50,10 +52,10 @@
 \newcommand{\ttbar}{\mathrm{t\overline{t}}}
 
 
-\newcommand{\PW}{W}
-\newcommand{\cPZ}{Z}
-\newcommand{\GeVcc}{GeV}
-\newcommand{\TeVcc}{TeV}
+\newcommand{\PW}{{\rm W}}
+\newcommand{\cPZ}{{\rm Z}}
+\newcommand{\GeVcc}{~GeV~}
+\newcommand{\TeVcc}{~TeV~}
 \newcommand{\bbbar}{\mathrm{b\overline{b}}}
 \newcommand{\kt}{$k_{T}$}
 \newcommand{\PH}{H}
@@ -85,11 +87,11 @@
 
 \newcommand{\cPq}{q}
 
-\newcommand{\GRS}{$G_\mathrm{RS}$}
+\newcommand{\GRS}{$G_\mathrm{RS}$~}
 \newcommand{\GBulk}{\ensuremath{G_\mathrm{Bulk}}}
 \newcommand{\MPl}{\ensuremath{\overline{M}_\text{Pl}}}
 
-\newcommand{\PWpr}{W'}
+\newcommand{\PWpr}{\wpr}
 
 \newcommand{\invpb}{pb$^{-1}$~}
 \newcommand{\intlumi}{19.7~fb$^{-1}$}
@@ -101,7 +103,7 @@
 \newcommand{\scalefactorHPu}{ \ensuremath{7.5\%}}
 \newcommand{\scalefactorLPu}{ \ensuremath{54\%}}
 
-
+\newcommand{\re}{e}
 
 
 \makeatletter
@@ -129,8 +131,6 @@
 %\makeglossary % enable the glossary
 
 \begin{document}
-
-
 \title{Search for a massive resonance decaying to qV/VV/VH in hadronic final states}
 \author{Yongjie Xin}
 \degreemonth{May}
@@ -142,6 +142,8 @@
 % add your chaptders, best way is to have separate TeX files for each chapter
 %\include{Preface}
 %\include{pdefs}
+
+\include{preface}
 
 \include{Introduction}
 \include{CMSDetector}
@@ -155,6 +157,9 @@
 
 
 \include{EXO-12-024/analysis} 
+\include{EXO-12-024/N-subjettiness}
+
+
 \include{EXO-12-024/data_and_mc_samples}
 \include{EXO-12-024/trigger}
 \include{EXO-12-024/data_mc_comparisons}
@@ -165,14 +170,19 @@
 \include{EXO-12-024/results}  
 \include{EXO-12-024/conclusions}
 
-\iffalse
+
 
 \include{EXO-14-009/introduction}
+
 \include{EXO-14-009/data_and_mc_samples}
-\include{EXO-14-009/trigger}
+
 \include{EXO-14-009/analysis}
 \include{EXO-14-009/H-taggingAlgo1}
+
+\include{EXO-14-009/trigger}
+
 \include{EXO-14-009/signal}
+
 \include{EXO-14-009/background}
 \include{EXO-14-009/systematicsCombine}
 \include{EXO-14-009/statistics}
@@ -183,7 +193,16 @@
 \include{EXO-14-009/conclusions}
 
 
-\fi
+\appendix
+\include{EXO-12-024/appendix}
+\include{EXO-12-024/WtagSF-appendix}
+%\include{EXO-14-009/appendix}
+\include{EXO-14-009/modelParam}
+\include{EXO-14-009/tau42SF}
+\include{EXO-14-009/CSVL-Vs-CSVM}
+\include{EXO-14-009/tauNM}
+\include{EXO-14-009/appHbbVeto}
+
 %\include{Summary}
 %\include{Appendix}
 
@@ -192,6 +211,7 @@
 % if you use BIBTEX
 \bibliographystyle{IEEEtran}
 \bibliography{YongjieThesis}
+
 
 
 
