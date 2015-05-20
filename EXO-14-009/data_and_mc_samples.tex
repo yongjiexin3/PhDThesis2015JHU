@@ -1,27 +1,4 @@
 \newpage
-%\section{Benchmark model for a vector triplet}
-%
-%Information about the signal models used  is in Table~\ref{table:signalModels}
-
-%\begin{table}[htbp]
-%\resizebox{\textwidth}{!}{
-%\begin{tabular}{|r|r|r|r|r|r|r|}
-%\hline
-%\multicolumn{1}{|l|}{M(GeV)} & \multicolumn{1}{l|}{width(GeV)} & \multicolumn{1}{l|}{BR(Z'$\to$WW)} & \multicolumn{1}{l|}{BR(Z'$\to$HZ ) } & \multicolumn{1}{l|}{BR(W'$\to$ZW)} & \multicolumn{1}{l|}{BR(W'$\to$HW )} & \multicolumn{1}{l|}{X-section(pb)} \\ \hline
-%800 & 32.03 & 0.4139 & 0.5672 & 0.4287 & 0.5528 & 3.17E-01 \\ 
-%900 & 32.97 & 0.4393 & 0.534 & 0.4513 & 0.5223 & 2.39E-01 \\ 
-%1000 & 34.95 & 0.4506 & 0.5176 & 0.4603 & 0.5079 & 1.65E-01 \\ 
-%1500 & 47.94 & 0.4665 & 0.4893 & 0.4709 & 0.4849 & 2.44E-02 \\ 
-%2000 & 62.2 & 0.4698 & 0.4815 & 0.4723 & 0.4791 & 4.01E-03 \\ 
-%2500 & 76.81 & 0.471 & 0.4783 & 0.4726 & 0.4767 & 7.08E-04 \\ 
-%3000 & 91.57 & 0.4716 & 0.4765 & 0.4727 & 0.4754 & 1.26E-04 \\ 
-%\hline
-%\end{tabular}
-%}
-%\caption{Summary of signal models.}
-%\label{table:signalModels}
-%\end{table}
-
 
 \section{Data and Monte Carlo samples}
 \label{sec:data_and_mc_samples}
@@ -29,79 +6,71 @@
 
 The data sample of proton-proton collisions at $\sqrt{s}=8$~\TeVcc was collected in 2012 and corresponds to
 an integrated luminosity of \intlumi. It is the same as the data studied in 
-Chapter~\ref{chap:chapter3}, as shown in Table~\ref{table:dataset}. 
+Chapter~\ref{chap:chapter3} Table~\ref{table:dataset}. 
 The dijet data sample is dominated by light flavored and gluon jets, which we denote as 
 the ``QCD background".  
-%The QCD background is obtained from data by fitting an
-%analytic parameterization of the dijet invariant mass distribution.
 
-We list part of our monte carlo simulated signal(from 1\TeVcc to 2.6 \TeVcc) 
-in 
-Table~\ref{table:Hww}. 
-Signal samples are generated exclusively of the specific 
-Higgs decay mode and W/Z decay mode. 
-Model parameters and detailed cross sections are summarized in 
-Appendix~\ref{appendix:modelParam}.
-The matrix element is calculated with Madgraph~5.1.5.11~\cite{madgraph}. 
-% in Table~\ref{table:Hbb} and 
-%Table~\ref{table:Hww}, 
-The signals of interest,
-are showered and hadronized with 
-\PYTHIA~6.426~\cite{pythia}, and \HERWIG{++} 2.5.0~\cite{herwig}, 
-using simulation of the
-CMS detector, based on \GEANTfour~\cite{refGEANT}. Tune
-Z2*~\cite{bib_tunez1}
-is used in \PYTHIA, while the version 23 tune~\cite{herwig} is used in
-\HERWIG{++}. The CTEQ6L1~\cite{cteq} parton distribution functions
-(PDF) are used for \PYTHIA and also for \HERWIG{++}
-%All Monte Carlo events are fully simulated and reconstructed via the Geant4-based CMS simulation
-% and reconstruction software. 
-%Information about the signal models used 
-%is in Table~\ref{table:signalModels}
-W' and Z' are generated with resonance widths
-at $\approx$4\% of the resonance mass, slightly smaller than
-the experimental resolution in $m_\mathrm{jj}$ for resonance masses
-considered in the analysis. Samples showered from
- \PYTHIA~are used in the analysis. %On the other hand, to compare
-%the effect of hadronization,  \HERWIG{++} is therefore used
-%to retrieve the difference.
-While, samples from \HERWIG{++} are used to evaluate the systematic 
-uncertainty by comparing the difference of hadronization from \PYTHIA.
+In the HVT framework, the production cross sections of 
+${\rm W'}$ and ${\rm Z'}$ bosons and their decay branching fractions depend on 
+three parameters in addition to the resonance masses:  the 
+strength of couplings to quarks ($c_\mathrm{q}$), to the H ($c_\mathrm{H}$),  and on
+their self-coupling ($g_\mathrm{V}$).
+In the HVT model B, 
+where $g_\mathrm{V}=3$ and $c_\mathrm{q}=-c_\mathrm{H}=1$, 
+ ${\rm W'}$ and ${\rm Z'}$ preferentially couple to bosons (W/Z/H),
+giving rise to diboson final states.
+This feature reproduces the properties of the ${\rm W'}$ and ${\rm Z'}$ bosons
+ predicted by the minimal composite Higgs model.
+In this case, the production cross sections for ${\rm Z'}$,
+${\rm W'^{-}}$, and ${\rm W'^{+}}$ are respectively 165, 
+87, and 248 fb
+for a signal of resonance mass $m_\mathrm{V'} =$ 1 TeV.
+Their branching
+fractions to VH and decay width are respectively   
+51.7\%, 50.8\%, 50.8\% and 35.0, 34.9, 34.9 GeV. 
+The resonances are assumed to be narrow, {\it i.e.}, with natural
+widths smaller than the experimental resolution in $m_\mathrm{jj}$ for
+masses considered in this analysis.
 
-%All simulated samples are passed through the standard CMS event
-%reconstruction software.
+We consider the ${\rm W'}$ and ${\rm Z'}$ 
+resonances separately, and report limits for 
+each candidate individually to permit 
+the reinterpretation of our results in 
+different scenarios with different numbers of spin-1 resonances.
 
-
-
-%\begin{table}[htbp]
-%\begin{tabular}{|r|r|r|r|r|r|r|}
-%\hline
-%\multicolumn{1}{|l|}{M(GeV)} & \multicolumn{1}{l|}{width(GeV)} & \multicolumn{1}{l|}{BR(Z'$\to$WW)} & \multicolumn{1}{l|}{BR(Z'$\to$HZ ) } & \multicolumn{1}{l|}{BR(W'$\to$ZW)} & \multicolumn{1}{l|}{BR(W'$\to$HW )} & \multicolumn{1}{l|}{X-section(pb)} \\ \hline
-%800 & 32.03 & 0.4139 & 0.5672 & 0.4287 & 0.5528 & 3.17E-01 \\ 
-%900 & 32.97 & 0.4393 & 0.534 & 0.4513 & 0.5223 & 2.39E-01 \\ 
-%1000 & 34.95 & 0.4506 & 0.5176 & 0.4603 & 0.5079 & 1.65E-01 \\ 
-%1500 & 47.94 & 0.4665 & 0.4893 & 0.4709 & 0.4849 & 2.44E-02 \\ 
-%2000 & 62.2 & 0.4698 & 0.4815 & 0.4723 & 0.4791 & 4.01E-03 \\ 
-%2500 & 76.81 & 0.471 & 0.4783 & 0.4726 & 0.4767 & 7.08E-04 \\ 
-%3000 & 91.57 & 0.4716 & 0.4765 & 0.4727 & 0.4754 & 1.26E-04 \\ 
-%\hline
-%\end{tabular}
-%\caption{Summary of signal models.}
-%\label{table:signalModels}
-%\end{table}
+Signal events are simulated using 
+the \MADGRAPH~5.1.5.11~\cite{madgraph} Monte Carlo (MC) event 
+generator to generate partons that are 
+then showered with with \PYTHIA~6.426~\cite{Sjostrand:2006za} to 
+produce final state particles. These events are then 
+processed through a \GEANTfour~\cite{refGEANT} based simulation of 
+the CMS detector. The \MADGRAPH input parameters are 
+provided in Ref.~\cite{Pappadopulo:2014qza1} and the H mass 
+is assumed to be 125\GeVcc. Samples showered 
+with \HERWIG{++}~2.5.0~\cite{herwig} are 
+used to evaluate the systematic uncertainty 
+associated with the hadronization. Tune Z2*~\cite{bib_tunez1} is 
+used in \PYTHIA, while the version 23 tune~\cite{herwig} is 
+used in \HERWIG{++}. The CTEQ6L1~\cite{cteq} parton distribution 
+functions (PDF) are used for \MADGRAPH, \PYTHIA and \HERWIG{++}. 
+Signal events are generated from resonance mass 1.0 to 2.6 TeV in 
+steps of 0.1 TeV. Signals with resonance masses 
+between the generated values are interpolated.
+Part of the signal samples and their cross sections are listed in Table~\ref{table:Hww}.
 
 
 \begin{table}[htb]
 \begin{center}
-\begin{tabular}{ |l|c|r|r| }
+\begin{tabular}{ cccc }
 \hline
-Process     & mass ($\GeVcc$) & Events & X-sec[pb] \\
+Process     & mass (\GeVcc) & Events & X-sec[pb] \\
 \hline
+
 Z' $\to$ HZ & 1000   &20000   & 8.56E-02 \\
  & 1500   &20000              & 1.19E-02 \\
  & 2000   &20000              & 1.93E-03 \\
  & 2500  &20000               & 3.39E-04  \\\hline
-%W' $\to$ H(ww $\to$ qqqq)W(qq)(m=750$\GeVcc$) &Madgraph   &20000   &4.071E+01  \\
+
 W' $\to$ HW& 1000   &20000   &  1.71E-01  \\
  & 1500 &20000               &  2.55E-02  \\
  & 2000 &20000               &  4.25E-03  \\
@@ -110,9 +79,8 @@ W' $\to$ HW& 1000   &20000   &  1.71E-01  \\
 \end{tabular}
 \end{center}
 \caption{Examples of the simulated Monte Carlo samples used in this analysis for process
- V' $\to$ VH. Cross sections are calculated from 
-production cross sections of V' times its BR(W' $\to$HW or Z' $\to$ HZ). 
- These samples are generated using Madgrap5 and hadronized with Pythia6. }
+ ${\rm V' \to VH}$. Cross sections are calculated by 
+its production cross sections of ${\rm V'}$ times its $\mathcal{B}$( ${\rm W' \to HW}$ or ${\rm Z' \to HZ}$). }
 \label{table:Hww}
 \end{table}
 

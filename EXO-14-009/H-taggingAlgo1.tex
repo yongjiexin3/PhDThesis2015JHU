@@ -1,8 +1,9 @@
 \section{The H tagging and W/Z tagging algorithms}
 \label{sec: H tagging}
 
-The products of hadronic decays of Higgs, W, and Z bosons can fall
-within a single jet if these particles are highly boosted.  In this
+%The products of hadronic decays of Higgs, W, and Z bosons can fall
+%within a single jet if these particles are highly boosted.  
+In this
 analysis, we aim to cover as much of the Higgs branching ratio as
 possible.  The Standard Model Higgs with a mass of 125 \GeVcc decays
 to b$\bar{\rm b}$ with a branching fraction of 57.7\%, and to WW$^*$
@@ -21,7 +22,7 @@ jet-level variables: N-subjettiness (described in
 Section~\ref{sec:N-subjettiness}) and jet pruning
 (Section~\ref{sec:jetPruning}).  The W/Z-tagger is described in
 Section~\ref{sec:wztagging}, and the two H-taggers in
-Sections~\ref{sec:higgsTaggerbb} and ~\ref{sec:higgsTaggerww}.
+Sections~\ref{sec:higgsTaggerbb} and~\ref{sec:higgsTaggerww}.
 
 
 %{\bf TO-DO: add a plot of this Higgs jet mass from signal, QCD, data, as a comparison.  And we need also to show the optimization of this mass choice. }
@@ -30,24 +31,25 @@ Sections~\ref{sec:higgsTaggerbb} and ~\ref{sec:higgsTaggerww}.
 \label{sec:N-subjettiness}
 
 The details of N-subjettiness is elaborated before. Please refer to 
-Section~\ref{sec:N-subjettiness} in Chapter~\ref{chap:chapter3}. 
+Section~\ref{sec:N-subjettiness1} in Chapter~\ref{chap:chapter3}. 
 
 
 
 \subsection{Jet Pruning}
 \label{sec:jetPruning}
 
-Please refer to Chapter~\ref{chap:chapter3} for the procedure of jet pruning. 
+Please refer to Section~\ref{sec: W/Z tagging1} in 
+Chapter~\ref{chap:chapter3} for the procedure of jet pruning. 
 
 Here the result of jet pruning on the CA8 jets is two fold, i.e., the invariant jet mass 
 reconstruction and subjet identification.
 In all cases,
 we use the jet invariant mass computed from the whole (or ``fat'') 
 pruned jet.  This quantity is referred below to as the pruned jet mass.
-For W/Z tagging, we use pruned jet mass between 70 and 100 \GeVcc. 
+For W/Z tagging, we use pruned jet mass between 70 and 100\GeVcc. 
 For the identification of Higgs jets, we require the pruned jet mass to
-lie between 110 and 135~\GeVcc.  The distribution of the pruned jet
-mass of the Higgs candidate jet is shown on Fig.~\ref{fig:JetMassTagging} 
+lie between 110 and 135\GeVcc.  The distribution of the pruned jet
+mass of the Higgs candidate jet is shown on Figure~\ref{fig:JetMassTagging}. 
 
 
 \begin{figure}[htb]
@@ -83,12 +85,11 @@ pruned subjets are used as the basis for b tagging.
 \label{sec:wztagging}
 
 For the identification of W/Z jets, we employ the same tagging algorithm 
-previously used in Chapter~\ref{chap:chapter3}.  W/Z jets are selected using the following
-requirements:
+previously used in Section~\ref{sec: W/Z tagging1} in Chapter~\ref{chap:chapter3}.  W/Z jets are selected using the following requirements:
 \begin{itemize}
 
 \item {\bf Pruned jet mass}  $\mbox{\boldmath$m_{\text{jet}}$}$
-  - Require the total pruned jet mass to satisfy $70 \GeVcc < m_\text{jet} <  100 \GeVcc $.
+  - Require the total pruned jet mass to satisfy $70 < m_\text{jet} <  100$\GeVcc.
 
 \item {\bf N-subjettiness} 
   - We split the events into two categories, ``high purity'' $\PW/\cPZ$ jets by
@@ -96,7 +97,7 @@ requirements:
     the ``low purity'' $\PW/\cPZ$ jets.  The thresholds are the same as those in 
     Chapter~\ref{chap:chapter3}. 
 \end{itemize}
-The performance of the W/Z tagger has been documented in detail in Ref.~\cite{JME-13-006}.
+The performance of the W/Z tagger has been documented in detail in Reference~\cite{JME-13-006}.
 
 
 
@@ -116,28 +117,29 @@ The performance of the W/Z tagger has been documented in detail in Ref.~\cite{JM
 %% &&& {\bf HH to 4b might explain this. }
 
 
-\subsection{${\rm H \to b\bar{b}}$}
+%\subsection{${\rm H \to b\bar{b}}$}
+\subsection{${\rm \Hbb}$ }
 \label{sec:higgsTaggerbb}
 
 To identify Higgs jets arising from the shower and hadronization of two 
 collimated b quarks, we apply b tagging either on the two subjets or the
-fat jet , based on the angular separation of the two subjets, which is 
-recommended by BTV-13-001~\cite{BTV-13-001}. 
-%CSV B tagging method on the jets, no matter subjets or fat jets, 
-%uses a fixed cone size of 0.3 to collects the tracks around 
-%the jet axis. 
+fat CA8 jet, based on the angular separation of the two subjets
+($\Delta R = \sqrt{ \Delta \eta^2 + \Delta \phi^2 }$)
+, which is 
+recommended by Reference~\cite{BTV-13-001}. 
 
- we use the following selection, syncrhonized with
-the radion search to $\PH\PH \to {\rm 4b}$~\cite{HH4b} and the search for HW 
+
+ We use the following selection, synchronized with
+the Radion search~\cite{HH4b} and the search for HW 
 resonances in the semileptonic channel~\cite{HWlv}:
 \begin{itemize}
 
 \item {\bf Pruned jet mass}  $\mbox{\boldmath$m_{\text{jet}}$}$
-  - Require the total pruned jet mass to satisfy $110 \GeVcc < m_\text{jet} <  135 \GeVcc $.
+  - Require the total pruned jet mass to satisfy $110 < m_\text{jet} <  135$\GeVcc.
 
 \item {\bf Subjet b-tagging}
         \begin{itemize}
-	\item if $\Delta R$ between the CA8 subjets is bigger than 0.3: 
+	\item if $\Delta R$ between the two CA8 subjets is bigger than 0.3: 
   		{\it both} subjets must pass the CSV Loose working point.
 	\item if $\Delta R$ between the CA8 subjets is smaller than 0.3:
 		require the {\it fat} CA8 jet to pass the CSV Loose working point. 
@@ -161,7 +163,7 @@ less well defined.
 
 A naive ${\rm H \to 4q}$ tagger would require a fat jet with four subjets. 
 %{\bf TO-DO: add the plot with the number of subjets.}
-However, a study done using the subjets as defined by the CMS Top Tagging
+However, a study done using the subjets defined by the CMS Top Tagging
 algorithm (which reruns the CA8 jet clustering with additional weak 
 pruning~\cite{cmstoptagging}) removes $\approx 90\%$ of the signal.   
 Compounded with a decreasing angular separation
@@ -171,7 +173,7 @@ resonance masses, {\it e.g.} at 2\TeVcc, only 1\% of signal
 passes this selection. 
 The distribution of the number of subjets of the reconstructed Higgs jets 
 in signal MC (obtained from the CMS Top Tagging) is shown 
-in Fig.~\ref{fig:Nsubjets}
+in Figure~\ref{fig:Nsubjets}. 
 
 \begin{figure}[htb]
 \centering
@@ -190,8 +192,8 @@ variables involving $\tau_4$.  The ratio
 $\tau_{42} \equiv\tau_4/\tau_2$ has the best separation 
 between the ${\rm H\to 4q}$
 signal and not only QCD background, but also Z and top jets.
-Figs~\ref{fig:tau421TeV} and~\ref{fig:tau422TeV} show the
-discriminating power of $\tau_{42}$ against $\ttbar$ and QCD, for 1~TeV
+Figures~\ref{fig:tau421TeV} and~\ref{fig:tau422TeV} show the
+discriminating power of $\tau_{42}$ against $\ttbar$ and QCD, for $\rm{m_{V'}}$ at 1~TeV
 and 2~TeV resonance masses respectively.
 
 \begin{figure}[htbp]
@@ -229,11 +231,11 @@ and 2~TeV resonance masses respectively.
 \end{figure}
 
 We also explore other combinations of $\tau_{NM} \equiv \tau_N/\tau_M $,
-which are listed in Appendix.~\ref{appendix:tauNM}.
+which are listed in Appendix~\ref{appendix:tauNM}.
 The ROC (receiver operating characteristic) 
 curve of for several $\tau_{NM}$ cuts (but the same pruned jet mass cut)
-is shown in Fig.~\ref{fig:roc}.  The signal efficiency is evaluated
-using Higgs jets in 2 \TeVcc signal MC, and the false positive rate
+is shown in Figure~\ref{fig:roc}.  The signal efficiency is evaluated
+using Higgs jets in 2\TeVcc signal MC, and the false positive rate
 ({\it i.e.}, mistag rate) is derived from QCDPT300to470 MC sample.
 From the figure, it is clear that $\tau_{42}$ outperforms any other
 single $\tau_{NM}$ variable.
@@ -256,12 +258,12 @@ single $\tau_{NM}$ variable.
 
 
 After optimizing the cut on $\tau_{42}$ (documented in
-Sec.~\ref{sec:tau42Opti} below), the full selection of the ${\rm H \to
+Section~\ref{sec:tau42Opti} below), the full selection of the ${\rm H \to
   WW^* \to 4q}$ tagger is:
 \begin{itemize}
 
 \item {\bf Pruned jet mass}  $\mbox{\boldmath$m_{\text{jet}}$}$
-  - We require the total pruned jet mass to satisfy $110 \GeVcc < m_\text{jet} <  135 \GeVcc $.
+  - We require the total pruned jet mass to satisfy $110< m_\text{jet} <  135$\GeVcc.
 
 \item {\bf N-subjettiness}
   - We split the events into two categories, ``high purity'' Higgs jets by
@@ -283,33 +285,33 @@ Sec.~\ref{sec:tau42Opti} below), the full selection of the ${\rm H \to
 Having selected $\tau_{42}$ as the discriminating variable, we next
 optimize its upper value.  In this study, the jet mass is confined
 within $[110, 135]~\GeV$.  We use the limit setting method (described
-in Sec.~\ref{sec:statistics}) and evaluate the expected limits of
+in Section~\ref{sec:statistics}) and evaluate the expected limits of
 several signal resonance masses at different $\tau_{42}$ working
 points.  These expected limits are presented
-in Table.~\ref{table:tau42Opti}.
+in Table~\ref{table:tau42Opti}.
 Given our focus on the resonance masses above 1500~\GeVcc, we
 choose to cut on $\tau_{42} < 0.55$. In the following analysis, 
 to compensate the signal efficiency loss at higher resonance mass, we 
 introduce an additional categories for $\Hww$ tagger as $0.55 < \tau_{42} < 0.65$.
 This is chosen from back-of-envelope calculation based on 
-Figs~\ref{fig:tau421TeV} and~\ref{fig:tau422TeV}, since this category provides 
+Figures~\ref{fig:tau421TeV} and~\ref{fig:tau422TeV}, since this category provides 
 very limited sensitivity.  
 %Figure~\ref{}i 
 
 \begin{table}[htbp]
 \begin{center}
 \caption{Upper limits (in units of 0.01~pb) 
-for high purity HW and HZ signals at different resonance masses and also
+for high purity HW and HZ signals at different resonance masses with
 different $\tau_{42}$ working points. }
 \label{table:tau42Opti}
-\begin{tabular}{|r|r|r|r|r|}
+\begin{tabular}{ccccc}
 \hline
-\multicolumn{1}{|l|}{HW / $\tau_{42}$} & 0.45 & 0.5 & 0.55 & 0.6 \\ 
+HW / $\tau_{42}$ & 0.45 & 0.5 & 0.55 & 0.6 \\ 
 1000 & 4.14 & 4.09 & 4.46 & 4.91 \\ 
 1500 & 0.97 & 0.88 & 0.86 & 0.91 \\ 
 2000 & 0.89 & 0.64 & 0.51 & 0.47 \\ 
 2500 & 1.36 & 0.82 & 0.53 & 0.40 \\ \hline 
-\multicolumn{1}{|l|}{HZ / $\tau_{42}$} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} & \multicolumn{1}{l|}{} \\ 
+HZ/ $\tau_{42}$ &   &  & &  \\ 
 1000 & 4.31 & 4.36 & 4.63 & 5.05 \\ 
 1500 & 0.98 & 0.89 & 0.86 & 0.90 \\ 
 2000 & 0.70 & 0.55 & 0.42 & 0.39 \\ 

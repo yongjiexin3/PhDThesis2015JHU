@@ -50,7 +50,7 @@ NASA, ``The accelerated expansion of universe,''
   Software}, 2006.
 
 \bibitem{web:DT}
-------, ``Scheme of a drift tube,''
+{CMS}, ``Scheme of a drift tube,''
   \url{http://www.pd.infn.it/~conti/cms/mycosmictest.html}.
 
 \bibitem{web:CSC}
@@ -356,11 +356,6 @@ S.~Chatrchyan, ``Search for resonances in the dijet mass spectrum from 7 {TeV}
 A.~D. Martin, W.~J. Stirling, R.~S. Throne, and G.~Watt, ``Update of parton
   distributoins at nnlo,'' \emph{Phys. Lett. B}, vol. 652, p. 292, 2007.
 
-\bibitem{madgraph}
-J.~Alwall, P.~Demin, S.~de~Visscher, R.~Frederix, M.~Herquet, F.~Maltoni,
-  T.~Plehn, D.~L. Rainwater, and T.~Stelzer, ``{MadGraph 5}: Going beyond,''
-  \emph{JHEP}, 2011.
-
 \bibitem{AsymptCLs}
 {G.~Cowan, K.~Cranmer, E.~Gross, O.~Vitells}, ``Asymptotic formulae for
   likelihood based tests of new physics,'' \emph{Eur.~Phys.~J.}, vol. C71, p.
@@ -369,14 +364,6 @@ J.~Alwall, P.~Demin, S.~de~Visscher, R.~Frederix, M.~Herquet, F.~Maltoni,
 \bibitem{CLs1}
 A.~L. Read, ``{Presentation of search results: The CL(s) technique},'' \emph{J.
   Phys.}, vol. G28, pp. 2693--2704, 2002.
-
-\bibitem{CLs2}
-\BIBentryALTinterwordspacing
-A.~Read, ``Modified frequentist analysis of search results (the ${CL}_s$
-  method),'' CERN, Tech. Rep.
-  \href{http://cdsweb.cern.ch/record/451614}{CERN-OPEN-2000-005}, 2000.
-  [Online]. Available: \url{http://cdsweb.cern.ch/record/451614}
-\BIBentrySTDinterwordspacing
 
 \bibitem{CLs3}
 T.~Junk, ``{Confidence level computation for combining searches with small
@@ -483,6 +470,11 @@ C.~Collaboration, ``Search for narrow resonances using the dijet mass spectrum
   hadronic final states,'' \emph{CMS Physics Analysis Summary}, vol.
   CMS-PAS-EXO-12-053, 2013.
 
+\bibitem{madgraph}
+J.~Alwall, P.~Demin, S.~de~Visscher, R.~Frederix, M.~Herquet, F.~Maltoni,
+  T.~Plehn, D.~L. Rainwater, and T.~Stelzer, ``{MadGraph 5}: Going beyond,''
+  \emph{JHEP}, 2011.
+
 \bibitem{pdg-higgs}
 \BIBentryALTinterwordspacing
 M.~Carena, C.~Grojean, M.~Kado, and V.~Sharma, ``Status of higgs boson
@@ -505,8 +497,32 @@ R.~G. Lomax and D.~L. Hahs-Vaughn, \emph{Statistical Concepts: A Second
   Course}.\hskip 1em plus 0.5em minus 0.4em\relax p.10, Routledge Academic,
   2007.
 
-\bibitem{CMS:2013fea}
-C.~Collaboration, ``{Search for heavy resonances in the W/Z-tagged dijet mass
-  spectrum in pp collisions at 8 TeV},'' 2013.
+\bibitem{Khachatryan:2014hpa}
+V.~Khachatryan \emph{et~al.}, ``{Search for massive resonances in dijet systems
+  containing jets tagged as W or Z boson decays in pp collisions at $ \sqrt{s}
+  $ = 8 TeV},'' \emph{JHEP}, vol.~08, p. 173, 2014.
+
+\bibitem{punzi}
+G.~{Punzi}, ``{Sensitivity of Searches for New Signals and Its Optimization},''
+  in \emph{Statistical Problems in Particle Physics, Astrophysics, and
+  Cosmology}, L.~{Lyons}, R.~{Mount}, and R.~{Reitmeyer}, Eds., 2003, p.~79.
+
+\bibitem{ct10}
+H.-L. Lai, M.~Guzzi, J.~Huston, Z.~Li, P.~M. Nadolsky \emph{et~al.}, ``{New
+  parton distributions for collider physics},'' \emph{Phys.\ Rev.\ D}, vol.~82,
+  p. 074024, 2010.
+
+\bibitem{mstw08}
+A.~Martin, W.~Stirling, R.~Thorne, and G.~Watt, ``{Parton distributions for the
+  LHC},'' \emph{Eur.\ Phys.\ J. C}, vol.~63, p. 189, 2009.
+
+\bibitem{NNPDF}
+R.~D. Ball \emph{et~al.}, ``{Fitting Parton Distribution Data with
+  Multiplicative Normalization Uncertainties},'' \emph{JHEP}, vol.~05, p. 075,
+  2010.
+
+\bibitem{Alekhin:2011sk}
+S.~Alekhin, S.~Alioli, R.~D. Ball, V.~Bertone, J.~Blumlein \emph{et~al.},
+  ``{The PDF4LHC Working Group Interim Report},'' 2011.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-\section{Signal efficiency}
+\section{The signals}
 \label{sec:signal}
 
 We search for several models of heavy resonances decaying to
@@ -42,11 +42,11 @@ of the signal efficiency.
 
 In order to combine events from all categories into a single joint
 likelihood, the categories must be mutually exclusive.  However, a
-cross-talk between the Higgs channels is neverthelss possible: for
+cross-talk between the Higgs channels is nevertheless possible: for
 example, $\Hbb$ tagger can identify other two-prong Higgs decay modes
 like ${\rm H\to gg}$, $H \to \tau \tau$, or ${\rm H \to c\bar{c}}$,
 although this kind of `false positive' tag happens only rarely (the
-efficiency is $\lesssim 6~\%$).  Similarly, events from two-prong
+efficiency is $\lesssim 7~\%$).  Similarly, events from two-prong
 Higgs decay channels can also pass the $\tau_{42}$ cut in the
 $\Hww$ selection.  In this case, the channel $\Hbb$, because of its large
 branching ratio, contributes a non-negligible number of events to the
@@ -59,9 +59,14 @@ low-$\tau_{42}$ tail of the $\Hbb$ curve will be below the cut value of 0.55.
 %     \resizebox{0.5\linewidth}{!}{\includegraphics{HqqqqZqqfigs/N-subjettiness/Tau421TeVPre.pdf}} &
      \resizebox{0.7\linewidth}{!}{\includegraphics{EXO-14-009/HqqqqZqqfigs/cross-talk/cross-talk.pdf}} \\
 \end{tabular}
-\caption{ Comparison of $\tau_{42}$ distribution for H(ww$\to qqqq$), H(gg), H(bb), H(cc), H($\tau\tau$) channels.
-All curves are drawn for Higgs jets after pruned jet mass cut, and also normalized with 
-respective branching ratios.}
+\caption{Comparison of $\tau_{42}$ distributions 
+for signal events failing the $\Hbb$ requirement. 
+These events are from the $\Hww$, $\Hbb$, ${\rm H\to gg}$, 
+${\rm H \to c\bar{c}}$, and ${\rm H \to} \tau \tau$ channels.
+The H jets are from a 1.5~TeV resonance decaying to VH.
+%The H jets are from HV signals with a 1.5~TeV resonance.
+All curves are normalized to the product of the corresponding branching
+fraction and acceptance.}
 \label{fig:HiggsTau42}
 \end{figure}
  
@@ -72,7 +77,7 @@ respective branching ratios.}
 
 Table~\ref{table:HbbHww} provides an overview of the cross-talk
 between the various channels.  The Higgs branching ratios correspond
-to the Higgs mass of 125~\GeVcc. 
+to the Higgs mass of 125\GeVcc. 
  For ${\rm H \to WW^* \to 4q }$,
 the branching ratio of the hadronic decay of (real) W boson is already 
 included, so that the final state is four quarks.
@@ -81,21 +86,21 @@ The table is normalized to 100,000 standard model Higgs
 bosons, and the numbers in the
 table show the number of Higgs decays that pass the tagger for each
 channel, with the branching ratio taken into account.  For example, 
-let us consider ${\rm H \to c\bar{c}}$ channel.  At the Z' resonance
-mass of 1~\TeVcc, out of 100,000 Higgs decays,  104 events 
+let us consider ${\rm H \to c\bar{c}}$ channel.  At the ${\rm Z'}$ resonance
+mass of 1~\TeVcc, out of 100,000$\times$3.0\% ${\rm H \to c\bar{c}}$ decays,  104 events 
 are tagged by the $\Hbb$ tagger  
 and  82  pass $\Hww$ tagger but fail $\Hbb$ tagger.
 For ${\rm H \to ZZ}$ decays, we take its tagging efficiency the same 
 as $\Hww$ signals. So the number of ${\rm H \to ZZ}$ to pass $\Hbb$ and 
 $\Hww$ tagger is estimated by 
 efficiency of $\Hww$ signal times 
- BR(Hzz)*BR(Zqq)*BR(Zqq) divided by BR(Hww)*BR(Wqq)*BR(Wqq). 
+ $\mathcal{B}$($H \to ZZ$)$\times \mathcal{B}$($Z \to qq$)$\times\mathcal{B}$($Z\to qq$) divided by 
+ $\mathcal{B}$($H \to WW$)$\times\mathcal{B}$($W \to qq$)$\times\mathcal{B}$($W\to qq$). 
 
 From Table~\ref{table:HbbHww}, it can be seen that for various signal 
-resonance masses, the contribution of other decay channels to the 
-sample of $\Hbb$ tags never exceeds 6\%. We will assign additional systematics
-for the cross-talk.  
-%This is smaller than several
+resonance masses, the contribution of other decay channels compared to the 
+sample of $\Hbb$ tags never exceeds 6\%. 
+
 %of the systematic uncertainties, and we do not correct for it.
 
 %And also the ratio of other signals, i.e. Htt, Hgg, Hcc to pass $\Hww$
@@ -107,18 +112,7 @@ it takes precedence in selecting events: we first identify the
 events that pass the $\Hbb$ tagger, and only if they fail,  we
 test them for the presence of the $\Hww$ tag.  
 
-%As a consequence
-%of such cascading selection, we divide the signal events
-%into three categories:
-%\begin{enumerate}
-%\item $\Hbb$ decays reconstructed by the $\Hbb$ tagger
-%\item $\Hbb$ decays that failed the $\Hbb$ tagger, but pass $\Hww$ tagger
-%\item $\Hww$ events that pass $\Hww$ tagger.
-%\end{enumerate}
-%Each of these categories must be treated as a separate signal
-%component in the multi-channel joint likelihood.
-%, with the Higgs
-%branching ratios as the nuisance parameters.
+
 
 The effect of the $\Hbb$ tagger veto on the $\Hww$ tagged dijet 
 mass distribution
@@ -133,7 +127,7 @@ background (data) is shown in Appendix~\ref{appendix:crosstalkData}.
 \begin{center}
 \caption{Number of Higgs jets falls into two exclusive categories, assuming we have 100,000 SM Higgs (125 GeV) decays to all channels.
 $\Hzz$ signals are estimated by its branching ratio times the efficiency of $\Hww$ signals divied by the branching ratio of $\Hww$ channel. }
-\begin{tabular}{|l|r|r|r|r|}
+\begin{tabular}{cccc}
 \hline
 %& \multicolumn{1}{l|}{Branching ratio (\%)} & \multicolumn{1}{l|}{Pass $\Hbb$} & \multicolumn{1}{l|}{Pass $\Hww$} & \multicolumn{2}{l|}{Fail $\Hbb$, pass $\Hww$} \\ \hline
 & Branching  & Pass       & Fail $\Hbb$, pass \\
@@ -210,7 +204,7 @@ ${\rm H\to gg}$ & 10.00 & 157  & 262 \\ \hline
 %\end{itemize}
 
 The W or Z jets from the signal are selected by the
-V-tagger, and the Higgs candiadates are selected by an OR of the two
+V-tagger, and the Higgs candidates are selected by an OR of the two
 Higgs taggers, $\Hbb$ and $\Hww$.  Both V-tagger and $\Hww$ taggers
 have high-purity and
 low-purity categories.  The latter are added to increase the
@@ -232,6 +226,30 @@ adds only a negligible sensitivity.
 \begin{table}[htb]
 \begin{center}
   \caption{
+        Summary of event categories and their nomenclature used in the paper.
+The jet mass cut is $70 < \mathrm{m_j} < 100\GeVcc$
+for the V tag and $110 < \mathrm{m_j} < 135\GeVcc$ for the H tag.   
+    \label{table:categories}}
+\begin{tabular}{ ccc}
+\hline
+\setlength{\tabcolsep}{24pt}
+Categories                & V tag                 & H tag               \\
+\hline                                                                 
+\rule{0pt}{2.4ex} \HbbHP\ & $ \tau_{21} \leq 0.5$    & b tag              \\ 
+\rule{0pt}{2.4ex} \HbbLP\ & $ 0.5 <\tau_{21} < 0.75$ & b tag              \\
+\rule{0pt}{2.4ex} \HWWHP\  & $\tau_{21}\leq0.5$ & $\tau_{42} \leq 0.55$ \\
+\rule{0pt}{2.4ex} \HWWLPV\ & $0.5<\tau_{21}< 0.75$ & $\tau_{42} \leq 0.55$ \\
+\rule{0pt}{2.4ex} \HWWLPH\ & $\tau_{21}\leq 0.5$ & $0.55 < \tau_{42} < 0.65$ \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+
+\iffalse
+\begin{table}[htb]
+\begin{center}
+  \caption{
     The five exclusive event categories used in this analysis.
     We also assign specific names (in parenthesis) for each category, which will be 
     used in following sections.   
@@ -248,15 +266,17 @@ low-purity  V-tag (Hbb2) &  high-purity H-tag, low purity V-tag (Hww2) \\
 \end{tabular}
 \end{center}
 \end{table}
+\fi
 
-The events from the \HbbVqq decay could contribute to all the five
+
+The events from the \HbbVqq\ signals could contribute to all the five
 categories, due to its large branching ratio.
-The \HwwVqq signal events contribute only in events that fail
+The \HwwVqq\ signal events contribute only in events that fail
 $\Hbb$ but pass $\Hww$ tagger; their contribution to
 $\Hbb$ tagged sample is negligible.
 The contributions from other Higgs decay modes to all these five categories
-is tiny compared to \HbbVqq and \HwwVqq yields.  
-We will not specificly study them, but include them as
+is tiny compared to \HbbVqq\ and \HwwVqq\ yields.  
+We will not specifically study them, but include them as
  systematic uncertainties.
 % due to their contribution.
 
@@ -288,10 +308,10 @@ We will not specificly study them, but include them as
 
 
 We study the Higgs tagging efficiency in MC by matching the jet to the Higgs 
-generator-level particle.  This jet is referred to as the Higgs jet. 
+generator-level particle ($\Delta R < 0.5$) .  This jet is referred to as the Higgs genJet. 
 The Higgs tagging efficiency is obtained from the MC simulation as the
 fraction of the Higgs jets that passes the given H-tagging selection.
-It is given in Fig.~\ref{fig:HEff}.  The same Figure shows the
+It is given in Figure~\ref{fig:HEff}.  The same Figure shows the
 W/Z tagging efficiency for the other jet in the event.  The total
 event efficiency is a product of these two efficiencies.  
 
@@ -311,9 +331,9 @@ event efficiency is a product of these two efficiencies.
 \end{figure}
 
 
-In the $\Hbb$ channel, the $\Hbb$ tagging efficienc start rising 
-after $\sim 1.6$~\TeVcc. The reason is explained as follows.  
-For the resonance masses above $1.6$~\TeVcc, the Higgs
+In the $\Hbb$~channel, the $\Hbb$~tagging efficiency start rising 
+after $\sim$1.6\TeVcc. The reason is explained as follows.  
+For the resonance masses above 1.6\TeVcc, the Higgs
 jets are sufficiently boosted that the $\Delta R$ between the two b
 subjets is $\le 0.3$. When $\Delta R \leq 0.3$, we are switching from 2 subjets
 b tagging to CSV loose fat jet b tagging.  This causes the rising tagging efficiency. 
@@ -328,12 +348,12 @@ fat jet. (We use CSVL, the loose operating point.)
 
 Note that if for the fat jet b tagging CSVM operating point is used,
 the $\Hbb$ tagging efficiency is smooth, as shown in
-Fig.~\ref{fig:fatCSVM}.  For the \HbbZqq\ analysis, we have compared
+Figure~\ref{fig:fatCSVM}.  For the \HbbZqq\ analysis, we have compared
 the limits of these two different fat jet b tagging methods (CSVL 
 {\it vs.} CSVM), Unsurprisingly, we have found that using the
 more-efficient CSVL b tagging results in better expected limits in
 this background-poor region than using the CSVM b tagging operating
-point. (The details of this study are given in the Appendix.)
+point. (The details of this study are given in the Appendix~\ref{app:CSVLCSVM}.)
 
 %{\bf TO-DO: ADD CSVM limit plots to the Appendix for this, and reference it here. }
 
@@ -356,7 +376,7 @@ point. (The details of this study are given in the Appendix.)
 Signal acceptance is defined as the number of signal events pass all
 the kinematic event selection (that is, without the two jet-tagging
 algorithms) divided by the number of generated events.  The signal
-acceptance for \HbbZqq\ channel is shown on Fig.~\ref{fig:Acc}.
+acceptance for \HbbZqq\ channel is shown on Figure~\ref{fig:Acc}.
 
 \begin{figure}[htb]
 \begin{center}
@@ -371,39 +391,26 @@ Acceptance in \HbbZqq\ signal.
 
 The combined tagging rate of H and Z tagging, is defined as the number of 
 events pass the HZ-tagging dvided by the number of events after events
-selection, which is shown in Fig.~\ref{fig:HbbZqqOverallEff} for \HbbZqq\ 
+selection, which is shown in Figure~\ref{fig:HbbZqqOverallEff} for \HbbZqq\ 
 tagging. 
 
-\begin{figure}[htb]
+
+\begin{figure}[ht!b]
 \begin{center}
 \includegraphics[width=0.49\textwidth]{EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-8TeV.pdf}
 \includegraphics[width=0.49\textwidth]{EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-LowV-8TeV.pdf}
-%\includegraphics[width=0.49\textwidth]{HqqqqZqqfigs/Signal/HqqqqZqq-signal-acc-8TeV.pdf}
 \end{center}
 \caption{
-Tagging rates in \HbbZqq\ and \HbbWqq\ signal channels and data. Horizontal bars
-in data indicates variable binning size.
+Tagged fractions in \HbbVqq\ signal channels and data
+as a function of dijet invariant mass, for categories of 
+\HbbHP\ (left) and \HbbLP\ (right). Horizontal bars 
+through the data points indicate the bin width. 
 }
 \label{fig:HbbZqqOverallEff}
 \end{figure}
 
-%The signal shapes are shown in Fig.\ref{fig:HbbZqqShape}
-%\begin{figure}[htb]
-%\begin{center}
-%\includegraphics[width=0.69\textwidth]{HbbZqqfigs/Signal/shapeHbbZqq.pdf}
-%\end{center}
-%\caption{Signal shapes for Z' and W' signals at 1.0, 1.5, 2.0 and 2.5 TeV resonance. 
-% Z' are shown in solid lines.
-%W' are shown in dashed lines.
-%}
-%\label{fig:HbbZqqShape}
-%\end{figure}
 
 
-
-%{\bf TO-DO: add the signal shapes.}
-
-%{\bf TO-DO: add distributions of $\eta$, $\Delta\eta$.}
 
 \clearpage
 
@@ -414,8 +421,8 @@ in data indicates variable binning size.
 \subsection{Tagging efficiency for $\Hww$ jets}
 
 
-The tagging efficiency for $\Hww$ jets, as a fraction of getJets that
-passes the selection, is shown in Fig.~\ref{fig:HwwEff}.
+The tagging efficiency for $\Hww$ jets, as a fraction of genJets that
+passes the selection, is shown in Figure~\ref{fig:HwwEff}.
 \begin{figure}[htb]
 \begin{center}
 \includegraphics[width=0.49\textwidth]{EXO-14-009/HqqqqZqqfigs/Signal/H-taggingEff-8TeV.pdf}
@@ -435,7 +442,7 @@ In the $\Hww$ all-hadronic channel, to compensate the efficiency loss
 in the high resonance mass, we also add two low purity categories, low
 purity H-tagging and low purity V-tagging.  The tagging efficiency of
 low purity H/V-tagging on the H/Z jets is shown on
-Fig.~\ref{fig:LowPurity}.  And low purity Higgs is defined as 
+Figure~\ref{fig:LowPurity}.  And low purity Higgs is defined as 
 $0.55 < \tau_{42} < 0.65$, pruned jet mass in $[110, 135]$~\GeVcc.  
 
 For low purity W/Z tagging, $\tau_{21}$ must be in $[0.5, 0.75]$, 
@@ -457,7 +464,7 @@ and the pruned jet mass in the window $[70, 100]$~\GeVcc.
 
 \subsection{Signal acceptance and total efficiency for \HwwZqq\ channel}
 
-The acceptance of the \HwwZqq\ channel is shown on Fig.~\ref{fig:HwwAcc}
+The acceptance of the \HwwZqq\ channel is shown on Figure~\ref{fig:HwwAcc}
 
 \begin{figure}[htb]
 \begin{center}
@@ -470,12 +477,10 @@ Acceptance in signal.
 \label{fig:HwwAcc}
 \end{figure}
 
-%The overall tagging eff of \HwwZqq\ channel in signal and data are shown
 The combined tagging rates of H and Z tagging, 
-for \HwwZqq\ channel in signal and data are shown on Fig.~\ref{fig:HwwEffAll} .
-%and the tagging eff of \HwwZqq\ channel
-%are shown on Fig.~\ref{fig:HwwEff}
+for \HwwZqq\ channel in signal and data are shown on Figure~\ref{fig:HwwEffAll} .
 
+\iffalse
 \begin{figure}[ht!b]
 \begin{center}
 \includegraphics[width=0.70\textwidth]{EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-8TeV.pdf}
@@ -488,14 +493,34 @@ Horizontal bars
 in data indicates variable bins.}
 \label{fig:HwwEffAll}
 \end{figure}
+\fi
 
-The signal shapes are shown in Fig.~\ref{fig:HbbZqqShape} 
+\begin{figure}[ht!b]
+\begin{center}
+\includegraphics[width=0.51\textwidth]{EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-8TeV.pdf}
+\includegraphics[width=0.49\textwidth]{EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowH-8TeV.pdf}
+\includegraphics[width=0.49\textwidth]{EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowV-8TeV.pdf}
+\end{center}
+\caption{
+Tagged fractions in \HwwVqq\ signal channels and data as 
+a function of dijet invariant mass, for categories of 
+\HWWHP\ (top), \HWWLPH\ (bottom left) and \HWWLPV\ (bottom right). 
+Horizontal bars
+through the data points indicate the bin width. 
+}
+\label{fig:HwwEffAll}
+\end{figure}
+
+
+
+The signal shapes are shown in Figure~\ref{fig:HbbZqqShape} 
+
 \begin{figure}[ht!b]
 \begin{center}
 \includegraphics[width=0.7\textwidth]{EXO-14-009/shapeAll.pdf}
 %\includegraphics[width=0.49\textwidth]{HqqqqZqqfigs/Signal/shape.pdf}
 \end{center}
-\caption{Signal shapes for Z' and W' signals at 1.0, 1.5, 2.0 and 2.5 TeV
+\caption{Signal shapes for ${\rm W'}$ and ${\rm Z'}$ signals at 1.0, 1.5, 2.0 and 2.5 TeV
  resonances.
 % Z' are shown in solid lines,
 %W' are shown in dashed lines, in H(bb)V decay(left) and H(ww)V decay(right).
