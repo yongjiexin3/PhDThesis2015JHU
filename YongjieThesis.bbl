@@ -21,42 +21,6 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{particlebook1}
-{David Griffiths}, \emph{Introduction to Elementary Particles}.\hskip 1em plus
-  0.5em minus 0.4em\relax Wiley-VCH Verlg GmbH \& Co.KGaA, 2008.
-
-\bibitem{particleImage}
-{Wikipedia}, ``Standard model,''
-  \url{http://en.wikipedia.org/wiki/Standard_Model}.
-
-\bibitem{web:qcd_confinement}
-M.~Belloni, ``qcd confinement illustration,''
-  \url{http://www.phy.davidson.edu/FacHome/mjb/images/color_field.gif}.
-
-\bibitem{web:nasa}
-NASA, ``The accelerated expansion of universe,''
-  \url{http://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy/}.
-
-\bibitem{LHC}
-{LHC Collaboration}, ``The overview of lhc,''
-  \url{http://www.atlas.ch/photos/atlas_photos/selected-photos/detector-site/surface/}.
-
-\bibitem{wiki2}
-{Wikipedia}, ``Pseudorapidity,''
-  \url{http://en.wikipedia.org/wiki/Pseudorapidity}.
-
-\bibitem{expBook}
-{CMS Collaboration}, \emph{Physics TDR Vol 1. Detector Performance and
-  Software}, 2006.
-
-\bibitem{web:DT}
-{CMS}, ``Scheme of a drift tube,''
-  \url{http://www.pd.infn.it/~conti/cms/mycosmictest.html}.
-
-\bibitem{web:CSC}
-{{CMS Collaboration}}, ``Scheme of the carbon strip chamber,''
-  \url{http://cms.web.cern.ch/news/cathode-strip-chambers}.
-
 \bibitem{Glashow}
 S.L.Glashow, \emph{Nuclear Physics}, vol.~22, 1961.
 
@@ -69,6 +33,30 @@ S.~Weinberg, \emph{Physics Review Letter}, vol.~19, 1967.
 \bibitem{QCD}
 C.Quigg, \emph{Gauge Field Theories}.\hskip 1em plus 0.5em minus 0.4em\relax
   McGraw-Hill Book Company, 1983.
+
+\bibitem{particleImage}
+{Wikipedia}, ``Standard model,''
+  \url{http://en.wikipedia.org/wiki/Standard_Model}.
+
+\bibitem{particlebook1}
+{David Griffiths}, \emph{Introduction to Elementary Particles}.\hskip 1em plus
+  0.5em minus 0.4em\relax Wiley-VCH Verlg GmbH \& Co.KGaA, 2008.
+
+\bibitem{feynman}
+\BIBentryALTinterwordspacing
+M.~E. Peskin and D.~V. Schroeder, \emph{An introduction to quantum field
+  theory}, ser. Advanced book program.\hskip 1em plus 0.5em minus 0.4em\relax
+  Boulder (Colo.): Westview Press Reading (Mass.), 1995, autre tirage : 1997.
+  [Online]. Available: \url{http://opac.inria.fr/record=b1131978}
+\BIBentrySTDinterwordspacing
+
+\bibitem{web:qcd_confinement}
+M.~Belloni, ``qcd confinement illustration,''
+  \url{http://www.phy.davidson.edu/FacHome/mjb/images/color_field.gif}.
+
+\bibitem{web:nasa}
+NASA, ``The accelerated expansion of universe,''
+  \url{http://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy/}.
 
 \bibitem{wb:hierarchy}
 {Quantum Diaries}, ``The hierarchy problem: why the higgs has a snowball’s
@@ -112,6 +100,26 @@ G.~Altarelli, B.~Mele, and M.~Ruiz-Altaba, ``Searching for new heavy vector
 M.~Gouzevitch, A.~Oliveira, J.~Rojo, R.~Rosenfeld, G.~Salam \emph{et~al.},
   ``{Scale-invariant resonance tagging in multijet events and new physics in
   Higgs pair production},'' 2013.
+
+\bibitem{LHC}
+{LHC Collaboration}, ``The overview of lhc,''
+  \url{http://www.atlas.ch/photos/atlas_photos/selected-photos/detector-site/surface/}.
+
+\bibitem{wiki2}
+{Wikipedia}, ``Pseudorapidity,''
+  \url{http://en.wikipedia.org/wiki/Pseudorapidity}.
+
+\bibitem{expBook}
+{CMS Collaboration}, \emph{Physics TDR Vol 1. Detector Performance and
+  Software}, 2006.
+
+\bibitem{web:DT}
+{CMS}, ``Scheme of a drift tube,''
+  \url{http://www.pd.infn.it/~conti/cms/mycosmictest.html}.
+
+\bibitem{web:CSC}
+{{CMS Collaboration}}, ``Scheme of the carbon strip chamber,''
+  \url{http://cms.web.cern.ch/news/cathode-strip-chambers}.
 
 \bibitem{topwtag_pas}
 \BIBentryALTinterwordspacing
@@ -474,6 +482,15 @@ C.~Collaboration, ``Search for narrow resonances using the dijet mass spectrum
 J.~Alwall, P.~Demin, S.~de~Visscher, R.~Frederix, M.~Herquet, F.~Maltoni,
   T.~Plehn, D.~L. Rainwater, and T.~Stelzer, ``{MadGraph 5}: Going beyond,''
   \emph{JHEP}, 2011.
+
+\bibitem{Sjostrand:2006za}
+T.~Sj{\"o}strand, S.~Mrenna, and P.~Z. Skands, ``{PYTHIA 6.4 Physics and
+  Manual},'' \emph{JHEP}, vol. 0605, p. 026, 2006.
+
+\bibitem{Pappadopulo:2014qza1}
+D.~Pappadopulo, A.~Thamm, R.~Torre, and A.~Wulzer, ``Resources for heavy vector
+  triplets,''
+  \url{https://rtorre.web.cern.ch/rtorre/Riccardotorre/heptools.html}.
 
 \bibitem{pdg-higgs}
 \BIBentryALTinterwordspacing

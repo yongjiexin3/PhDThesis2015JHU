@@ -1,17 +1,17 @@
 \section{The W/Z-Tagging algorithm}
 \label{sec: W/Z tagging1}
 
-The products of hadronic decays of W bosons can
+The products of hadronic decays of W/Z bosons can
 fall within a single jet if these particles are boosted relative to
-their mass.  The W tagging algorithm is developed to
-identify these boosted W jets, based on the removal of the softest
+their mass.  The W/Z tagging algorithm is developed to
+identify these boosted W/Z jets, based on the removal of the soft
 components of the jets (jet pruning)~\cite{catop_cms,topwtag_pas}.
 
  Jet pruning is implemented as application of additional cuts in the process
 of CA jet clustering. This algorithm starts from a set of ``protojets" given by the PF particles
 that form the original CA jet within a cone of R = 0.8. As in the standard CA jet clustering,
 these protojets are iteratively combined with each other until all jets is found; however, here
-the large angle and low pT protojets are removed in the process. 
+the large angle and low \pt~protojets are removed in the process. 
 %The jet pruning algorithm uses the CA $R=0.8$ jets
 %as inputs. In the process, soft and
 %wide-angle particles (relative to the parent in the clustering) are
@@ -19,7 +19,9 @@ the large angle and low pT protojets are removed in the process.
 The same parameters are chosen for the jet pruning algorithm
 as in the original theoretical papers~\cite{jetpruning1,jetpruning2}.
 
-The following selection is then applied on the pruned jets
+Besides the jet pruning, we also use another jet substructure technique :
+N-subjettiness, which will be introduced in the following section. 
+In summarization,  these selections are applied
 to identify jets from hadronic W/Z decays:
 
 \begin{itemize}
@@ -28,7 +30,7 @@ to identify jets from hadronic W/Z decays:
   - Require the total pruned jet mass to satisfy $70 < m_\text{jet} < 100$~GeV.
 
 \item {\bf N-subjettiness} 
-  - Require the 2-subjettiness/1-subjettiness ($\tau_{2}/\tau_{1}$) $< $0.5 for the ungroomed CA8 jets. (N-subjettiness will be introduced in next section.)
+  - Require the 2-subjettiness/1-subjettiness ($\tau_{2}/\tau_{1}$) $< $0.5 for the {\bf unpruned} CA8 jets. 
 \end{itemize}
 
 A detailed performance study of this W-tagger has been made public in Reference~\cite{JME-13-006}.
@@ -36,7 +38,7 @@ A detailed performance study of this W-tagger has been made public in Reference~
 \subsection{N-subjettiness}
 \label{sec:N-subjettiness1}
 
-N-subjettiness~\cite{Thaler:2010tr,Thaler:2011gf,Stewart:2010tn} exploits the fact that the pattern of the hadronic decay of a heavy object is reflected through the presence of distinctive energy lobes corresponding to the decay products, as opposed to QCD jets which present a more uniformly spread energy configuration (not aligned along the subjet axis). The inclusive jet shape N-subjettiness is defined, in its generalized version as derived in Reference~\cite{Thaler:2010tr}, as 
+N-subjettiness~\cite{Thaler:2010tr,Thaler:2011gf,Stewart:2010tn} exploits the fact that the pattern of the hadronic decay of a heavy object is reflected through the presence of distinctive energy lobes corresponding to the decay products, as opposed to QCD jets which present a more uniformly spread energy configuration (not aligned along the subjet axis). The inclusive jet shape variable N-subjettiness is defined, in its generalized version as derived in Reference~\cite{Thaler:2010tr}, as 
 %
 \begin{equation}
 \tau_N = \frac{1}{d_{0}} \sum_{k} p_{T,k}\,min( (\Delta R_{1,k})^{\beta}, (\Delta R_{2,k})^{\beta}...(\Delta R_{N,k})^{\beta})
@@ -47,7 +49,7 @@ $\Delta R_{n,k}$ are calculated with respect to the axis of the $n^{\mathrm{th}}
 subjet. The normalization factor $d_{0}$ is calculated as $d_{0}=
 \sum_{k} p_{T,k}R^{\beta}_{0}$, setting $R_{0}$ to the jet radius of
 the original jet. In the analysis, the N-subjettiness is calculated
-from the ungroomed jets with the parameter $\beta=1$. In particular,
+from the unpruned jets with the parameter $\beta=1$. In particular,
 the variable able to best discriminate between $\PW/\cPZ$ jets and QCD jets
 is the ratio of 2-subjettiness over 1-subjettiness,
 $\tau_{21}=\tau_{2} / \tau_{1}$, which turns out to be smaller for signal than for background as demonstrated in Figure~\ref{fig:N-sub-mass}.
@@ -66,21 +68,21 @@ $\tau_{21}=\tau_{2} / \tau_{1}$, which turns out to be smaller for signal than f
 
 %The leading two ungroomed CA8 jets to the leading two pruned CA8 jets are matched requireing $\Delta R < 0.5 $, which fails in less than 0.1\% of the events.
 
-We select ``high purity'' $\PW/\cPZ$ jets by
+We select ``high purity'' (HP) $\PW/\cPZ$ jets by
 requiring $\tau_{21} \leq 0.5$, while $ 0.5 <
-\tau_{21} < 0.75$ defines the ``low purity'' $\PW/\cPZ$ jets.
+\tau_{21} < 0.75$ defines the ``low purity'' (LP) $\PW/\cPZ$ jets.
 %
 The division of events with one $\PW/\cPZ$-tag follows the same delineation.
 %
 The events with two $\PW/\cPZ$-tagged jets are always required 
-to have one high purity $\PW/\cPZ$ tag, and are similarly divided
-into the ``high'' and the ``low purity'' categories depending on whether
-the other $\PW/\cPZ$-tagged jet has passed the high or the low purity requirement, 
+to have one HP $\PW/\cPZ$ tag, and are similarly divided
+into the HP and the LP categories depending on whether
+the other $\PW/\cPZ$-tagged jet has passed the HP or the LP requirement, 
 respectively.
 %
-The high purity category has been optimized to reach on average the
-best sensitivity for all models considered in this search.  The low
-purity category adds sensitivity in particular at high dijet masses
+The HP category has been optimized to reach on average the
+best sensitivity for all models considered in this search.  The LP 
+category adds sensitivity in particular at high dijet masses
 where the $\PW/\cPZ$-tagging efficiency drops along with the
 background rate.
 
@@ -105,7 +107,7 @@ The expected limit changes by $<$5\% changing the $\tau_{21}$ cut value by $\pm$
 %     \resizebox{0.5\linewidth}{!}{\includegraphics{figs/N-subjettiness/optimization1500_0.pdf}} &
      \resizebox{0.5\linewidth}{!}{\includegraphics{EXO-12-024/figs/N-subjettiness/optimization1800_0.pdf}} \\
 \end{tabular}
-\caption[N-subjettiness]{Optimizataion of the N-subjettiness ($\tau_{21}$) or massdrop ($\mu$) cut value for the best expected limit.}
+\caption[N-subjettiness]{Optimizataion of the N-subjettiness ($\tau_{21}$) or massdrop ($\mu$) cut value for the best expected limit.Plot on the left hand is for \HERWIG samples of WW and ZZ at resonance mass 1.2\TeVcc, while 1.8\TeVcc for plot on the right hand.}
 \label{fig:optimization0}
 \end{figure}
 

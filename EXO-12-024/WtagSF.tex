@@ -1,17 +1,22 @@
 \clearpage
 \section{W-tagging scale factor}
 
-We derive the scale factor for the $\tau 2/\tau 1$ W tagger, in both the tight and loose regions, by
-comparing its efficiency in semileptonic $t\overline{t}$ events, both
-in data and mote carlo. We isolate the W candidates with kinematic
-cuts. We consider only muon events. We then apply the tagger and require the W mass to be within
-$70$ and $100~\GeVcc$.
 
-In Monte Carlo, we attempt to match the CA8 jets to real Ws by
-requiring that the daughters of a hadronic W from the particle generator lie within a
-cone of $\Delta R < 0.3$ of a jet's subjets. Jets that meet this
-requirement are ''matched'' jets. We can then classify all W
-candidates in the following ways:
+
+
+\iffalse
+
+We derive the scale factor for the $\tau 2/\tau 1$ W tagger, in both the ``tight" and ``loose" 
+(high purity and low purity, repectively) regions, by
+comparing its efficiency in semileptonic $t\overline{t}$ events between
+data and mote carlo. We isolate the W candidates with kinematic
+cuts. We consider only muon events. We then apply the tagger and require the pruned W jet mass to be within 70 and 100\GeVcc.
+
+In Monte Carlo, A matching of the CA8 jets to generated W bosons is applied by
+requiring that the daughters of W boson at the generation level, lie within a
+cone of $\Delta R < 0.3$ of a W candidate jet's subjets. Jets that meet this
+requirement are ``matched" jets. We can then classify all W
+candidate jets in the following ways:
 \begin{enumerate}
 \item Matched W jets which pass the tight $\tau 2/\tau 1$ cut.
 \item Matched W jets which pass the loose $\tau 2/\tau 1$ cut.
@@ -99,3 +104,5 @@ We measure the scale factor of the $\tau 2/\tau 1$ cut efficiency and that of th
 The errors in the scale factors are found from the fitting errors and systematic errors from the choice of fixed parameters. Each fixed parameter found in MC is varied by its fitting error and used to generate toy MC to which the fitting proceedure is applied. The resulting offset is taken to be the systematic error from this fixed parameter. In addition, when the efficiency from a fit to MC differs with that from MC truth information, we take the difference to be an additional systematic. 
 Additional systematic uncertainties on the W-tagging efficiency related to detector effects are discussed in the systematics section of this note.
 \clearpage
+
+\fi

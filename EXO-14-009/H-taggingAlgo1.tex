@@ -4,20 +4,21 @@
 %The products of hadronic decays of Higgs, W, and Z bosons can fall
 %within a single jet if these particles are highly boosted.  
 In this
-analysis, we aim to cover as much of the Higgs branching ratio as
+analysis, we aim to cover as much of the Higgs branching fraction as
 possible.  The Standard Model Higgs with a mass of 125 \GeVcc decays
 to b$\bar{\rm b}$ with a branching fraction of 57.7\%, and to WW$^*$
-with a braching fraction of 21.4\%~\cite{pdg-higgs}.  Using these two
+with a branching fraction of 21.4\%~\cite{pdg-higgs}.  Using these two
 decay modes in a VH search, where WW$^*$ specifically decays to four
-quarks, is the main topic of this note.  (The semileptonic decay mode
-$ H \to WW \to 2q\ell \nu$ is viable, but its reconstruction is more
-involved and will be covered in a subsequent analysis.)
+quarks, is the main topic of this note. 
+% (The semileptonic decay mode
+%${\rm H \to WW \to 2q\ell \nu}$ is viable, but its reconstruction is more
+%involved and will be covered in a subsequent analysis.)
 
 %% &&& {\bf TO-DO: consider adding the branching fraction plot here. }
 
 
 The algorithms to identify W/Z, ${\rm H \to b\bar{b}}$ and 
-${\rm H \to WW^*}$ jets are necessarily different, but they use similar
+$\Hww$ jets are necessarily different, but they use similar
 jet-level variables: N-subjettiness (described in
 Section~\ref{sec:N-subjettiness}) and jet pruning
 (Section~\ref{sec:jetPruning}).  The W/Z-tagger is described in
@@ -49,7 +50,8 @@ pruned jet.  This quantity is referred below to as the pruned jet mass.
 For W/Z tagging, we use pruned jet mass between 70 and 100\GeVcc. 
 For the identification of Higgs jets, we require the pruned jet mass to
 lie between 110 and 135\GeVcc.  The distribution of the pruned jet
-mass of the Higgs candidate jet is shown on Figure~\ref{fig:JetMassTagging}. 
+mass of the Higgs candidate jet 
+compared to W/Z and top jets is shown on Figure~\ref{fig:JetMassTagging}. 
 
 
 \begin{figure}[htb]
@@ -59,18 +61,10 @@ mass of the Higgs candidate jet is shown on Figure~\ref{fig:JetMassTagging}.
 %\includegraphics[width=0.49\textwidth]{figs/signal-acc-eff/signal-data-qcd-Jet-Tau21.pdf}
 \includegraphics[width=0.69\textwidth]{EXO-14-009/HbbZqqfigs/Signal/signal-data-qcd-jetmass.pdf}
 \end{center}
-\caption{Pruned jet mass in signal MC, data and $t\overline{t}$ MC. 
-  MC samples are normalized to data.  MC
-  distributions are plotted as smooth curves connecting the histogram
-  entries; the MC histograms have the same binning as the data.
-  Higgs, W/Z and top jets are matched to their generator level particles, 
-  respectively. }
-%The pruned jet mass of $\Hbb$ jets is shown on
-%  the left, and of $\Hww$ jets on the right.}
-%  MC is normalized to fit into the plot.  }
- % The signal MC
- % distributions are plotted as smooth curves connecting the histogram
-  %entries. 
+\caption{
+Distribution of pruned jet mass in simulation of signal and background processes. All simulated distributions are normalized to 1. The W/Z, H, and top-quark jets are required to match respective generator level particles in the event. The W/Z and H jets are from 
+1.5 TeV ${\rm W? \to WH}$ and ${\rm Z? \to ZH}$ signal samples. 
+} 
 \label{fig:JetMassTagging}
 \end{figure}
 
@@ -85,7 +79,7 @@ pruned subjets are used as the basis for b tagging.
 \label{sec:wztagging}
 
 For the identification of W/Z jets, we employ the same tagging algorithm 
-previously used in Section~\ref{sec: W/Z tagging1} in Chapter~\ref{chap:chapter3}.  W/Z jets are selected using the following requirements:
+previously used in Section~\ref{sec: W/Z tagging1} in Chapter~\ref{chap:chapter3}.  The W/Z jets are selected using the following requirements:
 \begin{itemize}
 
 \item {\bf Pruned jet mass}  $\mbox{\boldmath$m_{\text{jet}}$}$
@@ -127,9 +121,7 @@ fat CA8 jet, based on the angular separation of the two subjets
 ($\Delta R = \sqrt{ \Delta \eta^2 + \Delta \phi^2 }$)
 , which is 
 recommended by Reference~\cite{BTV-13-001}. 
-
-
- We use the following selection, synchronized with
+So for $\Hbb$ tagging, we use the following selections, synchronized with
 the Radion search~\cite{HH4b} and the search for HW 
 resonances in the semileptonic channel~\cite{HWlv}:
 \begin{itemize}
@@ -155,7 +147,7 @@ resonances in the semileptonic channel~\cite{HWlv}:
 %tau4/tau2 < 0.5
 
 In this channel, Higgs decays to two W bosons, one real and one
-virtual (denoted with an asterisk).  Given that this is effectively a
+virtual.  Given that this is effectively a
 three-body decay ${\rm H\to Wqq}$, the jets from the four quarks are
 not on an even footing -- the subjets from the real W are harder, and
 they also form a W mass.  The subjets from the softer two quarks are
@@ -169,10 +161,10 @@ pruning~\cite{cmstoptagging}) removes $\approx 90\%$ of the signal.
 Compounded with a decreasing angular separation
 between Higgs decay products, 
  as a function of the Higgs \pt, at higher 
-resonance masses, {\it e.g.} at 2\TeVcc, only 1\% of signal 
+resonance masses, e.g., at 2\TeVcc, only 1\% of signal 
 passes this selection. 
 The distribution of the number of subjets of the reconstructed Higgs jets 
-in signal MC (obtained from the CMS Top Tagging) is shown 
+in signal MC is shown 
 in Figure~\ref{fig:Nsubjets}. 
 
 \begin{figure}[htb]
@@ -181,8 +173,9 @@ in Figure~\ref{fig:Nsubjets}.
      \resizebox{0.7\linewidth}{!}{\includegraphics{EXO-14-009/HqqqqZqqfigs/N-subjettiness/Nsubjets.pdf}} 
 %     \resizebox{0.5\linewidth}{!}{\includegraphics{HqqqqZqqfigs/N-subjettiness/Tau421TeVAfter.pdf}} \\
 \end{tabular}
-\caption{Number of subjets of the Higgs jets,  in \HwwVqq signal MC. 
-Subjets are abtained from the CMSTopTag jet collection. }
+\caption{Number of subjets of the Higgs candidate jets (selected by 
+a matching to the generator level Higgs particle), 
+in ${\rm W' \to HW}$  signal MC.}
 \label{fig:Nsubjets}
 \end{figure}
 
@@ -191,7 +184,7 @@ As an alternative, we explore the N-subjettiness, in particular the
 variables involving $\tau_4$.  The ratio 
 $\tau_{42} \equiv\tau_4/\tau_2$ has the best separation 
 between the ${\rm H\to 4q}$
-signal and not only QCD background, but also Z and top jets.
+signal and not only QCD background, but also W/Z and top jets.
 Figures~\ref{fig:tau421TeV} and~\ref{fig:tau422TeV} show the
 discriminating power of $\tau_{42}$ against $\ttbar$ and QCD, for $\rm{m_{V'}}$ at 1~TeV
 and 2~TeV resonance masses respectively.
@@ -220,13 +213,18 @@ and 2~TeV resonance masses respectively.
     \resizebox{0.5\linewidth}{!}{\includegraphics{EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllPre.pdf}} &
     \resizebox{0.5\linewidth}{!}{\includegraphics{EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllAfter.pdf}} \\
   \end{tabular}
-  \caption{ Distribution for $\tau_{4}/\tau_{2}$ in data and in
-    simulations of signal (2.0 TeV) and background events.  All simulated
-    distributions are scaled to match the number of events in data,
-    except that matched top is scaled to its fraction of unmatched
-    ${\rm t\bar{t}}$ times the number of data events.  W/Z, matched
-    top and Higgs jets are required to match their generator level
-    particles, respectively.  }
+  \caption{ 
+    Distributions of $\tau_{42}$ in
+  data and in simulations of signal (2 TeV) and background events, without applying 
+  the pruned jet mass requirement (left) 
+  and with the pruned jet mass requirement applied (right). 
+  Matched top-quark, W/Z, and ${\rm H_{WW}}$ jets are required to
+  be consistent with their generator level particles, respectively.
+  All simulated distributions are scaled to the number
+  of events in data, except that matched top-quark background is scaled to 
+  the fraction of unmatched ${\rm t\bar{t}}$ events times
+  the number of data events.
+  }
   \label{fig:tau422TeV}
 \end{figure}
 

@@ -10,7 +10,6 @@ A level-1 auxiliary file: EXO-12-024/N-subjettiness.aux
 A level-1 auxiliary file: EXO-12-024/data_and_mc_samples.aux
 A level-1 auxiliary file: EXO-12-024/trigger.aux
 A level-1 auxiliary file: EXO-12-024/data_mc_comparisons.aux
-A level-1 auxiliary file: EXO-12-024/WtagSF.aux
 A level-1 auxiliary file: EXO-12-024/signal.aux
 A level-1 auxiliary file: EXO-12-024/systematics.aux
 A level-1 auxiliary file: EXO-12-024/statistics.aux
@@ -27,7 +26,6 @@ A level-1 auxiliary file: EXO-14-009/systematicsCombine.aux
 A level-1 auxiliary file: EXO-14-009/results.aux
 A level-1 auxiliary file: EXO-14-009/conclusions.aux
 A level-1 auxiliary file: EXO-12-024/appendix.aux
-A level-1 auxiliary file: EXO-12-024/WtagSF-appendix.aux
 A level-1 auxiliary file: EXO-14-009/modelParam.aux
 A level-1 auxiliary file: EXO-14-009/tau42SF.aux
 A level-1 auxiliary file: EXO-14-009/CSVL-Vs-CSVM.aux
@@ -40,16 +38,14 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: YongjieThesis.bib
-Warning--I didn't find a database entry for "Sjostrand:2006za"
-Warning--I didn't find a database entry for "Pappadopulo:2014qza1"
 -- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
-Warning--missing publisher in expBook
 Warning--empty title in Glashow
 Warning--empty title in Salam
 Warning--empty title in Weinberg
 Warning--empty journal in Gouzevitch:2013qca
+Warning--missing publisher in expBook
 Warning--missing institution in topwtag_pas
 Warning--missing institution in JME-13-006
 Warning--missing institution in particleflow
@@ -70,45 +66,45 @@ Warning--empty journal in AtlasHiggs1
 Warning--empty journal in Alekhin:2011sk
 
 Done.
-You've used 107 entries,
+You've used 110 entries,
             4039 wiz_defined-function locations,
-            1392 strings with 23204 characters,
-and the built_in function-call counts, 54266 in all, are:
-= -- 4836
-> -- 1031
-< -- 166
-+ -- 507
-- -- 242
-* -- 2331
-:= -- 9332
-add.period$ -- 210
-call.type$ -- 107
-change.case$ -- 105
+            1404 strings with 23576 characters,
+and the built_in function-call counts, 55791 in all, are:
+= -- 4962
+> -- 1070
+< -- 168
++ -- 525
+- -- 251
+* -- 2401
+:= -- 9589
+add.period$ -- 216
+call.type$ -- 110
+change.case$ -- 108
 chr.to.int$ -- 81
-cite$ -- 130
-duplicate$ -- 4740
-empty$ -- 4468
-format.name$ -- 307
-if$ -- 12248
+cite$ -- 133
+duplicate$ -- 4864
+empty$ -- 4606
+format.name$ -- 319
+if$ -- 12592
 int.to.chr$ -- 0
-int.to.str$ -- 107
-missing$ -- 845
-newline$ -- 362
-num.names$ -- 108
-pop$ -- 1898
+int.to.str$ -- 110
+missing$ -- 872
+newline$ -- 373
+num.names$ -- 111
+pop$ -- 1966
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 4545
+skip$ -- 4670
 stack$ -- 0
-substring$ -- 744
-swap$ -- 3240
-text.length$ -- 139
+substring$ -- 754
+swap$ -- 3323
+text.length$ -- 141
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 107
+type$ -- 110
 warning$ -- 23
-while$ -- 177
-width$ -- 110
-write$ -- 1012
-(There were 25 warnings)
+while$ -- 181
+width$ -- 113
+write$ -- 1041
+(There were 23 warnings)

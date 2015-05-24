@@ -3,11 +3,10 @@
 
 \section{The Standard Model}
 A physics model is a description of a system using physics and mathematical concepts and language.
-Standard Model (SM) is a physics model that summarizes what is currently known about the subatomic world. The SM is composed of two gauge symmetry theories: the Glashow-Salam-Weinberg Model (GSW)~\cite{Glashow, Salam, Weinberg} describing electroweak interactions; the Quantum Chromodynamics 
+Standard Model (SM) is a physics model that summarizes what is currently known about the subatomic world. The SM is composed of two gauge symmetry theories: the Glashow-Salam-Weinberg Model (GSW)~\cite{Glashow, Salam, Weinberg} describing electroweak interactions and the Quantum Chromodynamics 
 (QCD)~\cite{QCD} describing the strong interactions. 
 In SM, there are 
-two types of fundamental particles, fermions and bosons. Fermions are the building block of matter,
-and bosons are the intermediate particles of the four fundamental interactions of SM, i.e., strong, weak, electromagnetic, and
+two types of fundamental particles, fermions and bosons. Fermions have half integer spin and are the building block of matter. Bosons have integer spin and are the intermediate particles of the four fundamental interactions of SM: strong, weak, electromagnetic, and
 gravitational force. 
 In this chapter, we briefly introduce the components of the SM and the related theories to this thesis. 
 %A detailed elaboration about the SM could be found in books like Griffiths~\cite{particlebook1}. 
@@ -20,7 +19,7 @@ The fundamental particles of SM are shown in Figure~\ref{fig:SMParticles}.
 
 \begin{figure}[!htbp]
 \centering
-\includegraphics[width=.7\textwidth]{figures/Standard_Model_particles.png}
+\includegraphics[width=.85\textwidth]{figures/Standard_Model_particles.png}
 \caption{Standard model of elementary particles: 
 the 12 fundamental fermions and 5 fundamental bosons.~\cite{particleImage}}
 \label{fig:SMParticles}
@@ -33,12 +32,10 @@ In SM, there are six flavors of quarks: up (u), down (d), strange (s), charm (c)
 Quarks carry properties like flavor, color, spin, charge, mass, etc. All quarks have spin $\frac{1}{2}$ in SM and they belong to one of the three generations: u and d quarks belong to the first generation; s and c quarks are the second generation quarks; t and b quarks 
 make up the third generation. %The generation of quarks is mostly categorized by their coupling strength with each other in 
 %the weak interactions and also their discovery time.  
-The color is a property of particle. In Quantum Chromodynamics, color is conserved in strong interactions. 
-There are normally 3 types of color: red, blue, green. A particle is colorless if it carries a net color 
+In Quantum Chromodynamics, color is conserved in interactions. 
+There are 3 types of color: red, blue, green. A particle is colorless if it carries a net color 
 charge of zero. 
   
-%An anti-quark will carry the opposite charge and color compared with the quark, but the
-%same flavor and mass.  
 
 {\bf Leptons}
 
@@ -46,8 +43,8 @@ Leptons are fundamental particles, which are also fermions.
 As shown in Figure~\ref{fig:SMParticles}, there are three generation of leptons: electron (e) and electron neutrino ($\nu_e$) are the first generation; 
 muon ($\mu$) and muon neutrino ($\nu_\mu$) are the second generation; 
 tau ($\tau$) and tau neutrino ($\nu_\tau$) are the third generation.  Leptons 
-have electronic charge,  but do not 
-carry color charges. Thus they are involved in the electroweak interactions, but not the
+have electric charge,  but do not 
+carry color charge. Thus they are involved in the electroweak interactions, but not the
 strong interactions. 
 
 {\bf Bosons}
@@ -71,10 +68,11 @@ There are two W bosons, distinguished by their electron charges,  ${\rm W^+}$ an
 
 \section{Fundamental interactions}
 
-In SM, there are four fundamental forces : strong, electromagnetic,  weak and 
-gravitational force, as shown in Table~\ref{table:fourForces}. The ``Strength'' column 
-in Table~\ref{table:fourForces} is not the real strength of the force, 
-but a value to show the relative strength of these forces. 
+%In SM, there are four fundamental forces : strong, electromagnetic,  weak and 
+%gravitational force,
+% as shown in Table~\ref{table:fourForces}. 
+The four fundamental interactions are summarized in Table~\ref{table:fourForces}. 
+The ``Strength'' column is the relative effective strength of these forces. 
 
 Since gravity is so small compared to other three forces, it is mostly not considered in 
 the process of particle physics. 
@@ -122,9 +120,10 @@ Gravitational & $10^{-42}$  & Graviton \\
 
 QED is the theory describing the electromagnetic interaction: the 
 interaction between electric charged particles via the exchange of photons. 
-The primitive process in QED, in the form of Feynman diagram, is shown in 
-Figure~\ref{fig:primitiveQED}. An electron comes in, and radiates a photon, then goes out. 
-%This process is the building block of QED. 
+The ``interaction vertex" in QED, in the form of Feynman diagram, is shown in 
+Figure~\ref{fig:primitiveQED}. 
+An electron comes in, and radiates a photon, then goes out. 
+Feynman diagrams are pictorial representations of the mathematical expressions describing the interactions of elementary particles~\cite{feynman}.  But it can be interpreted as the amplitude of a process. 
 By connecting couple of these primitive processes together, we can get complex process like the one in
 Figure~\ref{fig:gluonradiation}. In Figure~\ref{fig:gluonradiation}, the electron and positron annihilate into a
 photon, which further decays to a pair of quarks, and then one of the two quarks radiates a gluon. 
@@ -143,7 +142,7 @@ are ``on-shell".
  
 \begin{figure}[!htbp]
 \centering
-\includegraphics[width=.7\textwidth]{figures/Radiate_gluon.png}
+\includegraphics[width=.5\textwidth]{figures/Radiate_gluon.png}
 \caption{Feynman diagram for electron annihilation.}
 \label{fig:gluonradiation}
 \end{figure} 
@@ -177,7 +176,8 @@ However, unlike the long range electromagnetic force,
 the strong force could only affect ${\rm {\approx} 10^{-15}~m}$ (1~fm), which is about the radius of 
 a nucleus. 
 
-Color is one of the unique properties of QCD. The color of QCD is an analogy to the charge of QED. There are three types of colors charges: red,
+Color is one of the unique properties of QCD. The color of QCD is an analogue of the
+electric charge of QED. There are three types of colors charges: red,
 blue, green. Each quark carry one kind of color.
 So, for example, there are 
 three types of top quarks in QCD:  the blue top quark, the green top quark, and the red top quark.
@@ -185,33 +185,32 @@ This is the same for all the other five flavors of quarks.
 Anti-quark carries one kind of anti-color. 
 Gluons is the boson intermediating the strong force, just like the
 photon is the mediator of the electromagnetic force.
-Gluons has a color and an anti-color. 
+Gluons carry a color and an anti-color. 
 When two quarks interact with each other, 
 they interact through a gluon by exchanging colors.
 For example, as shown in Figure~\ref{fig:color_rb}, one red quark comes in, radiates a gluon with color red and anti-blue, 
 and a blue quark goes out. In terms of the color SU(3) symmetry, there are 8 gluons in QCD, as
 shown in Equation~\ref{eq:8colors}.
+\begin{equation}
+\begin{split}
+g_1 = (r\bar{b} + b\bar{r})/\sqrt{2}  \quad \quad \quad g_2 = -i(r\bar{g}-g\bar{r})/\sqrt{2} \\
+g_3 = -i(r\bar{b}-b\bar{r})/\sqrt{2}   \quad \quad  \quad  g_4 = (b\bar{g} + g\bar{b})/\sqrt{2} \\
+g_5 = (r\bar{r} - b\bar{b})/\sqrt{2}   \quad \quad  \quad  g_6 = -i(b\bar{g} - g\bar{b})/\sqrt{2} \\
+g_7 = (r\bar{g} + g\bar{r})/\sqrt{2}   \quad \quad   \quad g_8 = (r\bar{r} + b\bar{b} -2g\bar{g})/\sqrt{6} \\
+\end{split}
+\label{eq:8colors}
+\end{equation}
+
 
 \begin{figure}[htb]
 \centering
 \includegraphics[width=.7\textwidth]{figures/rbcolor.png}
 \caption{The illustration of quark-gluon interaction~\cite{particlebook1}.}
 \label{fig:color_rb}
-\end{figure}  
+\end{figure}
 
-\begin{equation}
-\begin{split}
-(r\bar{b} + b\bar{r})/\sqrt{2}  \quad \quad \quad -i(r\bar{g}-g\bar{r})/\sqrt{2} \\
--i(r\bar{b}-b\bar{r})/\sqrt{2}   \quad \quad  \quad  (b\bar{g} + g\bar{b})/\sqrt{2} \\
-(r\bar{r} - b\bar{b})/\sqrt{2}   \quad \quad  \quad  -i(b\bar{g} - g\bar{b})/\sqrt{2} \\
-(r\bar{g} + g\bar{r})/\sqrt{2}   \quad \quad   \quad (r\bar{r} + b\bar{b} -2g\bar{g})/\sqrt{6} \\
-\end{split}
-\label{eq:8colors}
-\end{equation}
-
-
-Unlike charged particles, colored particle could not be free. What we see in experiments and daily life is 
-color-singlet. So we can never observe a single quark or a single gluon 
+Unlike charged particles, colored particle could not be free. What we see in experiments and daily life are 
+color-singlets. So we can never observe a single quark or a single gluon 
 in an experiment. 
 What we observe is the ``hadronization" products of quarks and gluons, which are
 called ``jets" and introduced in the following text. The existence of quarks and gluons is proved by indirect experiments via jets. 
@@ -233,8 +232,10 @@ where  $|q|^2$ is the squared energy-momentum 4-vector of the mediator gluon, $n
 $f$ is the number of flavors (3, in SM), and $\Lambda$ is a parameter determined from 
 experimental data, which is in the range of $100 {\sim} 500$~MeV. 
 
-Notice that $\alpha_{s}$ is not a constant. It is a function of $|q|^2$. Because of this, it is also 
-named the ``running coupling constant".  The experimental measurements are shown 
+Note that $\alpha_{s}$ is not a constant. 
+It is a function of $|q|^2$, the interaction energy. Thus 
+it is also named as the ``running coupling constant".  
+The experimental measurements are shown 
 in Figure~\ref{figs:coupling}.
 
 \begin{figure}[htb]
@@ -259,7 +260,7 @@ This is called the asymptotic freedom.
 {\bf QCD confinement}
 
 
-QCD confinement means that the force between quarks will hugely increase when they are separated. 
+QCD confinement means that the force between quarks largely increases when they are separated. 
 So one has to exert a lot energy to try to separate a quark from other quarks. And this energy will
 become large enough for the mediator gluon to decay into a new quark pair. 
 As illustrated in Figure~\ref{fig:color_field},  when the two charm quarks are pulled apart, the 
@@ -330,10 +331,13 @@ on top of the concave potential is the Higgs particle.}
 \end{figure}  
 
 
-The $W^+$, $W^-$ and Z bosons gain their masses through the spontaneous electroweak symmetry breaking mechanism.
-In an unbroken unified electroweak theory, there are four types of massless bosons: W1, W2, W3, and X. And there are also four types of Higgs particles, which can not be distinguished from each other. After spontaneous symmetry breaking, these four Higgs particles become distinguishable: charged $H^+$, $H^-$, and neutral $H_0$ and $h$. 
-The W1 boson coupling with the $H^+$ becomes the massive $W^+$ boson. The W2 coupling
-with the $H^-$ becomes the $W^-$ boson. The W3 boson combined with the X boson together coupling with the $H_0$ becomes the Z boson. And the residual component of W3 and X combination becomes the massless photon. 
+The ${\rm W^+}$, ${\rm W^-}$ and Z bosons gain their masses through the spontaneous electroweak symmetry breaking mechanism.
+In an unbroken unified electroweak theory, there are four types of massless bosons: ${\rm W_1}$,
+${\rm W_2}$, ${\rm W_3}$, and X. And there are also four types of Higgs particles, which can not be distinguished from each other. After spontaneous symmetry breaking, these four Higgs particles become distinguishable: charged ${\rm H^+}$, ${\rm H^-}$, and neutral ${\rm H_0}$ and $h$. 
+The ${\rm W_1}$ boson coupling with the ${\rm H^+}$ becomes the massive ${\rm W^+}$ boson.
+The ${\rm W_2}$ coupling
+with the ${\rm H^-}$ becomes the ${\rm W^-}$ boson.
+The ${\rm W_3}$ boson combined with the X boson together coupling with the ${\rm H_0}$ becomes the Z boson. And the residual component of ${\rm W_3}$ and X combination becomes the massless photon. 
 
 The $h$, as one of the four Higgs bosons, is not absorbed by other particles, which is called
 the Higgs particle in SM.  However, there is no constraint on the mass of this Higgs particle in SM.
@@ -367,12 +371,12 @@ matter that couldn't be observed by us, which is called ``dark matter".
 The current compositions of matter and energy of our universe, from studies, are about 4.9\% normal matter (like stars, planets, etc.), 26.8\% dark matter, and 68.3\% dark energy. The neutrinos of the SM, are stable and have tiny masses, and also interact weakly with other particles. So on a cosmic scale, they behave like 
 the dark matter. However, the redundancy of dark matter (26.8\%) over normal matter (4.9\%) suggests that neutrinos are insufficient to explain the observed amount of dark matter. 
 
-\begin{figure}[htbp]
+\begin{sidewaysfigure}[htbp]
 \centering
-\includegraphics[width=.7\textwidth]{figures/accelerating_universe.jpg}
+\includegraphics[width=.8\textwidth]{figures/accelerating_universe.jpg}
 \caption{Accelerating expansion of the universe~\cite{web:nasa}.}
 \label{fig:universe}
-\end{figure}  
+\end{sidewaysfigure}  
 
 
 
@@ -409,15 +413,15 @@ can not be explained by the SM, while the Big Bang should produce equal amount o
 matter and antimatter. 
 
 
-{\bf Gravitation}
+{\bf Gravity}
 
- The graviton is the mediator for gravitational force in SM. However, it has not been found yet. 
- Unlike the QED and QCD, there is no known way to explain relativity in SM. 
+ The graviton is the hypothetical mediator of the gravitational force in SM. However, it has not been found yet. 
+ Unlike the QED and QCD, there is no known way to include gravity in SM. 
  \\
  
  
-Since SM leaves us a lot of mysteries,  the scientific research towards a better understanding of 
- our universe has never been stopped. Several theories beyond the SM are raised. 
+Since SM leaves us with a number of mysteries,  the research towards a better understanding of 
+ our universe has never been stopped. Many theories beyond the SM have been proposed. 
  Composite models of quarks (q*)~\cite{ref_qstar, ref_qstar2} with their potential to explain the generation structure of 
 quarks have been quite popular. The Randall-Sundrum model with its potential to solve the
 hierarchy problem in SM predicts the existence of 
@@ -428,7 +432,7 @@ bulk Graviton ($\GBulk$)~\cite{GravitonWWZZ1,GravitonWWZZ2,GravitonWWZZ3}. Many 
 
 According to experimental measurements, these predicted resonances are expected 
 to have resonance masses at least a few hundred~GeV.  The Large Hadron Collider (LHC), 
-with its high collision energy, is a great farm to possibly produce these massive resonances. 
+with its high collision energy, is likely to produce these massive resonances. 
 %Most of these models of physics beyond the SM predict the
 %existence of resonances with masses above 1~\TeVcc~ that decay into a
 %quark and a \PW\ or \cPZ\ vector boson, or into two bosons (WW, ZZ, WZ, WH, or ZH).
@@ -439,8 +443,9 @@ sufficiently large momenta so that the hadronization products of their
 $\qqbarprime$ decays would merge into a single massive
 jet~\cite{Gouzevitch:2013qca}. So the event has a 
 dijet topology.  
-In this thesis, two dijet searches for physics beyond the SM are 
-conducted with the CMS detector at LHC. 
+In this thesis, two dijet studies for physics beyond the SM are 
+conducted with the CMS detector at LHC for the experimental 
+search of q*, \GRS, $\GBulk$, \wpr and \zpr.    
 
 
 
