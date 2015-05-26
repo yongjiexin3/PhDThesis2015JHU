@@ -55,18 +55,18 @@
 \contentsline {section}{\numberline {4.8}Systematic uncertainties}{135}{section.4.8}
 \contentsline {section}{\numberline {4.9}Results}{140}{section.4.9}
 \contentsline {chapter}{\numberline {5}Conclusions and outlook}{143}{chapter.5}
-\contentsline {section}{\numberline {5.1}Conclusions for ${\rm X \to qV\nobreakspace {}or\nobreakspace {}VV}$ analysis}{143}{section.5.1}
-\contentsline {section}{\numberline {5.2}Conclusions for ${\rm X \to VH}$ analysis}{144}{section.5.2}
-\contentsline {section}{\numberline {5.3}Outlook}{145}{section.5.3}
-\contentsline {chapter}{\numberline {A}Appendices for Chapter\nobreakspace {}3}{148}{appendix.A}
-\contentsline {section}{\numberline {A.1}MC generator parameters for the signal models}{148}{section.A.1}
-\contentsline {subsection}{\numberline {A.1.1}Signal shape at high resonance mass}{152}{subsection.A.1.1}
-\contentsline {section}{\numberline {A.2}Event displays}{153}{section.A.2}
-\contentsline {section}{\numberline {A.3}Limit calculation cross check}{162}{section.A.3}
-\contentsline {chapter}{\numberline {B}Appendices for Chapter\nobreakspace {}4 }{163}{appendix.B}
-\contentsline {section}{\numberline {B.1}Model parameters and cross sections}{163}{section.B.1}
-\contentsline {section}{\numberline {B.2}tau42 scale factor extrapolation}{165}{section.B.2}
-\contentsline {section}{\numberline {B.3}CSVL Vs CSVM fat jet b tagging}{170}{section.B.3}
-\contentsline {section}{\numberline {B.4}tauNM distribution}{172}{section.B.4}
-\contentsline {section}{\numberline {B.5}Cross-talk in data}{175}{section.B.5}
-\contentsline {chapter}{Bibliography}{177}{appendix*.6}
+\contentsline {section}{\numberline {5.1}Conclusions for ${\rm X \to qV\nobreakspace {}or\nobreakspace {}VV}$ analysis}{144}{section.5.1}
+\contentsline {section}{\numberline {5.2}Conclusions for ${\rm X \to VH}$ analysis}{145}{section.5.2}
+\contentsline {section}{\numberline {5.3}Outlook}{146}{section.5.3}
+\contentsline {chapter}{\numberline {A}Appendices for Chapter\nobreakspace {}3}{149}{appendix.A}
+\contentsline {section}{\numberline {A.1}MC generator parameters for the signal models}{149}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}Signal shape at high resonance mass}{153}{subsection.A.1.1}
+\contentsline {section}{\numberline {A.2}Event displays}{154}{section.A.2}
+\contentsline {section}{\numberline {A.3}Limit calculation cross check}{163}{section.A.3}
+\contentsline {chapter}{\numberline {B}Appendices for Chapter\nobreakspace {}4 }{164}{appendix.B}
+\contentsline {section}{\numberline {B.1}Model parameters and cross sections}{164}{section.B.1}
+\contentsline {section}{\numberline {B.2}tau42 scale factor extrapolation}{166}{section.B.2}
+\contentsline {section}{\numberline {B.3}CSVL Vs CSVM fat jet b tagging}{171}{section.B.3}
+\contentsline {section}{\numberline {B.4}tauNM distribution}{173}{section.B.4}
+\contentsline {section}{\numberline {B.5}Cross-talk in data}{176}{section.B.5}
+\contentsline {chapter}{Bibliography}{178}{appendix*.6}
