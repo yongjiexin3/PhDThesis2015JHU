@@ -21,42 +21,6 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{particlebook1}
-{David Griffiths}, \emph{Introduction to Elementary Particles}.\hskip 1em plus
-  0.5em minus 0.4em\relax Wiley-VCH Verlg GmbH \& Co.KGaA, 2008.
-
-\bibitem{particleImage}
-{Wikipedia}, ``Standard model,''
-  \url{http://en.wikipedia.org/wiki/Standard_Model}.
-
-\bibitem{web:qcd_confinement}
-M.~Belloni, ``qcd confinement illustration,''
-  \url{http://www.phy.davidson.edu/FacHome/mjb/images/color_field.gif}.
-
-\bibitem{web:nasa}
-NASA, ``The accelerated expansion of universe,''
-  \url{http://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy/}.
-
-\bibitem{LHC}
-{LHC Collaboration}, ``The overview of lhc,''
-  \url{http://www.atlas.ch/photos/atlas_photos/selected-photos/detector-site/surface/}.
-
-\bibitem{wiki2}
-{Wikipedia}, ``Pseudorapidity,''
-  \url{http://en.wikipedia.org/wiki/Pseudorapidity}.
-
-\bibitem{expBook}
-{CMS Collaboration}, \emph{Physics TDR Vol 1. Detector Performance and
-  Software}, 2006.
-
-\bibitem{web:DT}
-{CMS}, ``Scheme of a drift tube,''
-  \url{http://www.pd.infn.it/~conti/cms/mycosmictest.html}.
-
-\bibitem{web:CSC}
-{{CMS Collaboration}}, ``Scheme of the carbon strip chamber,''
-  \url{http://cms.web.cern.ch/news/cathode-strip-chambers}.
-
 \bibitem{Glashow}
 S.L.Glashow, \emph{Nuclear Physics}, vol.~22, 1961.
 
@@ -70,6 +34,14 @@ S.~Weinberg, \emph{Physics Review Letter}, vol.~19, 1967.
 C.Quigg, \emph{Gauge Field Theories}.\hskip 1em plus 0.5em minus 0.4em\relax
   McGraw-Hill Book Company, 1983.
 
+\bibitem{particleImage}
+{Wikipedia}, ``Standard model,''
+  \url{http://en.wikipedia.org/wiki/Standard_Model}.
+
+\bibitem{particlebook1}
+{David Griffiths}, \emph{Introduction to Elementary Particles}.\hskip 1em plus
+  0.5em minus 0.4em\relax Wiley-VCH Verlg GmbH \& Co.KGaA, 2008.
+
 \bibitem{feynman}
 \BIBentryALTinterwordspacing
 M.~E. Peskin and D.~V. Schroeder, \emph{An introduction to quantum field
@@ -77,6 +49,14 @@ M.~E. Peskin and D.~V. Schroeder, \emph{An introduction to quantum field
   Boulder (Colo.): Westview Press Reading (Mass.), 1995, autre tirage : 1997.
   [Online]. Available: \url{http://opac.inria.fr/record=b1131978}
 \BIBentrySTDinterwordspacing
+
+\bibitem{web:qcd_confinement}
+M.~Belloni, ``qcd confinement illustration,''
+  \url{http://www.phy.davidson.edu/FacHome/mjb/images/color_field.gif}.
+
+\bibitem{web:nasa}
+NASA, ``The accelerated expansion of universe,''
+  \url{http://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy/}.
 
 \bibitem{wb:hierarchy}
 {Quantum Diaries}, ``The hierarchy problem: why the higgs has a snowball’s
@@ -96,8 +76,8 @@ L.~Randall and R.~Sundrum, ``A large mass hierarchy from a small extra
   dimension,'' \emph{Phys. Rev. Lett.}, vol.~83, p. 3370, 1999.
 
 \bibitem{Randall:1999vf}
-------, ``An alternative to compactification,'' \emph{Phys. Rev. Lett.},
-  vol.~83, p. 4690, 1999.
+L.~Randall and R.~Sundrum, ``An alternative to compactification,'' \emph{Phys.
+  Rev. Lett.}, vol.~83, p. 4690, 1999.
 
 \bibitem{GravitonWWZZ1}
 K.~Agashe, H.~Davoudiasl, G.~Perez, and A.~Soni, ``Warped gravitons at the
@@ -121,6 +101,26 @@ M.~Gouzevitch, A.~Oliveira, J.~Rojo, R.~Rosenfeld, G.~Salam \emph{et~al.},
   ``{Scale-invariant resonance tagging in multijet events and new physics in
   Higgs pair production},'' 2013.
 
+\bibitem{LHC}
+{LHC Collaboration}, ``The overview of lhc,''
+  \url{http://www.atlas.ch/photos/atlas_photos/selected-photos/detector-site/surface/}.
+
+\bibitem{wiki2}
+{Wikipedia}, ``Pseudorapidity,''
+  \url{http://en.wikipedia.org/wiki/Pseudorapidity}.
+
+\bibitem{expBook}
+{CMS Collaboration}, \emph{Physics TDR Vol 1. Detector Performance and
+  Software}, 2006.
+
+\bibitem{web:DT}
+{CMS}, ``Scheme of a drift tube,''
+  \url{http://www.pd.infn.it/~conti/cms/mycosmictest.html}.
+
+\bibitem{web:CSC}
+{{CMS Collaboration}}, ``Scheme of the carbon strip chamber,''
+  \url{http://cms.web.cern.ch/news/cathode-strip-chambers}.
+
 \bibitem{topwtag_pas}
 \BIBentryALTinterwordspacing
 {CMS Collaboration}, ``Study of jet substructure in pp collisions at 7 {TeV} in
@@ -130,14 +130,15 @@ M.~Gouzevitch, A.~Oliveira, J.~Rojo, R.~Rosenfeld, G.~Salam \emph{et~al.},
 
 \bibitem{JME-13-006}
 \BIBentryALTinterwordspacing
-------, ``Identifying hadronically decaying vector bosons merged into a single
-  jet,'' CMS Physics Analysis Summary CMS-PAS-JME-13-006, 2013. [Online].
-  Available: \url{http://cdsweb.cern.ch/record/1598864}
+{CMS Collaboration}, ``Identifying hadronically decaying vector bosons merged
+  into a single jet,'' no. CMS-PAS-JME-13-006, 2013. [Online]. Available:
+  \url{http://cdsweb.cern.ch/record/1598864}
 \BIBentrySTDinterwordspacing
 
 \bibitem{ref_2011}
-------, ``Search for heavy resonances in the w/z-tagged dijet mass spectrum in
-  pp collisions at 7 tev,'' \emph{Phys. Lett. B}, vol. 723, p. 280, 2013.
+{CMS Collaboration}, ``Search for heavy resonances in the w/z-tagged dijet mass
+  spectrum in pp collisions at 7 tev,'' \emph{Phys. Lett. B}, vol. 723, p. 280,
+  2013.
 
 \bibitem{Thaler:2010tr}
 J.~Thaler and K.~Van~Tilburg, ``{Identifying Boosted Objects with
@@ -177,9 +178,9 @@ V.~M. Abazov \emph{et~al.}, ``Search for a heavy resonance decaying into a {Z+
   \emph{Phys. Lett. B}, vol. 722, p.~28, 2013.
 
 \bibitem{CMSZZPAS2}
-------, ``Search for a narrow spin-2 resonance decaying to a pair of {Z} vector
-  bosons in the semileptonic final state,'' \emph{Phys. Lett. B}, vol. 718, p.
-  1208, 2013.
+{CMS Collaboration}, ``Search for a narrow spin-2 resonance decaying to a pair
+  of {Z} vector bosons in the semileptonic final state,'' \emph{Phys. Lett. B},
+  vol. 718, p. 1208, 2013.
 
 \bibitem{ATLASWWPAPER}
 G.~Aad \emph{et~al.}, ``Search for resonant diboson production in the ww/wz
@@ -187,9 +188,10 @@ G.~Aad \emph{et~al.}, ``Search for resonant diboson production in the ww/wz
   = 7 {TeV},'' \emph{Phys. Rev. D}, vol.~87, p. 112006, 2013.
 
 \bibitem{ATLASZZPAPER}
-------, ``Search for new particles decaying to {ZZ} using final states with
-  leptons and jets with the {ATLAS} detector in $\sqrt{s}$ = 7 {TeV}
-  proton-proton collisions,'' \emph{Phys. Lett. B}, vol. 712, p. 331, 2012.
+G.~Aad \emph{et~al.}, ``Search for new particles decaying to {ZZ} using final
+  states with leptons and jets with the {ATLAS} detector in $\sqrt{s}$ = 7
+  {TeV} proton-proton collisions,'' \emph{Phys. Lett. B}, vol. 712, p. 331,
+  2012.
 
 \bibitem{CDFZZPAPER}
 T.~Aaltonen \emph{et~al.}, ``Search for high-mass resonances decaying into {ZZ}
@@ -225,17 +227,18 @@ G.~Aad \emph{et~al.}, ``Search for resonant {WZ} production in the {WZ} to l nu
 
 \bibitem{particleflow}
 \BIBentryALTinterwordspacing
-------, ``Particle--flow event reconstruction in {CMS} and performance for
-  jets, taus, and {\MET},'' CMS Physics Analysis Summary CMS-PAS-PFT-09-001,
-  2009. [Online]. Available: \url{http://cdsweb.cern.ch/record/1194487}
+{CMS Collaboration}, ``Particle--flow event reconstruction in {CMS} and
+  performance for jets, taus, and {\MET},'' CMS Physics Analysis Summary
+  CMS-PAS-PFT-09-001, 2009. [Online]. Available:
+  \url{http://cdsweb.cern.ch/record/1194487}
 \BIBentrySTDinterwordspacing
 
 \bibitem{particleflow2}
 \BIBentryALTinterwordspacing
-------, ``Commissioning of the particle-flow event reconstruction with the
-  first {LHC} collisions recorded in the {CMS} detector,'' \emph{CMS Physics
-  Analysis Summary}, vol. CMS PAS PFT-10-001, 2010. [Online]. Available:
-  \url{http://cdsweb.cern.ch/record/1247373}
+{CMS Collaboration}, ``Commissioning of the particle-flow event reconstruction
+  with the first {LHC} collisions recorded in the {CMS} detector,'' \emph{CMS
+  Physics Analysis Summary}, vol. CMS PAS PFT-10-001, 2010. [Online].
+  Available: \url{http://cdsweb.cern.ch/record/1247373}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Chatrchyan:2013dgaParticle}
@@ -260,7 +263,8 @@ M.~Cacciari, G.~P. Salam, and G.~Soyez, ``Fastjet user manual,'' \emph{Eur.
   Phys. J. C}, vol.~72, p. 1896, 2012.
 
 \bibitem{jetarea_fastjet}
-------, ``The catchment area of jets,'' \emph{JHEP}, vol.~04, p. 005, 2008.
+M.~Cacciari, G.~P. Salam, and G.~Soyez, ``The catchment area of jets,''
+  \emph{JHEP}, vol.~04, p. 005, 2008.
 
 \bibitem{jetarea_fastjet_pu}
 M.~Cacciari and G.~P. Salam, ``Pileup subtraction using jet areas,''
@@ -271,16 +275,16 @@ M.~Cacciari and G.~P. Salam, ``Pileup subtraction using jet areas,''
   Momentum Resolution in CMS},'' \emph{J. Instrum.}, vol.~6, p. P11002, 2011.
 
 \bibitem{Collaboration:2012dp}
-------, ``Jet energy corrections and uncertainties detector performance plots
-  for 2012,'' \emph{CMS Detector Performance Plots}, vol.
+{CMS Collaboration}, ``Jet energy corrections and uncertainties detector
+  performance plots for 2012,'' \emph{CMS Detector Performance Plots}, vol.
   \href{http://cms.cern.ch/iCMS/jsp/db_notes/noteInfo.jsp?cmsnoteid=CMS
   DP-2012/012}{DP-2012/012}, 2012.
 
 \bibitem{catop_cms}
 \BIBentryALTinterwordspacing
-------, ``{A Cambridge-Aachen (C-A) based Jet Algorithm for boosted top-jet
-  tagging},'' CMS Physics Analysis Summary CMS-PAS-JME-09-001, 2009. [Online].
-  Available: \url{http://cdsweb.cern.ch/record/1194489}
+{CMS Collaboration}, ``{A Cambridge-Aachen (C-A) based Jet Algorithm for
+  boosted top-jet tagging},'' CMS Physics Analysis Summary CMS-PAS-JME-09-001,
+  2009. [Online]. Available: \url{http://cdsweb.cern.ch/record/1194489}
 \BIBentrySTDinterwordspacing
 
 \bibitem{jetpruning1}
@@ -289,8 +293,9 @@ S.~D. Ellis, C.~K. Vermilion, and J.~R. Walsh, ``Techniques for improved heavy
   051501, 2009.
 
 \bibitem{jetpruning2}
-------, ``Recombination algorithms and jet substructure: Pruning as a tool for
-  heavy particle searches,'' \emph{Phys. Rev. D}, vol.~81, p. 094023, 2010.
+S.~D. Ellis, C.~K. Vermilion, and J.~R. Walsh, ``Recombination algorithms and
+  jet substructure: Pruning as a tool for heavy particle searches,''
+  \emph{Phys. Rev. D}, vol.~81, p. 094023, 2010.
 
 \bibitem{Thaler:2011gf}
 J.~Thaler and K.~Van~Tilburg, ``{Maximizing Boosted Top Identification by
@@ -355,9 +360,9 @@ S.~Chatrchyan, ``Search for resonances in the dijet mass spectrum from 7 {TeV}
 
 \bibitem{LUM-13-001}
 \BIBentryALTinterwordspacing
-------, ``Cms luminosity based on pixel cluster counting - summer 2013
-  update,'' CMS Physics Analysis Summary CMS-PAS-LUM-13-001, 2013. [Online].
-  Available: \url{http://cdsweb.cern.ch/record/1598864}
+{CMS Collaboration}, ``Cms luminosity based on pixel cluster counting - summer
+  2013 update,'' CMS Physics Analysis Summary CMS-PAS-LUM-13-001, 2013.
+  [Online]. Available: \url{http://cdsweb.cern.ch/record/1598864}
 \BIBentrySTDinterwordspacing
 
 \bibitem{mrst2006}
@@ -412,9 +417,9 @@ G.~Aad \emph{et~al.}, ``{Search for $WZ$ resonances in the fully leptonic
   detector},'' \emph{Phys.\ Lett.\ B}, vol. 737, p. 223, 2014.
 
 \bibitem{Aad:2014xka}
-------, ``{Search for resonant diboson production in the $\mathrm {\ell \ell
-  }q\bar{q}$ final state in $pp$ collisions at $\sqrt{s} = 8$ TeV with the
-  ATLAS detector},'' \emph{Eur.\ Phys.\ J.\ C}, vol.~75, p.~69, 2015.
+G.~Aad \emph{et~al.}, ``{Search for resonant diboson production in the $\mathrm
+  {\ell \ell }q\bar{q}$ final state in $pp$ collisions at $\sqrt{s} = 8$ TeV
+  with the ATLAS detector},'' \emph{Eur.\ Phys.\ J.\ C}, vol.~75, p.~69, 2015.
 
 \bibitem{EXO-12-024}
 V.~Khachatryan \emph{et~al.}, ``{Search for massive resonances in dijet systems
@@ -422,14 +427,14 @@ V.~Khachatryan \emph{et~al.}, ``{Search for massive resonances in dijet systems
   $ = 8 TeV},'' \emph{JHEP}, vol.~08, p. 173, 2014.
 
 \bibitem{EXO-13-009}
-------, ``{Search for massive resonances decaying into pairs of boosted bosons
-  in semi-leptonic final states at $\sqrt{s}=$ 8 TeV},'' \emph{JHEP}, vol.~08,
-  p. 174, 2014.
+V.~Khachatryan \emph{et~al.}, ``{Search for massive resonances decaying into
+  pairs of boosted bosons in semi-leptonic final states at $\sqrt{s}=$ 8
+  TeV},'' \emph{JHEP}, vol.~08, p. 174, 2014.
 
 \bibitem{cms-HZ-tautaujet}
-------, ``{Search for narrow high-mass resonances in proton-proton collisions
-  at sqrt(s) = 8 TeV decaying to Z and Higgs bosons},'' 2015, submitted to
-  Phys.\ Lett.\ B.
+V.~Khachatryan \emph{et~al.}, ``{Search for narrow high-mass resonances in
+  proton-proton collisions at sqrt(s) = 8 TeV decaying to Z and Higgs
+  bosons},'' 2015, submitted to Phys.\ Lett.\ B.
 
 \bibitem{Aad:2015yza}
 G.~Aad \emph{et~al.}, ``{Search for a new resonance decaying to a $W$ or $Z$
@@ -437,9 +442,9 @@ G.~Aad \emph{et~al.}, ``{Search for a new resonance decaying to a $W$ or $Z$
   final states with the ATLAS Detector},'' 2015.
 
 \bibitem{higgsdiscoveryAtlas}
-------, ``{Observation of a new particle in the search for the Standard Model
-  Higgs boson with the ATLAS detector at the LHC},'' \emph{Phys.Lett.}, vol.
-  B716, pp. 1--29, 2012.
+G.~Aad \emph{et~al.}, ``{Observation of a new particle in the search for the
+  Standard Model Higgs boson with the ATLAS detector at the LHC},''
+  \emph{Phys.Lett.}, vol. B716, pp. 1--29, 2012.
 
 \bibitem{Chatrchyan:2012ufa}
 S.~Chatrchyan \emph{et~al.}, ``{Observation of a new boson at a mass of 125 GeV
@@ -452,9 +457,9 @@ V.~Khachatryan \emph{et~al.}, ``{Constraints on the spin-parity and anomalous
   2014.
 
 \bibitem{Khachatryan:2014jbaCMSHiggs2}
-------, ``{Precise determination of the mass of the Higgs boson and tests of
-  compatibility of its couplings with the standard model predictions using
-  proton collisions at 7 and 8 TeV},'' 2014.
+V.~Khachatryan \emph{et~al.}, ``{Precise determination of the mass of the Higgs
+  boson and tests of compatibility of its couplings with the standard model
+  predictions using proton collisions at 7 and 8 TeV},'' 2014.
 
 \bibitem{AtlasHiggs1}
 {The ATLAS collaboration}, ``{Study of the spin and parity of the Higgs boson
@@ -474,8 +479,8 @@ C.~Collaboration, ``Search for narrow resonances using the dijet mass spectrum
 \BIBentrySTDinterwordspacing
 
 \bibitem{HH4b}
-------, ``Search for heavy resonances decaying into two higgs bosons in
-  hadronic final states,'' \emph{CMS Physics Analysis Summary}, vol.
+C.~Collaboration, ``Search for heavy resonances decaying into two higgs bosons
+  in hadronic final states,'' \emph{CMS Physics Analysis Summary}, vol.
   CMS-PAS-EXO-12-053, 2013.
 
 \bibitem{madgraph}

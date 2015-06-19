@@ -1,7 +1,7 @@
 \contentsline {chapter}{Abstract}{ii}{chapter*.1}
 \contentsline {chapter}{Acknowledgments}{iv}{chapter*.2}
-\contentsline {chapter}{List of Tables}{ix}{chapter*.4}
-\contentsline {chapter}{List of Figures}{xi}{chapter*.5}
+\contentsline {chapter}{List of Tables}{x}{chapter*.4}
+\contentsline {chapter}{List of Figures}{xii}{chapter*.5}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}The Standard Model}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Fundamental particles}{2}{subsection.1.1.1}
@@ -70,3 +70,4 @@
 \contentsline {section}{\numberline {B.4}tauNM distribution}{173}{section.B.4}
 \contentsline {section}{\numberline {B.5}Cross-talk in data}{176}{section.B.5}
 \contentsline {chapter}{Bibliography}{178}{appendix*.6}
+\contentsline {chapter}{Vita}{193}{appendix*.7}

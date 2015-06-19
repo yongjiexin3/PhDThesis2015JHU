@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  26 MAY 2015 14:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  10 JUN 2015 10:56
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -537,44 +537,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
 ] [3] [4
 
-] (./YongjieThesis.toc [5
+] [5] (./YongjieThesis.toc [6
 
-] [6] [7])
+] [7] [8])
 \tf@toc=\write5
 \openout5 = `YongjieThesis.toc'.
 
- [8] (./YongjieThesis.lot
+ [9] (./YongjieThesis.lot
 Overfull \hbox (2.23526pt too wide) in paragraph at lines 18--18
  [][] [][]\OT1/cmr/m/n/12 Summary of event cat-e-gories and their nomen-cla-tur
 e used in this search. 
  []
 
-[9
+[10
 
 ])
 \tf@lot=\write6
 \openout6 = `YongjieThesis.lot'.
 
- [10] (./YongjieThesis.lof [11
+ [11] (./YongjieThesis.lof [12
 
 ]
 Overfull \hbox (2.49794pt too wide) in paragraph at lines 38--38
  \OT1/cmr/m/n/12 in data, and QCD mul-ti-jet (MAD-GRAPH/PYTHIA and HER-WIG++) 
  []
 
-[12]
+[13]
 Overfull \hbox (2.73273pt too wide) in paragraph at lines 61--61
  [][] [][]\OT1/cmr/m/n/12 Distribution in $[]$, re-spec-tively, for (up-per lef
 t) singly-tagged LP events 
  []
 
-[13]
-Overfull \hbox (1.05049pt too wide) in paragraph at lines 65--65
- \OT1/cmr/m/n/12 par-ti-cles in the event. The W/Z and H jets are from 1.5 TeV 
-$[]$ 
- []
-
-[14] [15]
+[14] [15] [16]
 Overfull \hbox (4.35052pt too wide) in paragraph at lines 90--90
  [][] [][]\OT1/cmr/m/n/12 Event dis-play of event with the high-est di-jet in-v
 ari-ant mass of 5.13  TeV . 
@@ -598,11 +592,11 @@ Overfull \hbox (4.35052pt too wide) in paragraph at lines 93--93
 ari-ant mass of 5.13  TeV . 
  []
 
-[16])
+[17])
 \tf@lof=\write7
 \openout7 = `YongjieThesis.lof'.
 
- [17])
+ [18])
 \openout2 = `Introduction.aux'.
 
  (./Introduction.tex
@@ -611,7 +605,7 @@ Chapter 1.
 
 
 
-] <figures/Standard_Model_particles.png, id=898, 2007.5pt x 1507.6325pt>
+] <figures/Standard_Model_particles.png, id=908, 2007.5pt x 1507.6325pt>
 File: figures/Standard_Model_particles.png Graphic file (type png)
 
 <use figures/Standard_Model_particles.png>
@@ -631,14 +625,14 @@ licate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.134 
-      ] <figures/primitiveQED.png, id=926, 1027.84pt x 770.88pt>
+      ] <figures/primitiveQED.png, id=935, 1027.84pt x 770.88pt>
 File: figures/primitiveQED.png Graphic file (type png)
 
 <use figures/primitiveQED.png>
 Package pdftex.def Info: figures/primitiveQED.png used on input line 137.
 (pdftex.def)             Requested size: 303.53267pt x 227.65465pt.
 
-<figures/Radiate_gluon.png, id=927, 190.7125pt x 121.45375pt>
+<figures/Radiate_gluon.png, id=936, 190.7125pt x 121.45375pt>
 File: figures/Radiate_gluon.png Graphic file (type png)
 
 <use figures/Radiate_gluon.png>
@@ -658,7 +652,7 @@ the same identifier (name{figure.1.3}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.194 \begin{equation}
                        <./figures/Radiate_gluon.png>]
-<figures/rbcolor.png, id=942, 1027.84pt x 770.88pt>
+<figures/rbcolor.png, id=951, 1027.84pt x 770.88pt>
 File: figures/rbcolor.png Graphic file (type png)
  <use figures/rbcolor.png>
 Package pdftex.def Info: figures/rbcolor.png used on input line 207.
@@ -671,14 +665,14 @@ Package pdftex.def Info: figures/rbcolor.png used on input line 207.
                                                   \fi \fi 
 l.222 
        <./figures/rbcolor.png>]
-<figures/alphasrunning.png, id=951, 550.30594pt x 376.40625pt>
+<figures/alphasrunning.png, id=961, 550.30594pt x 376.40625pt>
 File: figures/alphasrunning.png Graphic file (type png)
 
 <use figures/alphasrunning.png>
 Package pdftex.def Info: figures/alphasrunning.png used on input line 243.
 (pdftex.def)             Requested size: 303.53267pt x 207.62138pt.
  [8]
-<figures/color_field.jpg, id=960, 283.0575pt x 156.585pt>
+<figures/color_field.jpg, id=969, 283.0575pt x 156.585pt>
 File: figures/color_field.jpg Graphic file (type jpg)
 
 <use figures/color_field.jpg>
@@ -692,13 +686,13 @@ Package pdftex.def Info: figures/color_field.jpg used on input line 278.
 l.287 W
        hen quarks and gluons are created in a high energy collision, they will 
 <./figures/alphasrunning.png>]
-<figures/jets.png, id=969, 1027.84pt x 770.88pt>
+<figures/jets.png, id=978, 1027.84pt x 770.88pt>
 File: figures/jets.png Graphic file (type png)
  <use figures/jets.png>
 Package pdftex.def Info: figures/jets.png used on input line 301.
 (pdftex.def)             Requested size: 303.53267pt x 227.65465pt.
 
-<figures/clustering.png, id=971, 501.875pt x 419.5675pt>
+<figures/clustering.png, id=980, 501.875pt x 419.5675pt>
 File: figures/clustering.png Graphic file (type png)
 
 <use figures/clustering.png>
@@ -724,7 +718,7 @@ l.323
                                                   \fi \fi 
 l.323 
        <./figures/jets.png> <./figures/clustering.png>]
-<figures/Higgs-potential.jpg, id=986, 949.5475pt x 586.19pt>
+<figures/Higgs-potential.jpg, id=995, 949.5475pt x 586.19pt>
 File: figures/Higgs-potential.jpg Graphic file (type jpg)
 
 <use figures/Higgs-potential.jpg>
@@ -737,7 +731,7 @@ Package pdftex.def Info: figures/Higgs-potential.jpg used on input line 326.
                                                   \fi \fi 
 l.341 
        <./figures/Higgs-potential.jpg>] [13]
-<figures/accelerating_universe.jpg, id=996, 610.28pt x 515.9275pt>
+<figures/accelerating_universe.jpg, id=1006, 610.28pt x 515.9275pt>
 File: figures/accelerating_universe.jpg Graphic file (type jpg)
 
 <use figures/accelerating_universe.jpg>
@@ -765,21 +759,21 @@ Chapter 2.
 
 
 
-] <figures/CERN-LHC.jpg, id=1040, 781.92125pt x 563.10374pt>
+] <figures/CERN-LHC.jpg, id=1049, 781.92125pt x 563.10374pt>
 File: figures/CERN-LHC.jpg Graphic file (type jpg)
 
 <use figures/CERN-LHC.jpg>
 Package pdftex.def Info: figures/CERN-LHC.jpg used on input line 36.
 (pdftex.def)             Requested size: 547.15137pt x 394.04964pt.
 
-<figures/CMS_Slice.png, id=1043, 995.72pt x 507.8975pt>
+<figures/CMS_Slice.png, id=1052, 995.72pt x 507.8975pt>
 File: figures/CMS_Slice.png Graphic file (type png)
 
 <use figures/CMS_Slice.png>
 Package pdftex.def Info: figures/CMS_Slice.png used on input line 52.
 (pdftex.def)             Requested size: 547.15137pt x 279.0965pt.
 
-<figures/pseudorapidity.png, id=1046, 271.0125pt x 220.825pt>
+<figures/pseudorapidity.png, id=1055, 271.0125pt x 220.825pt>
 File: figures/pseudorapidity.png Graphic file (type png)
 
 <use figures/pseudorapidity.png>
@@ -800,7 +794,7 @@ identifier (name{figure.2.2}) has been already used, duplicate ignored
 l.75 C
       MS is short for Compact Muon Solenoid, which indicates its profession ...
  <./figures/CMS_Slice.png>]
-<figures/cms_complete_layout.jpg, id=1068, 786.94pt x 569.12625pt>
+<figures/cms_complete_layout.jpg, id=1077, 786.94pt x 569.12625pt>
 File: figures/cms_complete_layout.jpg Graphic file (type jpg)
 
 <use figures/cms_complete_layout.jpg>
@@ -821,7 +815,7 @@ red
                                                   \fi \fi 
 l.106 
        <./figures/cms_complete_layout.jpg>] [24]
-<figures/TrackerLayout.png, id=1087, 903.375pt x 426.59375pt>
+<figures/TrackerLayout.png, id=1096, 903.375pt x 426.59375pt>
 File: figures/TrackerLayout.png Graphic file (type png)
 
 <use figures/TrackerLayout.png>
@@ -840,7 +834,7 @@ gure.2.5}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.159 
        <./figures/TrackerLayout.png>]
-<figures/pixel.png, id=1103, 585.18625pt x 326.21875pt>
+<figures/pixel.png, id=1112, 585.18625pt x 326.21875pt>
 File: figures/pixel.png Graphic file (type png)
 
 <use figures/pixel.png>
@@ -853,7 +847,7 @@ Package pdftex.def Info: figures/pixel.png used on input line 162.
                                                   \fi \fi 
 l.180 A
        fter passing through the three pixel layers, particles travel through...
- <./figures/pixel.png>] <figures/Strip.png, id=1111, 645.41125pt x 716.6775pt>
+ <./figures/pixel.png>] <figures/Strip.png, id=1120, 645.41125pt x 716.6775pt>
 File: figures/Strip.png Graphic file (type png)
 
 <use figures/Strip.png>
@@ -866,7 +860,7 @@ re.2.7}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.208 
        <./figures/Strip.png>]
-<figures/ECALEta.png, id=1122, 1441.385pt x 734.745pt>
+<figures/ECALEta.png, id=1131, 1441.385pt x 734.745pt>
 File: figures/ECALEta.png Graphic file (type png)
 
 <use figures/ECALEta.png>
@@ -879,7 +873,7 @@ Package pdftex.def Info: figures/ECALEta.png used on input line 212.
                                                   \fi \fi 
 l.227 
        <./figures/ECALEta.png (PNG copy)>] [31]
-<figures/Hcal.jpg, id=1133, 691.58376pt x 440.64626pt>
+<figures/Hcal.jpg, id=1143, 691.58376pt x 440.64626pt>
 File: figures/Hcal.jpg Graphic file (type jpg)
  <use figures/Hcal.jpg>
 Package pdftex.def Info: figures/Hcal.jpg used on input line 250.
@@ -892,14 +886,14 @@ Package pdftex.def Info: figures/Hcal.jpg used on input line 250.
                                                   \fi \fi 
 l.266 
        <./figures/Hcal.jpg>]
-<figures/Muonsystem.png, id=1144, 790.955pt x 574.145pt>
+<figures/Muonsystem.png, id=1153, 790.955pt x 574.145pt>
 File: figures/Muonsystem.png Graphic file (type png)
 
 <use figures/Muonsystem.png>
 Package pdftex.def Info: figures/Muonsystem.png used on input line 269.
 (pdftex.def)             Requested size: 390.25534pt x 283.28716pt.
 
-<figures/MuStations.jpg, id=1145, 319.1925pt x 355.3275pt>
+<figures/MuStations.jpg, id=1154, 319.1925pt x 355.3275pt>
 File: figures/MuStations.jpg Graphic file (type jpg)
 
 <use figures/MuStations.jpg>
@@ -919,7 +913,7 @@ ate ignored
                                                   \fi \fi 
 l.288 
        <./figures/MuStations.jpg>]
-<figures/DriftTubeDetails.jpg, id=1157, 722.7pt x 542.025pt>
+<figures/DriftTubeDetails.jpg, id=1167, 722.7pt x 542.025pt>
 File: figures/DriftTubeDetails.jpg Graphic file (type jpg)
 
 <use figures/DriftTubeDetails.jpg>
@@ -932,7 +926,7 @@ Package pdftex.def Info: figures/DriftTubeDetails.jpg used on input line 291.
                                                   \fi \fi 
 l.300 
        <./figures/DriftTubeDetails.jpg>]
-<figures/CSC.png, id=1165, 194.7275pt x 171.64125pt>
+<figures/CSC.png, id=1174, 194.7275pt x 171.64125pt>
 File: figures/CSC.png Graphic file (type png)
  <use figures/CSC.png>
 Package pdftex.def Info: figures/CSC.png used on input line 303.
@@ -945,7 +939,7 @@ Package pdftex.def Info: figures/CSC.png used on input line 303.
                                                   \fi \fi 
 l.310 
        <./figures/CSC.png>]
-<figures/RPC.jpg, id=1173, 447.6725pt x 181.67876pt>
+<figures/RPC.jpg, id=1182, 447.6725pt x 181.67876pt>
 File: figures/RPC.jpg Graphic file (type jpg)
  <use figures/RPC.jpg>
 Package pdftex.def Info: figures/RPC.jpg used on input line 313.
@@ -1015,7 +1009,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 \openout2 = `EXO-12-024/analysis.aux'.
 
  (./EXO-12-024/analysis.tex
-<EXO-12-024/figs/event-display/highdoublemass/rho-phi-white.png, id=1269, 906.3
+<EXO-12-024/figs/event-display/highdoublemass/rho-phi-white.png, id=1279, 906.3
 8625pt x 913.4125pt>
 File: EXO-12-024/figs/event-display/highdoublemass/rho-phi-white.png Graphic fi
 le (type png)
@@ -1025,7 +1019,7 @@ Package pdftex.def Info: EXO-12-024/figs/event-display/highdoublemass/rho-phi-w
 hite.png used on input line 16.
 (pdftex.def)             Requested size: 260.17464pt x 262.1929pt.
 
-<EXO-12-024/figs/event-display/highdoublemass/rho-z-white.png, id=1270, 906.386
+<EXO-12-024/figs/event-display/highdoublemass/rho-z-white.png, id=1280, 906.386
 25pt x 913.4125pt>
 File: EXO-12-024/figs/event-display/highdoublemass/rho-z-white.png Graphic file
  (type png)
@@ -1039,7 +1033,7 @@ te.png used on input line 17.
 LaTeX Warning: Float too large for page by 2.78575pt on input line 24.
 
 
-<EXO-12-024/figs/event-display/highdoublemass/tower-white.png, id=1271, 906.386
+<EXO-12-024/figs/event-display/highdoublemass/tower-white.png, id=1281, 906.386
 25pt x 913.4125pt>
 File: EXO-12-024/figs/event-display/highdoublemass/tower-white.png Graphic file
  (type png)
@@ -1049,7 +1043,7 @@ Package pdftex.def Info: EXO-12-024/figs/event-display/highdoublemass/tower-whi
 te.png used on input line 28.
 (pdftex.def)             Requested size: 260.17464pt x 262.1929pt.
 
-<EXO-12-024/figs/event-display/highdoublemass/lego-white.png, id=1272, 906.3862
+<EXO-12-024/figs/event-display/highdoublemass/lego-white.png, id=1282, 906.3862
 5pt x 913.4125pt>
 File: EXO-12-024/figs/event-display/highdoublemass/lego-white.png Graphic file 
 (type png)
@@ -1134,7 +1128,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 
 ]
-<EXO-12-024/figs/N-subjettiness/Signal_MC_Pre.pdf, id=1341, 569.12625pt x 463.7
+<EXO-12-024/figs/N-subjettiness/Signal_MC_Pre.pdf, id=1350, 569.12625pt x 463.7
 325pt>
 File: EXO-12-024/figs/N-subjettiness/Signal_MC_Pre.pdf Graphic file (type pdf)
  <use EXO-12-024/figs/N-subjettiness/Signal_MC_Pre.pdf>
@@ -1142,7 +1136,7 @@ Package pdftex.def Info: EXO-12-024/figs/N-subjettiness/Signal_MC_Pre.pdf used
 on input line 61.
 (pdftex.def)             Requested size: 569.12486pt x 463.73135pt.
 
-<EXO-12-024/figs/N-subjettiness/Signal_MC.pdf, id=1342, 569.12625pt x 463.7325p
+<EXO-12-024/figs/N-subjettiness/Signal_MC.pdf, id=1351, 569.12625pt x 463.7325p
 t>
 File: EXO-12-024/figs/N-subjettiness/Signal_MC.pdf Graphic file (type pdf)
  <use EXO-12-024/figs/N-subjettiness/Signal_MC.pdf>
@@ -1177,7 +1171,7 @@ l.97 F
  <./EXO-12-024/figs/N-subjettiness/Signal_MC_Pre.pdf, page is rotated 90 degree
 s> <./EXO-12-024/figs/N-subjettiness/Signal_MC.pdf, page is rotated 90 degrees>
 ]
-<EXO-12-024/figs/N-subjettiness/optimization1200_0.pdf, id=1441, 569.12625pt x 
+<EXO-12-024/figs/N-subjettiness/optimization1200_0.pdf, id=1450, 569.12625pt x 
 426.59375pt>
 File: EXO-12-024/figs/N-subjettiness/optimization1200_0.pdf Graphic file (type 
 pdf)
@@ -1186,7 +1180,7 @@ Package pdftex.def Info: EXO-12-024/figs/N-subjettiness/optimization1200_0.pdf
 used on input line 107.
 (pdftex.def)             Requested size: 569.12486pt x 426.5927pt.
 
-<EXO-12-024/figs/N-subjettiness/optimization1800_0.pdf, id=1442, 569.12625pt x 
+<EXO-12-024/figs/N-subjettiness/optimization1800_0.pdf, id=1451, 569.12625pt x 
 426.59375pt>
 File: EXO-12-024/figs/N-subjettiness/optimization1800_0.pdf Graphic file (type 
 pdf)
@@ -1200,7 +1194,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 106--111
  []
 
 
-<EXO-12-024/figs/N-subjettiness/optimization1200_1.pdf, id=1444, 569.12625pt x 
+<EXO-12-024/figs/N-subjettiness/optimization1200_1.pdf, id=1453, 569.12625pt x 
 426.59375pt>
 File: EXO-12-024/figs/N-subjettiness/optimization1200_1.pdf Graphic file (type 
 pdf)
@@ -1209,7 +1203,7 @@ Package pdftex.def Info: EXO-12-024/figs/N-subjettiness/optimization1200_1.pdf
 used on input line 122.
 (pdftex.def)             Requested size: 569.12486pt x 426.5927pt.
 
-<EXO-12-024/figs/N-subjettiness/optimization1800_1.pdf, id=1445, 569.12625pt x 
+<EXO-12-024/figs/N-subjettiness/optimization1800_1.pdf, id=1454, 569.12625pt x 
 426.59375pt>
 File: EXO-12-024/figs/N-subjettiness/optimization1800_1.pdf Graphic file (type 
 pdf)
@@ -1237,7 +1231,7 @@ l.134
        <./EXO-12-024/figs/N-subjettiness/optimization1200_0.pdf, page is rotate
 d 90 degrees> <./EXO-12-024/figs/N-subjettiness/optimization1800_0.pdf, page is
  rotated 90 degrees>]
-<EXO-12-024/figs/N-subjettiness/optimization1800_2.pdf, id=1538, 569.12625pt x 
+<EXO-12-024/figs/N-subjettiness/optimization1800_2.pdf, id=1547, 569.12625pt x 
 426.59375pt>
 File: EXO-12-024/figs/N-subjettiness/optimization1800_2.pdf Graphic file (type 
 pdf)
@@ -1257,14 +1251,14 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.178 \include{EXO-12-024/N-subjettiness}
+l.180 \include{EXO-12-024/N-subjettiness}
                                          pdfTeX warning (ext4): destination wit
 h the same identifier (name{figure.3.6}) has been already used, duplicate ignor
 ed
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.178 \include{EXO-12-024/N-subjettiness}
+l.180 \include{EXO-12-024/N-subjettiness}
                                           <./EXO-12-024/figs/N-subjettiness/opt
 imization1200_1.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/N-subjettin
 ess/optimization1800_1.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/N-su
@@ -1289,7 +1283,7 @@ as been already used, duplicate ignored
                                                   \fi \fi 
 l.58 
      ]
-<EXO-12-024/figs/comparison-jhu-pythia-herwigg/MX.pdf, id=1699, 168.7605pt x 19
+<EXO-12-024/figs/comparison-jhu-pythia-herwigg/MX.pdf, id=1709, 168.7605pt x 19
 1.10768pt>
 File: EXO-12-024/figs/comparison-jhu-pythia-herwigg/MX.pdf Graphic file (type p
 df)
@@ -1298,7 +1292,7 @@ Package pdftex.def Info: EXO-12-024/figs/comparison-jhu-pythia-herwigg/MX.pdf u
 sed on input line 70.
 (pdftex.def)             Requested size: 186.45341pt x 211.15515pt.
 
-<EXO-12-024/figs/comparison-jhu-pythia-herwigg/delta-y.pdf, id=1700, 165.42111p
+<EXO-12-024/figs/comparison-jhu-pythia-herwigg/delta-y.pdf, id=1710, 165.42111p
 t x 191.6214pt>
 File: EXO-12-024/figs/comparison-jhu-pythia-herwigg/delta-y.pdf Graphic file (t
 ype pdf)
@@ -1326,7 +1320,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.181 \include{EXO-12-024/data_and_mc_samples}
+l.183 \include{EXO-12-024/data_and_mc_samples}
                                                <./EXO-12-024/figs/comparison-jh
 u-pythia-herwigg/MX.pdf> <./EXO-12-024/figs/comparison-jhu-pythia-herwigg/delta
 -y.pdf>]
@@ -1341,7 +1335,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.181 \include{EXO-12-024/data_and_mc_samples}
+l.183 \include{EXO-12-024/data_and_mc_samples}
                                               ]
 
 Package Fancyhdr Warning: \headheight is too small (15.0pt): 
@@ -1354,7 +1348,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.181 \include{EXO-12-024/data_and_mc_samples}
+l.183 \include{EXO-12-024/data_and_mc_samples}
                                               ]
 
 Package Fancyhdr Warning: \headheight is too small (15.0pt): 
@@ -1367,7 +1361,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.181 \include{EXO-12-024/data_and_mc_samples}
+l.183 \include{EXO-12-024/data_and_mc_samples}
                                               ]
 
 Package Fancyhdr Warning: \headheight is too small (15.0pt): 
@@ -1380,7 +1374,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.181 \include{EXO-12-024/data_and_mc_samples}
+l.183 \include{EXO-12-024/data_and_mc_samples}
                                               ]
 \openout2 = `EXO-12-024/trigger.aux'.
 
@@ -1391,7 +1385,7 @@ fired: HLT[]HT750, HLT[]PFHT650,
  []
 
 
-<EXO-12-024/figs/trigger-eff/Dataeff_withouttagging.pdf, id=1765, 569.12625pt x
+<EXO-12-024/figs/trigger-eff/Dataeff_withouttagging.pdf, id=1775, 569.12625pt x
  442.65375pt>
 File: EXO-12-024/figs/trigger-eff/Dataeff_withouttagging.pdf Graphic file (type
  pdf)
@@ -1411,7 +1405,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--19
  []
 
 
-<EXO-12-024/figs/trigger-eff/Dataeff_singletagging.pdf, id=1766, 569.12625pt x 
+<EXO-12-024/figs/trigger-eff/Dataeff_singletagging.pdf, id=1776, 569.12625pt x 
 442.65375pt>
 File: EXO-12-024/figs/trigger-eff/Dataeff_singletagging.pdf Graphic file (type 
 pdf)
@@ -1432,7 +1426,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--27
  []
 
 
-<EXO-12-024/figs/trigger-eff/Dataeff_doubletagging.pdf, id=1767, 569.12625pt x 
+<EXO-12-024/figs/trigger-eff/Dataeff_doubletagging.pdf, id=1777, 569.12625pt x 
 442.65375pt>
 File: EXO-12-024/figs/trigger-eff/Dataeff_doubletagging.pdf Graphic file (type 
 pdf)
@@ -1518,7 +1512,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 
 ]
-<EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVMiumHigh.pdf, id=1931, 569.126
+<EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVMiumHigh.pdf, id=1940, 569.126
 25pt x 559.08875pt>
 File: EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVMiumHigh.pdf Graphic file
  (type pdf)
@@ -1528,7 +1522,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVMiumHi
 gh.pdf used on input line 65.
 (pdftex.def)             Requested size: 569.12486pt x 559.08737pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/DijetMass-VVMiumHigh.pdf, id=1932, 569.126
+<EXO-12-024/figs/Data-MC-comparisons/DijetMass-VVMiumHigh.pdf, id=1941, 569.126
 25pt x 559.08875pt>
 File: EXO-12-024/figs/Data-MC-comparisons/DijetMass-VVMiumHigh.pdf Graphic file
  (type pdf)
@@ -1543,7 +1537,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 64--70
  []
 
 
-<EXO-12-024/figs/Data-MC-comparisons/Deta-qVLowP.pdf, id=1933, 569.12625pt x 46
+<EXO-12-024/figs/Data-MC-comparisons/Deta-qVLowP.pdf, id=1942, 569.12625pt x 46
 2.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Deta-qVLowP.pdf Graphic file (type pd
 f)
@@ -1552,7 +1546,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Deta-qVLowP.pdf us
 ed on input line 79.
 (pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/Deta-qVMiumHigh.pdf, id=1934, 569.12625pt 
+<EXO-12-024/figs/Data-MC-comparisons/Deta-qVMiumHigh.pdf, id=1943, 569.12625pt 
 x 462.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Deta-qVMiumHigh.pdf Graphic file (typ
 e pdf)
@@ -1566,7 +1560,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 78--84
  []
 
 
-<EXO-12-024/figs/Data-MC-comparisons/Deta-VVLowP.pdf, id=1935, 569.12625pt x 46
+<EXO-12-024/figs/Data-MC-comparisons/Deta-VVLowP.pdf, id=1944, 569.12625pt x 46
 2.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Deta-VVLowP.pdf Graphic file (type pd
 f)
@@ -1575,7 +1569,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Deta-VVLowP.pdf us
 ed on input line 91.
 (pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/Deta-VVMiumHigh.pdf, id=1936, 569.12625pt 
+<EXO-12-024/figs/Data-MC-comparisons/Deta-VVMiumHigh.pdf, id=1945, 569.12625pt 
 x 462.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Deta-VVMiumHigh.pdf Graphic file (typ
 e pdf)
@@ -1602,7 +1596,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 l.100 \newpage
                <./EXO-12-024/figs/Data-MC-comparisons/DijetMass-qVMiumHigh.pdf>
  <./EXO-12-024/figs/Data-MC-comparisons/DijetMass-VVMiumHigh.pdf>]
-<EXO-12-024/figs/Data-MC-comparisons/Dphi-qVLowP.pdf, id=1951, 569.12625pt x 46
+<EXO-12-024/figs/Data-MC-comparisons/Dphi-qVLowP.pdf, id=1961, 569.12625pt x 46
 2.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Dphi-qVLowP.pdf Graphic file (type pd
 f)
@@ -1611,7 +1605,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Dphi-qVLowP.pdf us
 ed on input line 104.
 (pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/Dphi-qVMiumHigh.pdf, id=1952, 569.12625pt 
+<EXO-12-024/figs/Data-MC-comparisons/Dphi-qVMiumHigh.pdf, id=1962, 569.12625pt 
 x 462.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Dphi-qVMiumHigh.pdf Graphic file (typ
 e pdf)
@@ -1625,7 +1619,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 103--109
  []
 
 
-<EXO-12-024/figs/Data-MC-comparisons/Dphi-VVLowP.pdf, id=1953, 569.12625pt x 46
+<EXO-12-024/figs/Data-MC-comparisons/Dphi-VVLowP.pdf, id=1963, 569.12625pt x 46
 2.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Dphi-VVLowP.pdf Graphic file (type pd
 f)
@@ -1634,7 +1628,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Dphi-VVLowP.pdf us
 ed on input line 116.
 (pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/Dphi-VVMiumHigh.pdf, id=1954, 569.12625pt 
+<EXO-12-024/figs/Data-MC-comparisons/Dphi-VVMiumHigh.pdf, id=1964, 569.12625pt 
 x 462.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Dphi-VVMiumHigh.pdf Graphic file (typ
 e pdf)
@@ -1648,7 +1642,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 115--120
  []
 
 
-<EXO-12-024/figs/Data-MC-comparisons/etsumEt.pdf, id=1955, 569.12625pt x 415.55
+<EXO-12-024/figs/Data-MC-comparisons/etsumEt.pdf, id=1965, 569.12625pt x 415.55
 25pt>
 File: EXO-12-024/figs/Data-MC-comparisons/etsumEt.pdf Graphic file (type pdf)
  <use EXO-12-024/figs/Data-MC-comparisons/etsumEt.pdf>
@@ -1656,7 +1650,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/etsumEt.pdf used o
 n input line 129.
 (pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/etsumEtlog.pdf, id=1956, 569.12625pt x 415
+<EXO-12-024/figs/Data-MC-comparisons/etsumEtlog.pdf, id=1966, 569.12625pt x 415
 .5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/etsumEtlog.pdf Graphic file (type pdf
 )
@@ -1670,7 +1664,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 128--133
  []
 
 
-<EXO-12-024/figs/Data-MC-comparisons/Eta0-qVLowP.pdf, id=1957, 569.12625pt x 46
+<EXO-12-024/figs/Data-MC-comparisons/Eta0-qVLowP.pdf, id=1967, 569.12625pt x 46
 2.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Eta0-qVLowP.pdf Graphic file (type pd
 f)
@@ -1679,7 +1673,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Eta0-qVLowP.pdf us
 ed on input line 216.
 (pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/Eta0-qVMiumHigh.pdf, id=1958, 569.12625pt 
+<EXO-12-024/figs/Data-MC-comparisons/Eta0-qVMiumHigh.pdf, id=1968, 569.12625pt 
 x 462.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Eta0-qVMiumHigh.pdf Graphic file (typ
 e pdf)
@@ -1693,7 +1687,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 215--221
  []
 
 
-<EXO-12-024/figs/Data-MC-comparisons/Eta0-VVLowP.pdf, id=1959, 569.12625pt x 46
+<EXO-12-024/figs/Data-MC-comparisons/Eta0-VVLowP.pdf, id=1969, 569.12625pt x 46
 2.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Eta0-VVLowP.pdf Graphic file (type pd
 f)
@@ -1702,7 +1696,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Eta0-VVLowP.pdf us
 ed on input line 228.
 (pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/Eta0-VVMiumHigh.pdf, id=1960, 569.12625pt 
+<EXO-12-024/figs/Data-MC-comparisons/Eta0-VVMiumHigh.pdf, id=1970, 569.12625pt 
 x 462.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Eta0-VVMiumHigh.pdf Graphic file (typ
 e pdf)
@@ -1716,7 +1710,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 227--232
  []
 
 
-<EXO-12-024/figs/Data-MC-comparisons/Eta1-qVLowP.pdf, id=1961, 569.12625pt x 46
+<EXO-12-024/figs/Data-MC-comparisons/Eta1-qVLowP.pdf, id=1971, 569.12625pt x 46
 2.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Eta1-qVLowP.pdf Graphic file (type pd
 f)
@@ -1725,7 +1719,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Eta1-qVLowP.pdf us
 ed on input line 241.
 (pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/Eta1-qVMiumHigh.pdf, id=1962, 569.12625pt 
+<EXO-12-024/figs/Data-MC-comparisons/Eta1-qVMiumHigh.pdf, id=1972, 569.12625pt 
 x 462.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Eta1-qVMiumHigh.pdf Graphic file (typ
 e pdf)
@@ -1739,7 +1733,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 240--246
  []
 
 
-<EXO-12-024/figs/Data-MC-comparisons/Eta1-VVLowP.pdf, id=1963, 569.12625pt x 46
+<EXO-12-024/figs/Data-MC-comparisons/Eta1-VVLowP.pdf, id=1973, 569.12625pt x 46
 2.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Eta1-VVLowP.pdf Graphic file (type pd
 f)
@@ -1748,7 +1742,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/Eta1-VVLowP.pdf us
 ed on input line 253.
 (pdftex.def)             Requested size: 569.12486pt x 462.72762pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/Eta1-VVMiumHigh.pdf, id=1964, 569.12625pt 
+<EXO-12-024/figs/Data-MC-comparisons/Eta1-VVMiumHigh.pdf, id=1974, 569.12625pt 
 x 462.72874pt>
 File: EXO-12-024/figs/Data-MC-comparisons/Eta1-VVMiumHigh.pdf Graphic file (typ
 e pdf)
@@ -1763,7 +1757,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 252--257
 
 
 <EXO-12-024/figs/Data-MC-comparisons/lumi19fb_dataMC_ca8jet_norm_mlog.pdf, id=1
-965, 569.12625pt x 415.5525pt>
+975, 569.12625pt x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/lumi19fb_dataMC_ca8jet_norm_mlog.pdf 
 Graphic file (type pdf)
 
@@ -1772,7 +1766,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/lumi19fb_dataMC_ca
 8jet_norm_mlog.pdf used on input line 291.
 (pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/data-qcd-Jet-Tau21.pdf, id=1966, 569.12625
+<EXO-12-024/figs/Data-MC-comparisons/data-qcd-Jet-Tau21.pdf, id=1976, 569.12625
 pt x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/data-qcd-Jet-Tau21.pdf Graphic file (
 type pdf)
@@ -1787,7 +1781,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 290--296
  []
 
 
-<EXO-12-024/figs/Data-MC-comparisons/npv.pdf, id=1967, 569.12625pt x 415.5525pt
+<EXO-12-024/figs/Data-MC-comparisons/npv.pdf, id=1977, 569.12625pt x 415.5525pt
 >
 File: EXO-12-024/figs/Data-MC-comparisons/npv.pdf Graphic file (type pdf)
  <use EXO-12-024/figs/Data-MC-comparisons/npv.pdf>
@@ -1795,7 +1789,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/npv.pdf used on in
 put line 323.
 (pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/npvlog.pdf, id=1968, 569.12625pt x 415.552
+<EXO-12-024/figs/Data-MC-comparisons/npvlog.pdf, id=1978, 569.12625pt x 415.552
 5pt>
 File: EXO-12-024/figs/Data-MC-comparisons/npvlog.pdf Graphic file (type pdf)
  <use EXO-12-024/figs/Data-MC-comparisons/npvlog.pdf>
@@ -1808,7 +1802,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 322--328
  []
 
 
-<EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnergyFraction.pdf, id=1969, 
+<EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnergyFraction.pdf, id=1979, 
 569.12625pt x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnergyFraction.pdf Graph
 ic file (type pdf)
@@ -1818,7 +1812,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnerg
 yFraction.pdf used on input line 335.
 (pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnergyFractionlog.pdf, id=197
+<EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnergyFractionlog.pdf, id=198
 0, 569.12625pt x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnergyFractionlog.pdf Gr
 aphic file (type pdf)
@@ -1983,7 +1977,7 @@ d 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/npvlog.pdf, page is rotate
 d 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/neutralHadronEnergyFractio
 n.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/neutr
 alHadronEnergyFractionlog.pdf, page is rotated 90 degrees>]
-<EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFraction.pdf, id=3038, 569.
+<EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFraction.pdf, id=3047, 569.
 12625pt x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFraction.pdf Graphic f
 ile (type pdf)
@@ -1993,7 +1987,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFra
 ction.pdf used on input line 349.
 (pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFractionlog.pdf, id=3039, 5
+<EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFractionlog.pdf, id=3048, 5
 69.12625pt x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFractionlog.pdf Graphi
 c file (type pdf)
@@ -2008,7 +2002,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 348--353
  []
 
 
-<EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnergyFraction.pdf, id=3040, 
+<EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnergyFraction.pdf, id=3049, 
 569.12625pt x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnergyFraction.pdf Graph
 ic file (type pdf)
@@ -2018,8 +2012,8 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnerg
 yFraction.pdf used on input line 360.
 (pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnergyFractionlog.pdf, id=304
-1, 569.12625pt x 415.5525pt>
+<EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnergyFractionlog.pdf, id=305
+0, 569.12625pt x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/chargedHadronEnergyFractionlog.pdf Gr
 aphic file (type pdf)
 
@@ -2049,7 +2043,7 @@ l.368 \newpage
                <./EXO-12-024/figs/Data-MC-comparisons/neutralEmEnergyFraction.p
 df, page is rotated 90 degrees> <./EXO-12-024/figs/Data-MC-comparisons/neutralE
 mEnergyFractionlog.pdf, page is rotated 90 degrees>]
-<EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFraction.pdf, id=3132, 569.
+<EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFraction.pdf, id=3141, 569.
 12625pt x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFraction.pdf Graphic f
 ile (type pdf)
@@ -2059,7 +2053,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFra
 ction.pdf used on input line 374.
 (pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFractionlog.pdf, id=3133, 5
+<EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFractionlog.pdf, id=3142, 5
 69.12625pt x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFractionlog.pdf Graphi
 c file (type pdf)
@@ -2074,7 +2068,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 373--378
  []
 
 
-<EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicity.pdf, id=3134, 569.1262
+<EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicity.pdf, id=3143, 569.1262
 5pt x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicity.pdf Graphic file 
 (type pdf)
@@ -2084,7 +2078,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicit
 y.pdf used on input line 385.
 (pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicitylog.pdf, id=3135, 569.1
+<EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicitylog.pdf, id=3144, 569.1
 2625pt x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/chargedMultiplicitylog.pdf Graphic fi
 le (type pdf)
@@ -2122,7 +2116,7 @@ gedHadronEnergyFractionlog.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/
 Data-MC-comparisons/chargedEmEnergyFraction.pdf, page is rotated 90 degrees> <.
 /EXO-12-024/figs/Data-MC-comparisons/chargedEmEnergyFractionlog.pdf, page is ro
 tated 90 degrees>]
-<EXO-12-024/figs/Data-MC-comparisons/nConstituents.pdf, id=3313, 569.12625pt x 
+<EXO-12-024/figs/Data-MC-comparisons/nConstituents.pdf, id=3322, 569.12625pt x 
 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/nConstituents.pdf Graphic file (type 
 pdf)
@@ -2131,7 +2125,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/nConstituents.pdf
 used on input line 398.
 (pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/nConstituentslog.pdf, id=3314, 569.12625pt
+<EXO-12-024/figs/Data-MC-comparisons/nConstituentslog.pdf, id=3323, 569.12625pt
  x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/nConstituentslog.pdf Graphic file (ty
 pe pdf)
@@ -2145,7 +2139,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 397--402
  []
 
 
-<EXO-12-024/figs/Data-MC-comparisons/muonEnergyFraction.pdf, id=3315, 569.12625
+<EXO-12-024/figs/Data-MC-comparisons/muonEnergyFraction.pdf, id=3324, 569.12625
 pt x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/muonEnergyFraction.pdf Graphic file (
 type pdf)
@@ -2155,7 +2149,7 @@ Package pdftex.def Info: EXO-12-024/figs/Data-MC-comparisons/muonEnergyFraction
 .pdf used on input line 410.
 (pdftex.def)             Requested size: 569.12486pt x 415.55148pt.
 
-<EXO-12-024/figs/Data-MC-comparisons/muonEnergyFractionlog.pdf, id=3316, 569.12
+<EXO-12-024/figs/Data-MC-comparisons/muonEnergyFractionlog.pdf, id=3325, 569.12
 625pt x 415.5525pt>
 File: EXO-12-024/figs/Data-MC-comparisons/muonEnergyFractionlog.pdf Graphic fil
 e (type pdf)
@@ -2233,7 +2227,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 
 ]
-<EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass.pdf, id=3607, 569.12625
+<EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass.pdf, id=3616, 569.12625
 pt x 536.0025pt>
 File: EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass.pdf Graphic file (
 type pdf)
@@ -2243,7 +2237,7 @@ Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass
 .pdf used on input line 46.
 (pdftex.def)             Requested size: 212.47617pt x 200.10896pt.
 
-<EXO-12-024/figs/signal-acc-eff/signal-data-qcd-Jet-Tau21.pdf, id=3608, 569.126
+<EXO-12-024/figs/signal-acc-eff/signal-data-qcd-Jet-Tau21.pdf, id=3617, 569.126
 25pt x 536.0025pt>
 File: EXO-12-024/figs/signal-acc-eff/signal-data-qcd-Jet-Tau21.pdf Graphic file
  (type pdf)
@@ -2267,7 +2261,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 l.79 
       <./EXO-12-024/figs/signal-acc-eff/signal-data-qcd-jetmass.pdf> <./EXO-12-
 024/figs/signal-acc-eff/signal-data-qcd-Jet-Tau21.pdf>]
-<EXO-12-024/figs/signal-acc-eff/all-signal-acc-8TeV.pdf, id=3637, 569.12625pt x
+<EXO-12-024/figs/signal-acc-eff/all-signal-acc-8TeV.pdf, id=3646, 569.12625pt x
  559.08875pt>
 File: EXO-12-024/figs/signal-acc-eff/all-signal-acc-8TeV.pdf Graphic file (type
  pdf)
@@ -2276,7 +2270,7 @@ Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/all-signal-acc-8TeV.pdf
  used on input line 97.
 (pdftex.def)             Requested size: 260.17464pt x 255.59717pt.
 
-<EXO-12-024/figs/signal-acc-eff/single-tagging-eff-medium.pdf, id=3638, 569.126
+<EXO-12-024/figs/signal-acc-eff/single-tagging-eff-medium.pdf, id=3647, 569.126
 25pt x 558.085pt>
 File: EXO-12-024/figs/signal-acc-eff/single-tagging-eff-medium.pdf Graphic file
  (type pdf)
@@ -2286,7 +2280,7 @@ Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/single-tagging-eff-medi
 um.pdf used on input line 108.
 (pdftex.def)             Requested size: 212.47617pt x 208.35315pt.
 
-<EXO-12-024/figs/signal-acc-eff/single-tagging-eff.pdf, id=3639, 569.12625pt x 
+<EXO-12-024/figs/signal-acc-eff/single-tagging-eff.pdf, id=3648, 569.12625pt x 
 558.085pt>
 File: EXO-12-024/figs/signal-acc-eff/single-tagging-eff.pdf Graphic file (type 
 pdf)
@@ -2295,7 +2289,7 @@ Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/single-tagging-eff.pdf
 used on input line 109.
 (pdftex.def)             Requested size: 212.47617pt x 208.35315pt.
 
-<EXO-12-024/figs/signal-acc-eff/double-tagging-eff-medium.pdf, id=3640, 569.126
+<EXO-12-024/figs/signal-acc-eff/double-tagging-eff-medium.pdf, id=3649, 569.126
 25pt x 558.085pt>
 File: EXO-12-024/figs/signal-acc-eff/double-tagging-eff-medium.pdf Graphic file
  (type pdf)
@@ -2305,7 +2299,7 @@ Package pdftex.def Info: EXO-12-024/figs/signal-acc-eff/double-tagging-eff-medi
 um.pdf used on input line 110.
 (pdftex.def)             Requested size: 212.47617pt x 208.35315pt.
 
-<EXO-12-024/figs/signal-acc-eff/double-tagging-eff.pdf, id=3641, 569.12625pt x 
+<EXO-12-024/figs/signal-acc-eff/double-tagging-eff.pdf, id=3650, 569.12625pt x 
 558.085pt>
 File: EXO-12-024/figs/signal-acc-eff/double-tagging-eff.pdf Graphic file (type 
 pdf)
@@ -2327,7 +2321,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
                                                   \fi \fi 
 l.137 
        <./EXO-12-024/figs/signal-acc-eff/all-signal-acc-8TeV.pdf>]
-<EXO-12-024/figs/signal-acc-eff/resonance-shape.pdf, id=3659, 569.12625pt x 536
+<EXO-12-024/figs/signal-acc-eff/resonance-shape.pdf, id=3668, 569.12625pt x 536
 .0025pt>
 File: EXO-12-024/figs/signal-acc-eff/resonance-shape.pdf Graphic file (type pdf
 )
@@ -2380,14 +2374,14 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 
 ]
-<EXO-12-024/figs/MediumPuriqVFitAndPull.pdf, id=3726, 569.12625pt x 548.0475pt>
+<EXO-12-024/figs/MediumPuriqVFitAndPull.pdf, id=3736, 569.12625pt x 548.0475pt>
 File: EXO-12-024/figs/MediumPuriqVFitAndPull.pdf Graphic file (type pdf)
 <use EXO-12-024/figs/MediumPuriqVFitAndPull.pdf>
 Package pdftex.def Info: EXO-12-024/figs/MediumPuriqVFitAndPull.pdf used on inp
 ut line 42.
 (pdftex.def)             Requested size: 212.47617pt x 204.60579pt.
 
-<EXO-12-024/figs/HighPuriqVFitAndPull.pdf, id=3727, 569.12625pt x 548.0475pt>
+<EXO-12-024/figs/HighPuriqVFitAndPull.pdf, id=3737, 569.12625pt x 548.0475pt>
 File: EXO-12-024/figs/HighPuriqVFitAndPull.pdf Graphic file (type pdf)
 
 <use EXO-12-024/figs/HighPuriqVFitAndPull.pdf>
@@ -2395,14 +2389,14 @@ Package pdftex.def Info: EXO-12-024/figs/HighPuriqVFitAndPull.pdf used on input
  line 43.
 (pdftex.def)             Requested size: 212.47617pt x 204.60579pt.
 
-<EXO-12-024/figs/MediumPuriVVFitAndPull.pdf, id=3728, 569.12625pt x 548.0475pt>
+<EXO-12-024/figs/MediumPuriVVFitAndPull.pdf, id=3738, 569.12625pt x 548.0475pt>
 File: EXO-12-024/figs/MediumPuriVVFitAndPull.pdf Graphic file (type pdf)
 <use EXO-12-024/figs/MediumPuriVVFitAndPull.pdf>
 Package pdftex.def Info: EXO-12-024/figs/MediumPuriVVFitAndPull.pdf used on inp
 ut line 44.
 (pdftex.def)             Requested size: 212.47617pt x 204.60579pt.
 
-<EXO-12-024/figs/HighPuriVVFitAndPull.pdf, id=3729, 569.12625pt x 548.0475pt>
+<EXO-12-024/figs/HighPuriVVFitAndPull.pdf, id=3739, 569.12625pt x 548.0475pt>
 File: EXO-12-024/figs/HighPuriVVFitAndPull.pdf Graphic file (type pdf)
 
 <use EXO-12-024/figs/HighPuriVVFitAndPull.pdf>
@@ -2480,7 +2474,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 \openout2 = `EXO-12-024/results.aux'.
 
  (./EXO-12-024/results.tex
-<EXO-12-024/figs/limits/brazilianFlag_qW_combined.pdf, id=3823, 569.12625pt x 5
+<EXO-12-024/figs/limits/brazilianFlag_qW_combined.pdf, id=3833, 569.12625pt x 5
 46.04pt>
 File: EXO-12-024/figs/limits/brazilianFlag_qW_combined.pdf Graphic file (type p
 df)
@@ -2489,7 +2483,7 @@ Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_qW_combined.pdf u
 sed on input line 35.
 (pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
 
-<EXO-12-024/figs/limits/brazilianFlag_qZ_combined.pdf, id=3824, 569.12625pt x 5
+<EXO-12-024/figs/limits/brazilianFlag_qZ_combined.pdf, id=3834, 569.12625pt x 5
 46.04pt>
 File: EXO-12-024/figs/limits/brazilianFlag_qZ_combined.pdf Graphic file (type p
 df)
@@ -2498,7 +2492,7 @@ Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_qZ_combined.pdf u
 sed on input line 36.
 (pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
 
-<EXO-12-024/figs/limits/brazilianFlag_WZ_combined.pdf, id=3825, 569.12625pt x 5
+<EXO-12-024/figs/limits/brazilianFlag_WZ_combined.pdf, id=3835, 569.12625pt x 5
 46.04pt>
 File: EXO-12-024/figs/limits/brazilianFlag_WZ_combined.pdf Graphic file (type p
 df)
@@ -2507,7 +2501,7 @@ Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_WZ_combined.pdf u
 sed on input line 37.
 (pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
 
-<EXO-12-024/figs/limits/brazilianFlag_RS1WW_combined.pdf, id=3826, 569.12625pt 
+<EXO-12-024/figs/limits/brazilianFlag_RS1WW_combined.pdf, id=3836, 569.12625pt 
 x 546.04pt>
 File: EXO-12-024/figs/limits/brazilianFlag_RS1WW_combined.pdf Graphic file (typ
 e pdf)
@@ -2516,7 +2510,7 @@ Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_RS1WW_combined.pd
 f used on input line 49.
 (pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
 
-<EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_combined.pdf, id=3827, 569.12625pt 
+<EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_combined.pdf, id=3837, 569.12625pt 
 x 546.04pt>
 File: EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_combined.pdf Graphic file (typ
 e pdf)
@@ -2525,7 +2519,7 @@ Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_RS1ZZ_combined.pd
 f used on input line 50.
 (pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
 
-<EXO-12-024/figs/limits/brazilianFlag_BulkWW_combined.pdf, id=3828, 569.12625pt
+<EXO-12-024/figs/limits/brazilianFlag_BulkWW_combined.pdf, id=3838, 569.12625pt
  x 546.04pt>
 File: EXO-12-024/figs/limits/brazilianFlag_BulkWW_combined.pdf Graphic file (ty
 pe pdf)
@@ -2534,7 +2528,7 @@ Package pdftex.def Info: EXO-12-024/figs/limits/brazilianFlag_BulkWW_combined.p
 df used on input line 51.
 (pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
 
-<EXO-12-024/figs/limits/brazilianFlag_BulkZZ_combined.pdf, id=3829, 569.12625pt
+<EXO-12-024/figs/limits/brazilianFlag_BulkZZ_combined.pdf, id=3839, 569.12625pt
  x 546.04pt>
 File: EXO-12-024/figs/limits/brazilianFlag_BulkZZ_combined.pdf Graphic file (ty
 pe pdf)
@@ -2703,7 +2697,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.195 \include{EXO-14-009/data_and_mc_samples}
+l.197 \include{EXO-14-009/data_and_mc_samples}
                                               ]
 \openout2 = `EXO-14-009/analysis.aux'.
 
@@ -2731,7 +2725,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 
 ]
-<EXO-14-009/HbbZqqfigs/Signal/signal-data-qcd-jetmass.pdf, id=4276, 569.12625pt
+<EXO-14-009/HbbZqqfigs/Signal/signal-data-qcd-jetmass.pdf, id=4285, 569.12625pt
  x 555.07375pt>
 File: EXO-14-009/HbbZqqfigs/Signal/signal-data-qcd-jetmass.pdf Graphic file (ty
 pe pdf)
@@ -2804,7 +2798,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [108]
-<EXO-14-009/HqqqqZqqfigs/N-subjettiness/Nsubjets.pdf, id=4344, 569.12625pt x 55
+<EXO-14-009/HqqqqZqqfigs/N-subjettiness/Nsubjets.pdf, id=4353, 569.12625pt x 55
 6.0775pt>
 File: EXO-14-009/HqqqqZqqfigs/N-subjettiness/Nsubjets.pdf Graphic file (type pd
 f)
@@ -2813,7 +2807,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/N-subjettiness/Nsubjets.pdf us
 ed on input line 173.
 (pdftex.def)             Requested size: 569.12486pt x 556.07614pt.
 
-<EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVPre.pdf, id=4347, 569.12625pt 
+<EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVPre.pdf, id=4356, 569.12625pt 
 x 556.0775pt>
 File: EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVPre.pdf Graphic file (typ
 e pdf)
@@ -2822,7 +2816,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVPre.pd
 f used on input line 195.
 (pdftex.def)             Requested size: 569.12486pt x 556.07614pt.
 
-<EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVAfter.pdf, id=4348, 569.12625p
+<EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVAfter.pdf, id=4357, 569.12625p
 t x 556.0775pt>
 File: EXO-14-009/HqqqqZqqfigs/N-subjettiness/Tau421TeVAfter.pdf Graphic file (t
 ype pdf)
@@ -2837,7 +2831,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 194--206
  []
 
 
-<EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllPre.pdf, id=4349, 569.12625
+<EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllPre.pdf, id=4358, 569.12625
 pt x 556.0775pt>
 File: EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllPre.pdf Graphic file (
 type pdf)
@@ -2847,7 +2841,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllPre
 .pdf used on input line 213.
 (pdftex.def)             Requested size: 569.12486pt x 556.07614pt.
 
-<EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllAfter.pdf, id=4350, 569.126
+<EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllAfter.pdf, id=4359, 569.126
 25pt x 556.0775pt>
 File: EXO-14-009/HqqqqZqqfigs/N-subjettiness/tau42PlotAllAfter.pdf Graphic file
  (type pdf)
@@ -2861,7 +2855,7 @@ Overfull \hbox (23.99728pt too wide) in paragraph at lines 212--227
  [][] 
  []
 
-<EXO-14-009/ROC.pdf, id=4353, 569.12625pt x 556.0775pt>
+<EXO-14-009/ROC.pdf, id=4362, 569.12625pt x 556.0775pt>
 File: EXO-14-009/ROC.pdf Graphic file (type pdf)
 
 <use EXO-14-009/ROC.pdf>
@@ -2981,7 +2975,7 @@ l.382 \clearpage
 \openout2 = `EXO-14-009/trigger.aux'.
 
  (./EXO-14-009/trigger.tex
-<EXO-14-009/figs/trigger-eff/TriggerStudySignal.pdf, id=4653, 569.12625pt x 555
+<EXO-14-009/figs/trigger-eff/TriggerStudySignal.pdf, id=4663, 569.12625pt x 555
 .07375pt>
 File: EXO-14-009/figs/trigger-eff/TriggerStudySignal.pdf Graphic file (type pdf
 )
@@ -2990,7 +2984,7 @@ Package pdftex.def Info: EXO-14-009/figs/trigger-eff/TriggerStudySignal.pdf use
 d on input line 39.
 (pdftex.def)             Requested size: 569.12486pt x 555.07237pt.
 
-<EXO-14-009/figs/trigger-eff/Dataeff_withouttagging.pdf, id=4654, 569.12625pt x
+<EXO-14-009/figs/trigger-eff/Dataeff_withouttagging.pdf, id=4664, 569.12625pt x
  442.65375pt>
 File: EXO-14-009/figs/trigger-eff/Dataeff_withouttagging.pdf Graphic file (type
  pdf)
@@ -3011,7 +3005,7 @@ by lower
  []
 
 
-<EXO-14-009/figs/trigger-eff/DijetMassHbbPlotHighPurityBinned.pdf, id=4655, 569
+<EXO-14-009/figs/trigger-eff/DijetMassHbbPlotHighPurityBinned.pdf, id=4665, 569
 .12625pt x 556.0775pt>
 File: EXO-14-009/figs/trigger-eff/DijetMassHbbPlotHighPurityBinned.pdf Graphic 
 file (type pdf)
@@ -3033,7 +3027,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--54
  []
 
 
-<EXO-14-009/figs/trigger-eff/DijetMassPlotBinnedHighP.pdf, id=4656, 569.12625pt
+<EXO-14-009/figs/trigger-eff/DijetMassPlotBinnedHighP.pdf, id=4666, 569.12625pt
  x 556.0775pt>
 File: EXO-14-009/figs/trigger-eff/DijetMassPlotBinnedHighP.pdf Graphic file (ty
 pe pdf)
@@ -3123,7 +3117,7 @@ ge is rotated 90 degrees>])
 \openout2 = `EXO-14-009/signal.aux'.
 
  (./EXO-14-009/signal.tex
-<EXO-14-009/HqqqqZqqfigs/cross-talk/cross-talk.pdf, id=4853, 569.12625pt x 555.
+<EXO-14-009/HqqqqZqqfigs/cross-talk/cross-talk.pdf, id=4862, 569.12625pt x 555.
 07375pt>
 File: EXO-14-009/HqqqqZqqfigs/cross-talk/cross-talk.pdf Graphic file (type pdf)
 
@@ -3211,7 +3205,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [127]
-<EXO-14-009/figs/HbbHwwV-signal-acc-8TeV.pdf, id=4939, 569.12625pt x 555.07375p
+<EXO-14-009/figs/HbbHwwV-signal-acc-8TeV.pdf, id=4949, 569.12625pt x 555.07375p
 t>
 File: EXO-14-009/figs/HbbHwwV-signal-acc-8TeV.pdf Graphic file (type pdf)
  <use EXO-14-009/figs/HbbHwwV-signal-acc-8TeV.pdf>
@@ -3219,7 +3213,7 @@ Package pdftex.def Info: EXO-14-009/figs/HbbHwwV-signal-acc-8TeV.pdf used on in
 put line 337.
 (pdftex.def)             Requested size: 299.19885pt x 291.82462pt.
 
-<EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-8TeV.pdf, id=4940, 569.1
+<EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-8TeV.pdf, id=4950, 569.1
 2625pt x 556.0775pt>
 File: EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-8TeV.pdf Graphic fi
 le (type pdf)
@@ -3229,7 +3223,7 @@ Package pdftex.def Info: EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-
 8TeV.pdf used on input line 351.
 (pdftex.def)             Requested size: 212.47617pt x 207.60367pt.
 
-<EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-LowV-8TeV.pdf, id=4941, 
+<EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-LowV-8TeV.pdf, id=4951, 
 569.12625pt x 556.0775pt>
 File: EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-LowV-8TeV.pdf Graph
 ic file (type pdf)
@@ -3239,7 +3233,7 @@ Package pdftex.def Info: EXO-14-009/HbbZqqfigs/Signal/HbbVqq-signal-taggingEff-
 LowV-8TeV.pdf used on input line 352.
 (pdftex.def)             Requested size: 212.47617pt x 207.60367pt.
 
-<EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-8TeV.pdf, id=4942, 569
+<EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-8TeV.pdf, id=4952, 569
 .12625pt x 556.0775pt>
 File: EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-8TeV.pdf Graphic 
 file (type pdf)
@@ -3249,7 +3243,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEf
 f-8TeV.pdf used on input line 365.
 (pdftex.def)             Requested size: 221.14381pt x 216.07175pt.
 
-<EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowH-8TeV.pdf, id=4943
+<EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowH-8TeV.pdf, id=4953
 , 569.12625pt x 556.0775pt>
 File: EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowH-8TeV.pdf Gra
 phic file (type pdf)
@@ -3259,7 +3253,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEf
 f-LowH-8TeV.pdf used on input line 366.
 (pdftex.def)             Requested size: 212.47617pt x 207.60367pt.
 
-<EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowV-8TeV.pdf, id=4944
+<EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowV-8TeV.pdf, id=4954
 , 569.12625pt x 556.0775pt>
 File: EXO-14-009/HqqqqZqqfigs/Signal/HwwVqq-signal-taggingEff-LowV-8TeV.pdf Gra
 phic file (type pdf)
@@ -3329,7 +3323,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 
 ]
-<EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullHighP.pdf, id=5229, 569.12625pt x 5
+<EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullHighP.pdf, id=5238, 569.12625pt x 5
 46.04pt>
 File: EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullHighP.pdf Graphic file (type p
 df)
@@ -3338,7 +3332,7 @@ Package pdftex.def Info: EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullHighP.pdf u
 sed on input line 90.
 (pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
 
-<EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullLowP.pdf, id=5230, 569.12625pt x 54
+<EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullLowP.pdf, id=5239, 569.12625pt x 54
 6.04pt>
 File: EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullLowP.pdf Graphic file (type pd
 f)
@@ -3347,7 +3341,7 @@ Package pdftex.def Info: EXO-14-009/HbbZqqfigs/FITS/HbbVqqFitAndPullLowP.pdf us
 ed on input line 91.
 (pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
 
-<EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullHighP.pdf, id=5233, 569.12625pt x
+<EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullHighP.pdf, id=5242, 569.12625pt x
  546.04pt>
 File: EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullHighP.pdf Graphic file (type
  pdf)
@@ -3356,7 +3350,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullHighP.pdf
  used on input line 116.
 (pdftex.def)             Requested size: 221.14381pt x 212.17154pt.
 
-<EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowH.pdf, id=5234, 569.12625pt x 
+<EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowH.pdf, id=5243, 569.12625pt x 
 546.04pt>
 File: EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowH.pdf Graphic file (type 
 pdf)
@@ -3365,7 +3359,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowH.pdf
 used on input line 117.
 (pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
 
-<EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowV.pdf, id=5235, 569.12625pt x 
+<EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowV.pdf, id=5244, 569.12625pt x 
 546.04pt>
 File: EXO-14-009/HqqqqZqqfigs/FITS/HwwVqqFitAndPullLowV.pdf Graphic file (type 
 pdf)
@@ -3461,7 +3455,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.205 \include{EXO-14-009/systematicsCombine}
+l.207 \include{EXO-14-009/systematicsCombine}
                                              ]
 
 Package Fancyhdr Warning: \headheight is too small (15.0pt): 
@@ -3474,7 +3468,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.205 \include{EXO-14-009/systematicsCombine}
+l.207 \include{EXO-14-009/systematicsCombine}
                                              ]
 \openout2 = `EXO-14-009/results.aux'.
 
@@ -3489,7 +3483,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 
 ]
-<EXO-14-009/figs/brazilianFlag_HZqq.pdf, id=5524, 569.12625pt x 546.04pt>
+<EXO-14-009/figs/brazilianFlag_HZqq.pdf, id=5534, 569.12625pt x 546.04pt>
 File: EXO-14-009/figs/brazilianFlag_HZqq.pdf Graphic file (type pdf)
 
 <use EXO-14-009/figs/brazilianFlag_HZqq.pdf>
@@ -3497,7 +3491,7 @@ Package pdftex.def Info: EXO-14-009/figs/brazilianFlag_HZqq.pdf used on input l
 ine 69.
 (pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
 
-<EXO-14-009/figs/brazilianFlag_HWqq.pdf, id=5525, 569.12625pt x 546.04pt>
+<EXO-14-009/figs/brazilianFlag_HWqq.pdf, id=5535, 569.12625pt x 546.04pt>
 File: EXO-14-009/figs/brazilianFlag_HWqq.pdf Graphic file (type pdf)
 
 <use EXO-14-009/figs/brazilianFlag_HWqq.pdf>
@@ -3505,7 +3499,7 @@ Package pdftex.def Info: EXO-14-009/figs/brazilianFlag_HWqq.pdf used on input l
 ine 70.
 (pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
 
-<EXO-14-009/figs/brazilianFlag_HV.pdf, id=5526, 569.12625pt x 546.04pt>
+<EXO-14-009/figs/brazilianFlag_HV.pdf, id=5536, 569.12625pt x 546.04pt>
 File: EXO-14-009/figs/brazilianFlag_HV.pdf Graphic file (type pdf)
 
 <use EXO-14-009/figs/brazilianFlag_HV.pdf>
@@ -3524,13 +3518,13 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.211 \include{EXO-14-009/results}
+l.213 \include{EXO-14-009/results}
                                   pdfTeX warning (ext4): destination with the s
 ame identifier (name{figure.4.16}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.211 \include{EXO-14-009/results}
+l.213 \include{EXO-14-009/results}
                                    <./EXO-14-009/figs/brazilianFlag_HZqq.pdf, p
 age is rotated 90 degrees> <./EXO-14-009/figs/brazilianFlag_HWqq.pdf, page is r
 otated 90 degrees>]
@@ -3545,7 +3539,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.211 \include{EXO-14-009/results}
+l.213 \include{EXO-14-009/results}
                                    <./EXO-14-009/figs/brazilianFlag_HV.pdf, pag
 e is rotated 90 degrees>]
 \openout2 = `conclusions.aux'.
@@ -3582,7 +3576,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 61.
 
-[145] <figures/atlas.png, id=5679, 1027.84pt x 770.88pt>
+[145] <figures/atlas.png, id=5689, 1027.84pt x 770.88pt>
 File: figures/atlas.png Graphic file (type png)
 
 <use figures/atlas.png>
@@ -3605,7 +3599,7 @@ Appendix A.
 
 
 ] [150] [151] [152]
-<EXO-12-024/figs/sig-high/Wprime2000-sig-shape.pdf, id=5713, 569.12625pt x 344.
+<EXO-12-024/figs/sig-high/Wprime2000-sig-shape.pdf, id=5722, 569.12625pt x 344.
 28625pt>
 File: EXO-12-024/figs/sig-high/Wprime2000-sig-shape.pdf Graphic file (type pdf)
 
@@ -3614,7 +3608,7 @@ Package pdftex.def Info: EXO-12-024/figs/sig-high/Wprime2000-sig-shape.pdf used
  on input line 119.
 (pdftex.def)             Requested size: 208.13574pt x 125.90771pt.
 
-<EXO-12-024/figs/sig-high/Wprime3000-sig-shape.pdf, id=5714, 569.12625pt x 344.
+<EXO-12-024/figs/sig-high/Wprime3000-sig-shape.pdf, id=5723, 569.12625pt x 344.
 28625pt>
 File: EXO-12-024/figs/sig-high/Wprime3000-sig-shape.pdf Graphic file (type pdf)
 
@@ -3623,7 +3617,7 @@ Package pdftex.def Info: EXO-12-024/figs/sig-high/Wprime3000-sig-shape.pdf used
  on input line 120.
 (pdftex.def)             Requested size: 208.13574pt x 125.90771pt.
 
-<EXO-12-024/figs/sig-high/Wprime4000-sig-shape-pre.pdf, id=5715, 569.12625pt x 
+<EXO-12-024/figs/sig-high/Wprime4000-sig-shape-pre.pdf, id=5724, 569.12625pt x 
 344.28625pt>
 File: EXO-12-024/figs/sig-high/Wprime4000-sig-shape-pre.pdf Graphic file (type 
 pdf)
@@ -3632,7 +3626,7 @@ Package pdftex.def Info: EXO-12-024/figs/sig-high/Wprime4000-sig-shape-pre.pdf
 used on input line 121.
 (pdftex.def)             Requested size: 208.13574pt x 125.90771pt.
 
-<EXO-12-024/figs/sig-high/RSGWWHerwig4000pre.pdf, id=5716, 569.12625pt x 344.28
+<EXO-12-024/figs/sig-high/RSGWWHerwig4000pre.pdf, id=5725, 569.12625pt x 344.28
 625pt>
 File: EXO-12-024/figs/sig-high/RSGWWHerwig4000pre.pdf Graphic file (type pdf)
  <use EXO-12-024/figs/sig-high/RSGWWHerwig4000pre.pdf>
@@ -3688,7 +3682,7 @@ e.png used on input line 169.
 LaTeX Warning: Float too large for page by 2.78575pt on input line 176.
 
 
-<EXO-12-024/figs/event-display/highdoublemass/rho-phi-black.png, id=5893, 906.3
+<EXO-12-024/figs/event-display/highdoublemass/rho-phi-black.png, id=5902, 906.3
 8625pt x 913.4125pt>
 File: EXO-12-024/figs/event-display/highdoublemass/rho-phi-black.png Graphic fi
 le (type png)
@@ -3698,7 +3692,7 @@ Package pdftex.def Info: EXO-12-024/figs/event-display/highdoublemass/rho-phi-b
 lack.png used on input line 180.
 (pdftex.def)             Requested size: 260.17464pt x 262.1929pt.
 
-<EXO-12-024/figs/event-display/highdoublemass/rho-z-black.png, id=5894, 906.386
+<EXO-12-024/figs/event-display/highdoublemass/rho-z-black.png, id=5903, 906.386
 25pt x 913.4125pt>
 File: EXO-12-024/figs/event-display/highdoublemass/rho-z-black.png Graphic file
  (type png)
@@ -3712,7 +3706,7 @@ ck.png used on input line 181.
 LaTeX Warning: Float too large for page by 2.78575pt on input line 188.
 
 
-<EXO-12-024/figs/event-display/highdoublemass/tower-black.png, id=5895, 906.386
+<EXO-12-024/figs/event-display/highdoublemass/tower-black.png, id=5904, 906.386
 25pt x 913.4125pt>
 File: EXO-12-024/figs/event-display/highdoublemass/tower-black.png Graphic file
  (type png)
@@ -3722,7 +3716,7 @@ Package pdftex.def Info: EXO-12-024/figs/event-display/highdoublemass/tower-bla
 ck.png used on input line 192.
 (pdftex.def)             Requested size: 260.17464pt x 262.1929pt.
 
-<EXO-12-024/figs/event-display/highdoublemass/lego-black.png, id=5896, 906.3862
+<EXO-12-024/figs/event-display/highdoublemass/lego-black.png, id=5905, 906.3862
 5pt x 913.4125pt>
 File: EXO-12-024/figs/event-display/highdoublemass/lego-black.png Graphic file 
 (type png)
@@ -3736,7 +3730,7 @@ k.png used on input line 193.
 LaTeX Warning: Float too large for page by 2.78575pt on input line 200.
 
 
-<EXO-12-024/figs/event-display/prehighest/rho-phi-white.png, id=5897, 906.38625
+<EXO-12-024/figs/event-display/prehighest/rho-phi-white.png, id=5906, 906.38625
 pt x 913.4125pt>
 File: EXO-12-024/figs/event-display/prehighest/rho-phi-white.png Graphic file (
 type png)
@@ -3746,7 +3740,7 @@ Package pdftex.def Info: EXO-12-024/figs/event-display/prehighest/rho-phi-white
 .png used on input line 204.
 (pdftex.def)             Requested size: 260.17464pt x 262.1929pt.
 
-<EXO-12-024/figs/event-display/prehighest/rho-z-white.png, id=5898, 906.38625pt
+<EXO-12-024/figs/event-display/prehighest/rho-z-white.png, id=5907, 906.38625pt
  x 913.4125pt>
 File: EXO-12-024/figs/event-display/prehighest/rho-z-white.png Graphic file (ty
 pe png)
@@ -3755,7 +3749,7 @@ Package pdftex.def Info: EXO-12-024/figs/event-display/prehighest/rho-z-white.p
 ng used on input line 205.
 (pdftex.def)             Requested size: 260.17464pt x 262.1929pt.
 
-<EXO-12-024/figs/event-display/prehighest/tower-white.png, id=5899, 906.38625pt
+<EXO-12-024/figs/event-display/prehighest/tower-white.png, id=5908, 906.38625pt
  x 913.4125pt>
 File: EXO-12-024/figs/event-display/prehighest/tower-white.png Graphic file (ty
 pe png)
@@ -3764,7 +3758,7 @@ Package pdftex.def Info: EXO-12-024/figs/event-display/prehighest/tower-white.p
 ng used on input line 215.
 (pdftex.def)             Requested size: 260.17464pt x 262.1929pt.
 
-<EXO-12-024/figs/event-display/prehighest/lego-white.png, id=5900, 906.38625pt 
+<EXO-12-024/figs/event-display/prehighest/lego-white.png, id=5909, 906.38625pt 
 x 913.4125pt>
 File: EXO-12-024/figs/event-display/prehighest/lego-white.png Graphic file (typ
 e png)
@@ -3773,7 +3767,7 @@ Package pdftex.def Info: EXO-12-024/figs/event-display/prehighest/lego-white.pn
 g used on input line 216.
 (pdftex.def)             Requested size: 260.17464pt x 262.1929pt.
 
-<EXO-12-024/figs/event-display/prehighest/rho-phi-black.png, id=5901, 906.38625
+<EXO-12-024/figs/event-display/prehighest/rho-phi-black.png, id=5910, 906.38625
 pt x 913.4125pt>
 File: EXO-12-024/figs/event-display/prehighest/rho-phi-black.png Graphic file (
 type png)
@@ -3783,7 +3777,7 @@ Package pdftex.def Info: EXO-12-024/figs/event-display/prehighest/rho-phi-black
 .png used on input line 226.
 (pdftex.def)             Requested size: 260.17464pt x 262.1929pt.
 
-<EXO-12-024/figs/event-display/prehighest/rho-z-black.png, id=5902, 906.38625pt
+<EXO-12-024/figs/event-display/prehighest/rho-z-black.png, id=5911, 906.38625pt
  x 913.4125pt>
 File: EXO-12-024/figs/event-display/prehighest/rho-z-black.png Graphic file (ty
 pe png)
@@ -3792,7 +3786,7 @@ Package pdftex.def Info: EXO-12-024/figs/event-display/prehighest/rho-z-black.p
 ng used on input line 227.
 (pdftex.def)             Requested size: 260.17464pt x 262.1929pt.
 
-<EXO-12-024/figs/event-display/prehighest/tower-black.png, id=5903, 906.38625pt
+<EXO-12-024/figs/event-display/prehighest/tower-black.png, id=5912, 906.38625pt
  x 913.4125pt>
 File: EXO-12-024/figs/event-display/prehighest/tower-black.png Graphic file (ty
 pe png)
@@ -3801,7 +3795,7 @@ Package pdftex.def Info: EXO-12-024/figs/event-display/prehighest/tower-black.p
 ng used on input line 237.
 (pdftex.def)             Requested size: 260.17464pt x 262.1929pt.
 
-<EXO-12-024/figs/event-display/prehighest/lego-black.png, id=5904, 906.38625pt 
+<EXO-12-024/figs/event-display/prehighest/lego-black.png, id=5913, 906.38625pt 
 x 913.4125pt>
 File: EXO-12-024/figs/event-display/prehighest/lego-black.png Graphic file (typ
 e png)
@@ -3872,7 +3866,7 @@ eady used, duplicate ignored
 l.246 \clearpage
                  <./EXO-12-024/figs/event-display/prehighest/tower-black.png> <
 ./EXO-12-024/figs/event-display/prehighest/lego-black.png>]
-<EXO-12-024/figs/appendix/RSGWWherwig_2Tag_limit_obsexp.pdf, id=5943, 569.12625
+<EXO-12-024/figs/appendix/RSGWWherwig_2Tag_limit_obsexp.pdf, id=5952, 569.12625
 pt x 462.72874pt>
 File: EXO-12-024/figs/appendix/RSGWWherwig_2Tag_limit_obsexp.pdf Graphic file (
 type pdf)
@@ -3882,7 +3876,7 @@ Package pdftex.def Info: EXO-12-024/figs/appendix/RSGWWherwig_2Tag_limit_obsexp
 .pdf used on input line 422.
 (pdftex.def)             Requested size: 225.48424pt x 183.33011pt.
 
-<EXO-12-024/figs/appendix/brazilianFlag_acc_WW_m2mg2.pdf, id=5944, 569.12625pt 
+<EXO-12-024/figs/appendix/brazilianFlag_acc_WW_m2mg2.pdf, id=5953, 569.12625pt 
 x 546.04pt>
 File: EXO-12-024/figs/appendix/brazilianFlag_acc_WW_m2mg2.pdf Graphic file (typ
 e pdf)
@@ -3899,7 +3893,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.A.10})
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.217 \include{EXO-12-024/appendix}
+l.219 \include{EXO-12-024/appendix}
                                     <./EXO-12-024/figs/appendix/RSGWWherwig_2Ta
 g_limit_obsexp.pdf, page is rotated 90 degrees> <./EXO-12-024/figs/appendix/bra
 zilianFlag_acc_WW_m2mg2.pdf, page is rotated 90 degrees>]
@@ -3927,7 +3921,7 @@ l.47 \clearpage
 \openout2 = `EXO-14-009/tau42SF.aux'.
 
  (./EXO-14-009/tau42SF.tex
-<EXO-14-009/figs/SFExtra/SFSameJetRatioPlot.pdf, id=6054, 569.12625pt x 556.077
+<EXO-14-009/figs/SFExtra/SFSameJetRatioPlot.pdf, id=6063, 569.12625pt x 556.077
 5pt>
 File: EXO-14-009/figs/SFExtra/SFSameJetRatioPlot.pdf Graphic file (type pdf)
  <use EXO-14-009/figs/SFExtra/SFSameJetRatioPlot.pdf>
@@ -3935,7 +3929,7 @@ Package pdftex.def Info: EXO-14-009/figs/SFExtra/SFSameJetRatioPlot.pdf used on
  input line 40.
 (pdftex.def)             Requested size: 212.47617pt x 207.60367pt.
 
-<EXO-14-009/figs/SFExtra/SFRatioRatioPlot.pdf, id=6055, 569.12625pt x 556.0775p
+<EXO-14-009/figs/SFExtra/SFRatioRatioPlot.pdf, id=6064, 569.12625pt x 556.0775p
 t>
 File: EXO-14-009/figs/SFExtra/SFRatioRatioPlot.pdf Graphic file (type pdf)
  <use EXO-14-009/figs/SFExtra/SFRatioRatioPlot.pdf>
@@ -3943,7 +3937,7 @@ Package pdftex.def Info: EXO-14-009/figs/SFExtra/SFRatioRatioPlot.pdf used on i
 nput line 41.
 (pdftex.def)             Requested size: 212.47617pt x 207.60367pt.
 
-<EXO-14-009/figs/SFExtra/SFSameJetRatioPlot55H.pdf, id=6056, 569.12625pt x 556.
+<EXO-14-009/figs/SFExtra/SFSameJetRatioPlot55H.pdf, id=6065, 569.12625pt x 556.
 0775pt>
 File: EXO-14-009/figs/SFExtra/SFSameJetRatioPlot55H.pdf Graphic file (type pdf)
 
@@ -3952,7 +3946,7 @@ Package pdftex.def Info: EXO-14-009/figs/SFExtra/SFSameJetRatioPlot55H.pdf used
  on input line 55.
 (pdftex.def)             Requested size: 212.47617pt x 207.60367pt.
 
-<EXO-14-009/figs/SFExtra/SFRatioRatioPlot55H.pdf, id=6057, 569.12625pt x 556.07
+<EXO-14-009/figs/SFExtra/SFRatioRatioPlot55H.pdf, id=6066, 569.12625pt x 556.07
 75pt>
 File: EXO-14-009/figs/SFExtra/SFRatioRatioPlot55H.pdf Graphic file (type pdf)
  <use EXO-14-009/figs/SFExtra/SFRatioRatioPlot55H.pdf>
@@ -3960,7 +3954,7 @@ Package pdftex.def Info: EXO-14-009/figs/SFExtra/SFRatioRatioPlot55H.pdf used o
 n input line 56.
 (pdftex.def)             Requested size: 212.47617pt x 207.60367pt.
 
-<EXO-14-009/figs/SFExtra/SFSameJetRatioPlot55L.pdf, id=6058, 569.12625pt x 556.
+<EXO-14-009/figs/SFExtra/SFSameJetRatioPlot55L.pdf, id=6067, 569.12625pt x 556.
 0775pt>
 File: EXO-14-009/figs/SFExtra/SFSameJetRatioPlot55L.pdf Graphic file (type pdf)
 
@@ -3969,7 +3963,7 @@ Package pdftex.def Info: EXO-14-009/figs/SFExtra/SFSameJetRatioPlot55L.pdf used
  on input line 71.
 (pdftex.def)             Requested size: 212.47617pt x 207.60367pt.
 
-<EXO-14-009/figs/SFExtra/SFRatioRatioPlot55L.pdf, id=6059, 569.12625pt x 556.07
+<EXO-14-009/figs/SFExtra/SFRatioRatioPlot55L.pdf, id=6068, 569.12625pt x 556.07
 75pt>
 File: EXO-14-009/figs/SFExtra/SFRatioRatioPlot55L.pdf Graphic file (type pdf)
  <use EXO-14-009/figs/SFExtra/SFRatioRatioPlot55L.pdf>
@@ -4005,7 +3999,7 @@ l.85 \clearpage
                 <./EXO-14-009/figs/SFExtra/SFSameJetRatioPlot55L.pdf, page is r
 otated 90 degrees> <./EXO-14-009/figs/SFExtra/SFRatioRatioPlot55L.pdf, page is 
 rotated 90 degrees>]
-<EXO-14-009/figs/SFExtra/tau4221Pt2DData.pdf, id=6337, 569.12625pt x 555.07375p
+<EXO-14-009/figs/SFExtra/tau4221Pt2DData.pdf, id=6346, 569.12625pt x 555.07375p
 t>
 File: EXO-14-009/figs/SFExtra/tau4221Pt2DData.pdf Graphic file (type pdf)
  <use EXO-14-009/figs/SFExtra/tau4221Pt2DData.pdf>
@@ -4013,7 +4007,7 @@ Package pdftex.def Info: EXO-14-009/figs/SFExtra/tau4221Pt2DData.pdf used on in
 put line 96.
 (pdftex.def)             Requested size: 260.17464pt x 253.76164pt.
 
-<EXO-14-009/figs/SFExtra/tau4221Pt2DPythia.pdf, id=6338, 569.12625pt x 555.0737
+<EXO-14-009/figs/SFExtra/tau4221Pt2DPythia.pdf, id=6347, 569.12625pt x 555.0737
 5pt>
 File: EXO-14-009/figs/SFExtra/tau4221Pt2DPythia.pdf Graphic file (type pdf)
  <use EXO-14-009/figs/SFExtra/tau4221Pt2DPythia.pdf>
@@ -4037,7 +4031,7 @@ l.117
        <./EXO-14-009/figs/SFExtra/tau4221Pt2DData.pdf, page is rotated 90 degre
 es> <./EXO-14-009/figs/SFExtra/tau4221Pt2DPythia.pdf, page is rotated 90 degree
 s>]
-<EXO-14-009/figs/SFExtra/tau4221PtProfile.pdf, id=6431, 569.12625pt x 555.07375
+<EXO-14-009/figs/SFExtra/tau4221PtProfile.pdf, id=6441, 569.12625pt x 555.07375
 pt>
 File: EXO-14-009/figs/SFExtra/tau4221PtProfile.pdf Graphic file (type pdf)
  <use EXO-14-009/figs/SFExtra/tau4221PtProfile.pdf>
@@ -4055,7 +4049,7 @@ ed 90 degrees>])
 \openout2 = `EXO-14-009/CSVL-Vs-CSVM.aux'.
 
  (./EXO-14-009/CSVL-Vs-CSVM.tex
-<EXO-14-009/HbbZqqfigs/CSVMLimits/DijetMass.pdf, id=6483, 569.12625pt x 556.077
+<EXO-14-009/HbbZqqfigs/CSVMLimits/DijetMass.pdf, id=6492, 569.12625pt x 556.077
 5pt>
 File: EXO-14-009/HbbZqqfigs/CSVMLimits/DijetMass.pdf Graphic file (type pdf)
  <use EXO-14-009/HbbZqqfigs/CSVMLimits/DijetMass.pdf>
@@ -4063,7 +4057,7 @@ Package pdftex.def Info: EXO-14-009/HbbZqqfigs/CSVMLimits/DijetMass.pdf used on
  input line 12.
 (pdftex.def)             Requested size: 303.53267pt x 296.58638pt.
 
-<EXO-14-009/HbbZqqfigs/Limits/brazilianFlag_Hbb_HbbCombine.pdf, id=6484, 569.12
+<EXO-14-009/HbbZqqfigs/Limits/brazilianFlag_Hbb_HbbCombine.pdf, id=6493, 569.12
 625pt x 546.04pt>
 File: EXO-14-009/HbbZqqfigs/Limits/brazilianFlag_Hbb_HbbCombine.pdf Graphic fil
 e (type pdf)
@@ -4074,7 +4068,7 @@ ine.pdf used on input line 35.
 (pdftex.def)             Requested size: 212.47617pt x 203.85632pt.
 
 <EXO-14-009/HbbZqqfigs/CSVMLimits/brazilianFlag_WZ_high_purityHbbCombineCSVM.pd
-f, id=6485, 569.12625pt x 548.0475pt>
+f, id=6494, 569.12625pt x 548.0475pt>
 File: EXO-14-009/HbbZqqfigs/CSVMLimits/brazilianFlag_WZ_high_purityHbbCombineCS
 VM.pdf Graphic file (type pdf)
 
@@ -4113,7 +4107,7 @@ g_WZ_high_purityHbbCombineCSVM.pdf, page is rotated 90 degrees>])
 
 
 (./EXO-14-009/tauNM.tex
-<EXO-14-009/HqqqqZqqfigs/tauNM/Tau21Pre.pdf, id=6624, 569.12625pt x 555.07375pt
+<EXO-14-009/HqqqqZqqfigs/tauNM/Tau21Pre.pdf, id=6633, 569.12625pt x 555.07375pt
 >
 File: EXO-14-009/HqqqqZqqfigs/tauNM/Tau21Pre.pdf Graphic file (type pdf)
  <use EXO-14-009/HqqqqZqqfigs/tauNM/Tau21Pre.pdf>
@@ -4121,7 +4115,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/tauNM/Tau21Pre.pdf used on inp
 ut line 7.
 (pdftex.def)             Requested size: 212.47617pt x 207.22893pt.
 
-<EXO-14-009/HqqqqZqqfigs/tauNM/Tau21After.pdf, id=6625, 569.12625pt x 555.07375
+<EXO-14-009/HqqqqZqqfigs/tauNM/Tau21After.pdf, id=6634, 569.12625pt x 555.07375
 pt>
 File: EXO-14-009/HqqqqZqqfigs/tauNM/Tau21After.pdf Graphic file (type pdf)
  <use EXO-14-009/HqqqqZqqfigs/tauNM/Tau21After.pdf>
@@ -4129,7 +4123,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/tauNM/Tau21After.pdf used on i
 nput line 8.
 (pdftex.def)             Requested size: 212.47617pt x 207.22893pt.
 
-<EXO-14-009/HqqqqZqqfigs/tauNM/Tau31Pre.pdf, id=6626, 569.12625pt x 555.07375pt
+<EXO-14-009/HqqqqZqqfigs/tauNM/Tau31Pre.pdf, id=6635, 569.12625pt x 555.07375pt
 >
 File: EXO-14-009/HqqqqZqqfigs/tauNM/Tau31Pre.pdf Graphic file (type pdf)
  <use EXO-14-009/HqqqqZqqfigs/tauNM/Tau31Pre.pdf>
@@ -4137,7 +4131,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/tauNM/Tau31Pre.pdf used on inp
 ut line 9.
 (pdftex.def)             Requested size: 212.47617pt x 207.22893pt.
 
-<EXO-14-009/HqqqqZqqfigs/tauNM/Tau31After.pdf, id=6627, 569.12625pt x 555.07375
+<EXO-14-009/HqqqqZqqfigs/tauNM/Tau31After.pdf, id=6636, 569.12625pt x 555.07375
 pt>
 File: EXO-14-009/HqqqqZqqfigs/tauNM/Tau31After.pdf Graphic file (type pdf)
  <use EXO-14-009/HqqqqZqqfigs/tauNM/Tau31After.pdf>
@@ -4145,7 +4139,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/tauNM/Tau31After.pdf used on i
 nput line 10.
 (pdftex.def)             Requested size: 212.47617pt x 207.22893pt.
 
-<EXO-14-009/HqqqqZqqfigs/tauNM/Tau32Pre.pdf, id=6628, 569.12625pt x 555.07375pt
+<EXO-14-009/HqqqqZqqfigs/tauNM/Tau32Pre.pdf, id=6637, 569.12625pt x 555.07375pt
 >
 File: EXO-14-009/HqqqqZqqfigs/tauNM/Tau32Pre.pdf Graphic file (type pdf)
  <use EXO-14-009/HqqqqZqqfigs/tauNM/Tau32Pre.pdf>
@@ -4153,7 +4147,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/tauNM/Tau32Pre.pdf used on inp
 ut line 11.
 (pdftex.def)             Requested size: 212.47617pt x 207.22893pt.
 
-<EXO-14-009/HqqqqZqqfigs/tauNM/Tau32After.pdf, id=6629, 569.12625pt x 555.07375
+<EXO-14-009/HqqqqZqqfigs/tauNM/Tau32After.pdf, id=6638, 569.12625pt x 555.07375
 pt>
 File: EXO-14-009/HqqqqZqqfigs/tauNM/Tau32After.pdf Graphic file (type pdf)
  <use EXO-14-009/HqqqqZqqfigs/tauNM/Tau32After.pdf>
@@ -4165,7 +4159,7 @@ nput line 12.
 LaTeX Warning: Float too large for page by 72.08673pt on input line 19.
 
 
-<EXO-14-009/HqqqqZqqfigs/tauNM/Tau41Pre.pdf, id=6630, 569.12625pt x 555.07375pt
+<EXO-14-009/HqqqqZqqfigs/tauNM/Tau41Pre.pdf, id=6639, 569.12625pt x 555.07375pt
 >
 File: EXO-14-009/HqqqqZqqfigs/tauNM/Tau41Pre.pdf Graphic file (type pdf)
  <use EXO-14-009/HqqqqZqqfigs/tauNM/Tau41Pre.pdf>
@@ -4173,7 +4167,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/tauNM/Tau41Pre.pdf used on inp
 ut line 23.
 (pdftex.def)             Requested size: 212.47617pt x 207.22893pt.
 
-<EXO-14-009/HqqqqZqqfigs/tauNM/Tau41After.pdf, id=6631, 569.12625pt x 555.07375
+<EXO-14-009/HqqqqZqqfigs/tauNM/Tau41After.pdf, id=6640, 569.12625pt x 555.07375
 pt>
 File: EXO-14-009/HqqqqZqqfigs/tauNM/Tau41After.pdf Graphic file (type pdf)
  <use EXO-14-009/HqqqqZqqfigs/tauNM/Tau41After.pdf>
@@ -4181,7 +4175,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/tauNM/Tau41After.pdf used on i
 nput line 24.
 (pdftex.def)             Requested size: 212.47617pt x 207.22893pt.
 
-<EXO-14-009/HqqqqZqqfigs/tauNM/Tau43Pre.pdf, id=6632, 569.12625pt x 555.07375pt
+<EXO-14-009/HqqqqZqqfigs/tauNM/Tau43Pre.pdf, id=6641, 569.12625pt x 555.07375pt
 >
 File: EXO-14-009/HqqqqZqqfigs/tauNM/Tau43Pre.pdf Graphic file (type pdf)
  <use EXO-14-009/HqqqqZqqfigs/tauNM/Tau43Pre.pdf>
@@ -4189,7 +4183,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/tauNM/Tau43Pre.pdf used on inp
 ut line 25.
 (pdftex.def)             Requested size: 212.47617pt x 207.22893pt.
 
-<EXO-14-009/HqqqqZqqfigs/tauNM/Tau43After.pdf, id=6633, 569.12625pt x 555.07375
+<EXO-14-009/HqqqqZqqfigs/tauNM/Tau43After.pdf, id=6642, 569.12625pt x 555.07375
 pt>
 File: EXO-14-009/HqqqqZqqfigs/tauNM/Tau43After.pdf Graphic file (type pdf)
  <use EXO-14-009/HqqqqZqqfigs/tauNM/Tau43After.pdf>
@@ -4226,7 +4220,7 @@ es>])
 \openout2 = `EXO-14-009/appHbbVeto.aux'.
 
  (./EXO-14-009/appHbbVeto.tex
-<EXO-14-009/HqqqqZqqfigs/HbbHww/HighPurity.pdf, id=7079, 569.12625pt x 556.0775
+<EXO-14-009/HqqqqZqqfigs/HbbHww/HighPurity.pdf, id=7089, 569.12625pt x 556.0775
 pt>
 File: EXO-14-009/HqqqqZqqfigs/HbbHww/HighPurity.pdf Graphic file (type pdf)
  <use EXO-14-009/HqqqqZqqfigs/HbbHww/HighPurity.pdf>
@@ -4234,7 +4228,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/HbbHww/HighPurity.pdf used on
 input line 14.
 (pdftex.def)             Requested size: 212.47525pt x 195.13066pt.
 
-<EXO-14-009/HqqqqZqqfigs/HbbHww/HighPurityRatio.pdf, id=7080, 569.12625pt x 556
+<EXO-14-009/HqqqqZqqfigs/HbbHww/HighPurityRatio.pdf, id=7090, 569.12625pt x 556
 .0775pt>
 File: EXO-14-009/HqqqqZqqfigs/HbbHww/HighPurityRatio.pdf Graphic file (type pdf
 )
@@ -4243,7 +4237,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/HbbHww/HighPurityRatio.pdf use
 d on input line 15.
 (pdftex.def)             Requested size: 212.47525pt x 195.13066pt.
 
-<EXO-14-009/HqqqqZqqfigs/HbbHww/LowHPurity.pdf, id=7081, 569.12625pt x 556.0775
+<EXO-14-009/HqqqqZqqfigs/HbbHww/LowHPurity.pdf, id=7091, 569.12625pt x 556.0775
 pt>
 File: EXO-14-009/HqqqqZqqfigs/HbbHww/LowHPurity.pdf Graphic file (type pdf)
  <use EXO-14-009/HqqqqZqqfigs/HbbHww/LowHPurity.pdf>
@@ -4251,7 +4245,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/HbbHww/LowHPurity.pdf used on
 input line 16.
 (pdftex.def)             Requested size: 212.47525pt x 195.13066pt.
 
-<EXO-14-009/HqqqqZqqfigs/HbbHww/LowHPurityRatio.pdf, id=7082, 569.12625pt x 556
+<EXO-14-009/HqqqqZqqfigs/HbbHww/LowHPurityRatio.pdf, id=7092, 569.12625pt x 556
 .0775pt>
 File: EXO-14-009/HqqqqZqqfigs/HbbHww/LowHPurityRatio.pdf Graphic file (type pdf
 )
@@ -4260,7 +4254,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/HbbHww/LowHPurityRatio.pdf use
 d on input line 17.
 (pdftex.def)             Requested size: 212.47525pt x 195.13066pt.
 
-<EXO-14-009/HqqqqZqqfigs/HbbHww/LowVPurity.pdf, id=7083, 569.12625pt x 556.0775
+<EXO-14-009/HqqqqZqqfigs/HbbHww/LowVPurity.pdf, id=7093, 569.12625pt x 556.0775
 pt>
 File: EXO-14-009/HqqqqZqqfigs/HbbHww/LowVPurity.pdf Graphic file (type pdf)
  <use EXO-14-009/HqqqqZqqfigs/HbbHww/LowVPurity.pdf>
@@ -4268,7 +4262,7 @@ Package pdftex.def Info: EXO-14-009/HqqqqZqqfigs/HbbHww/LowVPurity.pdf used on
 input line 18.
 (pdftex.def)             Requested size: 212.47525pt x 195.13066pt.
 
-<EXO-14-009/HqqqqZqqfigs/HbbHww/LowVPurityRatio.pdf, id=7084, 569.12625pt x 556
+<EXO-14-009/HqqqqZqqfigs/HbbHww/LowVPurityRatio.pdf, id=7094, 569.12625pt x 556
 .0775pt>
 File: EXO-14-009/HqqqqZqqfigs/HbbHww/LowVPurityRatio.pdf Graphic file (type pdf
 )
@@ -4296,46 +4290,52 @@ otated 90 degrees> <./EXO-14-009/HqqqqZqqfigs/HbbHww/LowHPurity.pdf, page is ro
 tated 90 degrees> <./EXO-14-009/HqqqqZqqfigs/HbbHww/LowHPurityRatio.pdf, page i
 s rotated 90 degrees> <./EXO-14-009/HqqqqZqqfigs/HbbHww/LowVPurity.pdf, page is
  rotated 90 degrees> <./EXO-14-009/HqqqqZqqfigs/HbbHww/LowVPurityRatio.pdf, pag
-e is rotated 90 degrees>]) (./YongjieThesis.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 53--55
-[]\OT1/cmr/m/n/12 CMS, ``Scheme of a drift tube,'' []$http : / / www . pd . inf
-n . it / []conti / cms /
- []
-
-[178
+e is rotated 90 degrees>]) (./YongjieThesis.bbl [178
 
 
 
 ]
 Missing character: There is no Õ in font cmr12!
 
-Underfull \hbox (badness 5119) in paragraph at lines 82--85
+Underfull \hbox (badness 5119) in paragraph at lines 62--65
 []\OT1/cmr/m/n/12 Quantum Di-aries, ``The hi-er-ar-chy prob-lem: why the higgs 
 has a
  []
 
 
-Underfull \hbox (badness 6188) in paragraph at lines 82--85
+Underfull \hbox (badness 6188) in paragraph at lines 62--65
 \OT1/cmr/m/n/12 snow-balls chance in hell,'' []$http : / / www . quantumdiaries
  . org / 2012 / 07 / 01 /
  []
 
-[179] [180]
-Underfull \hbox (badness 1540) in paragraph at lines 143--145
+[179]
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
+[]\OT1/cmr/m/n/12 CMS, ``Scheme of a drift tube,'' []$http : / / www . pd . inf
+n . it / []conti / cms /
+ []
+
+[180]
+Underfull \hbox (badness 1540) in paragraph at lines 144--146
 []\OT1/cmr/m/n/12 J. Thaler and K. Van Tilburg, ``Iden-ti-fy-ing Boosted Ob-jec
 ts with N-
  []
 
 [181] [182] [183] [184] [185] [186] [187] [188] [189]
-Underfull \hbox (badness 2932) in paragraph at lines 491--494
+Underfull \hbox (badness 2932) in paragraph at lines 496--499
 []\OT1/cmr/m/n/12 D. Pap-padop-ulo, A. Thamm, R. Torre, and A. Wulzer, ``Re-sou
 rces
  []
 
-[190] [191])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 238.
- [192]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 238.
+[190] [191]) [192] [193
+
+]
+Overfull \hbox (23.76186pt too wide) in paragraph at lines 276--276
+[][]\OT1/cmr/bx/n/20.74 Publications and Physics Anal-y-sis Sum-maries
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
+[194]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
  (./YongjieThesis.aux (./preface.aux) (./Introduction.aux)
 (./CMSDetector.aux) (./EXO-12-024/introduction.aux) (./EXO-12-024/analysis.aux)
 (./EXO-12-024/N-subjettiness.aux) (./EXO-12-024/data_and_mc_samples.aux)
@@ -4350,24 +4350,24 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 238.
 (./EXO-14-009/modelParam.aux) (./EXO-14-009/tau42SF.aux)
 (./EXO-14-009/CSVL-Vs-CSVM.aux) (./EXO-14-009/tauNM.aux)
 (./EXO-14-009/appHbbVeto.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 238.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 238.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 297.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 297.
 Package rerunfilecheck Info: File `YongjieThesis.out' has not changed.
-(rerunfilecheck)             Checksum: D9C291D86A9B3AAB33F383BF3AD552B5;5084.
+(rerunfilecheck)             Checksum: C728EBDA2FFBBF32C34C22D22EADC075;5126.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 238.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 297.
  ) 
 Here is how much of TeX's memory you used:
- 9572 strings out of 493117
- 165953 string characters out of 6135433
- 284233 words of memory out of 5000000
- 11974 multiletter control sequences out of 15000+600000
+ 9580 strings out of 493117
+ 166034 string characters out of 6135433
+ 284210 words of memory out of 5000000
+ 11975 multiletter control sequences out of 15000+600000
  22798 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 33i,16n,50p,1054b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 33i,16n,50p,1054b,523s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
@@ -4388,10 +4388,10 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2014/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2014/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on YongjieThesis.pdf (209 pages, 5511699 bytes).
+Output written on YongjieThesis.pdf (212 pages, 5517463 bytes).
 PDF statistics:
- 7638 PDF objects out of 8907 (max. 8388607)
- 4314 compressed objects within 44 object streams
- 531 named destinations out of 1000 (max. 500000)
- 1427 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 7664 PDF objects out of 8907 (max. 8388607)
+ 4337 compressed objects within 44 object streams
+ 538 named destinations out of 1000 (max. 500000)
+ 1435 words of extra memory for PDF output out of 10000 (max. 10000000)
 
